@@ -1,0 +1,1863 @@
+
+
+
+window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=1248;archive_analytics.send_pageview({});});
+
+
+  __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://www.geocities.com:80/emruf1/spitfire.html","20050716081550","http://web.archive.org/","web","/_static/",
+	      "1121501750");
+
+
+
+
+The Spitfire
+
+
+
+
+The Spitfire (1914)
+				"THE SPITFIRE."
+				By Edward H. Peple. 
+			Scenario by B. P. Schulberg. 
+		(Produced by The Famous Players' Film Co.)
+ 
+				CAST.
+ 		Bruce Morson. 
+		Valda Girard. 
+		Marcus Girard. 
+		James Ormond.
+		Tracey. 
+		Beasley.
+		Aunt Mary. 
+		Polly.
+ 
+			SYNOPSIS.
+Bruce Morson, a young American, returning from travels
+in Egypt is robbed of some valuable jewels in a London
+hotel, and chases the thieves to the yacht, "Spitfire," at
+Calais, which the crooks have boarded and taken command
+of under forged orders from its owner, Marcus Girard, who
+is in London. The yacht is just about to sail out of port,
+but by a ruse, Morson manages to get aboard, and promptly
+falls in love with Valda, Girard's pretty daughter, who is
+also a "spitfire."  The crooks tell Valda her father is a
+smuggler, show her the jewels they have stolen, and convince 
+her they are guarding them for her father, and that
+Morson is a customs officer, spying upon her in order to
+trap Girard.  Valda indignantly turns upon the helpless
+Morson, orders him into seaman's costume, and compels
+him to work his passage to New York. On the homeward
+voyage, Morson undergoes many ordeals, both humorous
+and dramatic, and is even finally accused of the theft of
+his own property, before the final denouement, which shows
+the burning of the yacht and the heroic rescue of Valda by
+Morson, who is at last able to right himself, before the
+thieves, and win the woman he loves.
+ 
+                        The Story.
+ 
+LEADER.		BRUCE MORSON, AN AMERICAN ENGINEER,
+		TRAVELS THROUGH EYGPT.
+ 
+Scene  1.	EXTERIOR--DESERT ATMOSPHERE.
+		Sandy road.  Morson and two Egyptian 
+		servants riding along on horseback.  Morson
+		dressed for desert travel, helmet, khaki suit,
+		etc., studying guidebook, surveys scenery, etc.
+ 
+Scene  2. 	EXTERIOR--DESERT.
+		Tent in background.  Little Oriental child in
+ 		foreground, evidently wandered from tent.
+ 		Small band of marauders (6) rush into scene,
+		snatch child off.  Sudden commotion at door of
+		tent.  Men and women run from tent, and from 
+		behind tent, old Sheik snatches rifle, mounts 
+		horse, rides off hastily, few servants following. 
+
+Scene  3.	EXTERIOR--STRETCH OF SANDY ROAD 
+		(SIMILAR TO SCENE 1).
+		Morson registers he has seen theft of child. 
+		Tells servants, urges horse forward, looks again, 
+		snatches rifle, aims carefully--shoots (quick 
+		action in all this)--cut. 
+
+Scene  4.	EXTERIOR--DESERT.
+		Distant view of man with child (dummy) on 
+		horseback in lead--man rolls from horse.
+ 
+Scene  5.	EXTERIOR.
+		Morson and followers riding swiftly to rescue.
+ 
+Scene  6.	EXTERIOR--DESERT.
+		Sheik and followers ride into scene, beating 
+		down marauders.  Child rises unhurt.  Sheik 
+		leaps from horse to child. Morson and servants 
+		join Sheik in finally routing brigands.  Sheik 
+		with son in arms, thanks Morson gratefully. 
+		Cut.
+ 
+LEADER. 	NEXT DAY THE SHIEK SENDS MORSON INVALUABLE 
+		JEWELS AS A REWARD. 
+
+Scene  7.	EXTERIOR--DESERT.
+		Hastily-erected travelers' tent.  Morson sitting 
+		in front of it.  He is making notes, eating food 
+		servants hand him.  Messenger brings him 
+		packet from Sheik, which proves to be valuable 
+		jewels.
+
+Scene  8.	CLOSE UP OF OPENING OF PACKET AND JEWELS.
+
+Scene  9. 	INTERIOR--GIRARD'S WALL STREET OFFICE IN N. Y.
+		Typical broker's office, handsomely furnished. 
+		Girard, prosperous, gray-haired, big gruff man, 
+		busy at desk. Clerks come and go. Activity in 
+		office.  Enter Valda, his daughter, pushing past 
+		clerks, who timorously indicate her father has 
+		said no one must enter.  She approaches desk, 
+		he turns with a scowl, until he sees it is his 
+		daughter, smiles grimly in spite of himself, 
+		then motions her off--too busy for her.  She 
+		stamps foot--wants him to come with her--he 
+		can't, it is out of the question--she picks up hat 
+		from rack, she indicates clock, puts hat on his
+ 		head, tries to drag him off, he resists.
+
+CUT-IN. 	"Your mother was the only woman who could 
+		boss me!" 
+
+		Back to scene. Valda registers little tempest of 
+		rage at being crossed--pounds his desk with 
+		her fist--he does the same, both angry, she 
+		"chip off the old block"--at last she turns and 
+		flounces, almost in tears--he still angry, then 
+		chuckles slowly after door closes, shakes head, 
+		rises, puts on coat and hat, follows her rapidly
+		--he turns at door and gives awful look to 
+		grinning clerks, which stiffens them into 
+		soberness.
+
+LEADER.		THAT EVENING.
+
+Scene 10.	INTERIOR--TYPICAL NEW YORK CLUB ROOM.
+		Girard sitting, smoking, reading--waiter 
+		deferentially lights his cigar--two men walk in, 
+		one of them Ormond, conspicuous for elegance 
+		and suavity. Ormond is introduced to Girard 
+		by the other--the three sit and talk--Girard
+		orders drinks.  Girard seems impressed and
+		interested by Ormond  during conversation. 
+		Girard and Ormond exchange cards--Girard 
+		examines Ormond's card.  Flash card.
+ 
+INSERT. 	(Card): JAMES ORMOND 
+		Pres. International Touring Company, 
+		Offices:  London, Paris and Berlin. 
+
+		Back to scene. Girard registers interest.
+ 		Ormond shows by sinister flickering of eyelids 
+		his triumph in getting personal attention of 
+		the rich man.  After a little talk, they rise 
+		and go out together.
+
+Scene  11.	INTERIOR--ORMOND'S HOTEL ROOM. 
+		Ormond, Beasley, Trainor and Tracey on--by 
+		contrast, Ormond and Beasley are gentlemanly 
+		in every attitude, while Trainor and Tracey 
+		are "rough-necks"--they are seated, grouped 
+		closely together about little center table, 
+		talking very earnestly--register caution when one 
+		raises voice too loud, evidently conspiring--
+		sinister---evidently band of crooks--Ormond 
+		takes Girard's card, passes it to the others--
+		speaks:
+
+CUT-IN. 	"A wealthy capitalist--worth following!" 
+
+		Back to scene.  Others interested--talk 
+		animatedly--Tracey over-serious, takes himself 
+		and his business and the world very seriously,
+		chews cigar solemnly, is rough and positive in 
+		movements, pounds fist on table once, others 
+		silence him--Ormond directs conversation to 
+		Beasley, they agree to something--Beasley 
+		agrees, nods head in reply to Ormond's 
+		instructions.  Cut.
+ 
+Scene  12. 	EXTERIOR--ON PIER.
+		Girard and Valda, accompanied by Ormond, 
+		come into scene. Girard points to trim yacht 
+		in the distance, pointing out its various points. 
+		Ormond again impresses the old man with his 
+		knowledge of yachts and admiration of this 
+		particular one--into launch and off. 
+
+Scene  13.	CLOSE UP OF LAUNCH.
+		Valda, Girard and Ormond talking.  Girard 
+		with mischievous sly look at his daughter, 
+		says:
+
+CUT-IN. 	"I have named the yacht after my daughter!" 
+
+Scene  14.	FULL VIEW OF LAUNCH AND YACHT--
+		With name of "SPITFIRE" plainly printed on 
+		bow of yacht.
+		Valda registers petulant indignation.  Girard
+		turns to Ormond with "I told you so" 
+		expression--laughs. 
+
+Scene  15.	DECK OF YACHT NEAR LANDING STAIRWAY.
+		Girard, Valda and Ormond coming over stairway 
+		to deck. Capt. Larris greets party, speaks 
+		to Girard, in reply to Girard's question as to 
+		how things are going, tells Girard they need 
+		new first mate. Register Ormond's opportunity, 
+		as Girard seems perplexed, speaks: 
+
+CUT-IN.		"If you need a first mate, I know just the man." 
+
+		Girard shakes Ormond's hand.  Glad.  Speaks 
+		to Larris.  Larris nods briefly.  Register that 
+		Larris does not appreciate butting-in of Ormond.
+ 		They stroll out of scene. 
+
+Scene  16.	EXTERIOR--A TENT.
+		Desert exterior.  Morson issued from tent,
+		he and servants finishing loading pack-horse, 
+		and he bids good-bye to servants, gives them 
+		coins which they receive gratefully.  He
+ 		mounts horse, servant leads the other horse 
+		by bridle, other servants all salaam--he and 
+		servant wave farewell salute, he with his hat,
+  		servant with hand--he is leaving the desert, 
+		his face set toward "home." 
+
+Scene  17.	INTERlOR--OFFICE OF GIRARD.
+ 		Girard and Ormond chatting, office empty, 
+		clock points to 5:30.  Enter Valda, very much
+		upset--has little weekly paper in her hand--
+		nods curtly to Ormond as she remembers to 
+		greet him.  Turns to her father angrily.  
+		Begins to speak, glancing rather nervously at 
+		Ormond, who takes cue and strolls to window 
+		standing with hands behind back--pretends
+		not to hear, although listening.  Valda shows
+		father clipping.  Flash clipping.
+ 
+INSERT. 		"TOWN ITEMS." 
+		It has just transpired that a certain New 
+		York capitalist and yachtsman on his return 
+		from Europe found himself in serious 
+		trouble with the customs officers, who 
+		had discovered in his luggage some valuable 
+		jewels, which he said he had "forgotten" 
+		to declare, and which probably were 
+		intended to deck his beautiful daughter, 
+		a popular debutante of the season.
+
+		Girard reads, laughs, shrugs shoulders. Valda 
+		takes it more seriously.  She stamps foot, 
+		tears necklace from neck, throws it on desk
+ 		before him.  Girard gets furious, throws papers
+ 		on floor, pounds desk.  Valda up to door,
+		angry, in tears.  Girard follows her.  Scene
+		at door, during which Ormond slyly picks up 
+		paper, reads, tears out article, slips it in 
+		pocket, throws paper back under desk.  Girard 
+		back to deck after Valda leaves, tries to appear 
+		unconcerned. Cut.
+
+Scene  18.	INTERIOR---ORMOND'S ROOM IN HOTEL.
+ 		Beasley and Ormond on, talking.  Both in 
+		evening dress.  Ormond draws out clipping he 
+		tore from paper, talks about it.  Beasley 
+		interested--nods--Ormond speaks:
+ 
+CUT-IN. 	"You are to be first mate on the 'Spitfire.' 
+		We may need that yacht in our business." 
+
+		Ormond shows Beasley theater tickets (don't 
+		flash).  Beasley smiles broadly.  Both talk, 
+		Beasley agreeing with Ormond.  Ormond and 
+		Beasley go out of room.
+ 
+Scene  19.	INTERIOR--RECEPTION PARLOR--SMALL BUT 
+		BEAUTIFULLY FURNISHED. 
+		Girard, in smoking jacket and slippers, comes 
+		in with Ormond, evidently just from outdoors. 
+		Father sends maid for Valda, and calls 
+		servant, who takes Ormond's stick, hat and
+		gloves.  Father is genial in manner toward 
+		Ormond, who talks pleasantly.  Enter Valda, 
+		who greets Ormond politely, but not effusively.
+ 		He draws theater tickets from pocket and 
+		invites her to theater. She pleads headache. 
+		Father looks at her sternly.  She flashes back
+		at him behind Ormond's back.  Ormond taken 
+		aback and baffled, but smoothly conceals 
+		feelings.  Returns tickets to pocket, sits, talks 
+		entertainingly to Valda, who is bored, but too
+		polite to show it.  Ormond politely draws 
+		Girard into conversation.  Valda takes chance to 
+		plead headache and withdraw, to the chagrin 
+		of both Ormond and her father, though she
+		does it pleasantly.  Cut.
+ 
+Scene  20.	DECK OF THE YACHT.
+		Preparing to leave--crew active. Beasley now 
+		first mate in uniform of "Spitfire," much in
+		evidence.  Register Larris' dislike for the 
+		officious Beasley.
+
+Scene  21.	INTERIOR--VALDA'S ROOM.
+		Valda, father and maid packing; steamer 
+		trunks with traveling clothes, frocks, etc. 
+		Girard fussily superintending with outburst from 
+		Valda  now and then.  Valet assisting
+		and being regularly scolded.  Enter her Aunt
+		Mary and Cousin Polly, who are greeted with 
+		enthusiasm by Valda.  Father and Aunt Mary 
+		register mutual lack of sympathy.  Girard,
+		scowling, leaves.  Polly wild with excitement
+		and curiosity about Valda's prospective trip 
+		to Europe.  She exclaims in envy and Valda, 
+		suddenly getting mischievous idea, turns to 
+		her, asking if they want to go, too.  Polly, 
+		after a moment of silent surprise, turns to 
+		Aunt Mary, begs her. Aunt Mary finally consents.  
+		Polly dances about in joy, hugs aunt 
+		and Valda.  Valda laughs to herself as aunt 
+		and Polly leave in excitement.
+
+Scene  22.	INTERIOR---CLUBROOM (AS IN SCENE 10). 
+		Ormond and friend who previously introduced 
+		him, there with others.  Girard comes in, tells
+		of his coming trip, bids all good-bye, asks 
+		Ormond if he would like to go. Ormond hesitates, 
+		narrows eyes, as though he thinks better 
+		of it (as though plotting) then refuses 
+		politely. All then crowd around Girard, Ormond
+		leading in good-bye toasts.
+ 
+Scene  23.	DECK OF YACHT.
+		Everything in readiness.  Capt. Larris makes
+		last tour of inspection.  Girard comes aboard
+		with luggage carried by valet--very fussy and 
+		very cross--stewards assist him. 
+
+Scene  24.	ORMOND'S ROOM AT HOTEL.
+		Trainor, Tracey and Ormond at door of room. 
+		Ormond giving men final instructions. Gives 
+		each his steamer ticket folded, which they 
+		unfold and examine--nod--he directs them to 
+		meet him later, pointing off--they nod--all
+		out.
+
+Scene  25.	DECK OF YACHT.
+		Girard waiting for Valda. "Late as usual." He 
+		says same to Capt. Larris, who agrees with 
+		him.  "Women are all alike."  Girard paces 
+		deck impatiently, looks at watch, stamps and 
+		swears.  Suddenly he turns and sees Valda 
+		coming up landing stairway followed by Ormond.  
+		Girard registers relief.  She runs to him 
+		and when he reprimands her for her tardiness, 
+		smiles sweetly at him and stepping aside,
+		says:
+
+CUT-IN.		"I forgot to tell you, I've invited Aunt Mary 
+		and Cousin Polly to go to Europe with us!" 
+
+		She steps aside and discloses Aunt Mary puffing 
+		up the stairway followed by the gleeful 
+		and excited Polly.  Girard takes one look.  An 
+		expression of horror comes over his face and 
+		he nearly collapses. Capt. Larris supports him
+		and sees the humor of it, aside.  Aunt Mary
+		looks sternly at the hapless Girard.  During 
+		this business Ormond walks out.  Cut. 
+
+Scene  26.	ANOTHER SECTION OF BOW AROUND BOAT.
+		Out of sight of others, Beasley on, giving 
+		instructions to sailors.  Ormond comes on, talks 
+		to Beasley hurriedly and earnestly.  Beasley
+		registers he understands.  Ormond returns to
+
+Scene  27.	SAME AS SCENE 25 (DECK OF YACHT). 
+		Bids all good-bye and hastily off.
+ 
+Scene  28.	BOW OF DECK.
+		Final casting off, and raising of anchor. 
+
+Scene  29.	INTERIOR--CORNER OF SMOKING ROOM ON YACHT.
+		Near buffet.  Girard with look of despair, 
+		takes huge drink of whisky, downs it at one 
+		gulp.
+
+Scene  30.	EXTERIOR--PIER.
+		Ormond waiting, looking toward yacht--sees 
+		it steam off, looks a moment, hastily turns, 
+		runs off.
+
+Scene  31.	EXTERIOR--STREET NEAR PIER. 
+		Ormond hails taxi--jumps in after giving 
+		direction to chauffeur.  Off.
+
+Scene  32.	EXTERIOR--GANGPLANK OF OCEAN LINER.
+		Ormond runs hastily up, the grinning faces of
+ 		Trainor and Tracey peering at him over the
+		rail.
+ 
+LEADER.		MORSON ARRIVES IN LONDON. 
+
+Scene  33.	EXTERIOR--LONDON HOTEL.
+		Bruce Morson arrives at entrance with luggage
+		--looks around with pleased expression. 
+		Glad to be back in civilization. Uniformed 
+		attendant comes forward for luggage.  He goes 
+		in.
+
+Scene  34.	EXTERIOR--STRETCH OF OCEAN. 
+		The yacht and ocean liner, liner in lead, both 
+		moving in same direction. 
+
+		End of reel one.
+  
+			"THE SPITFIRE." 
+
+				Reel Two.
+ 
+Scene  35.	EXTERIOR. CAFE.
+		Ormond and Tracey at side table, and few 
+		others in groups at tables.  Morson and friend 
+		come in, sit at table, order drinks. Morson
+		peels bill from large roll, pays for drinks. 
+		Ormond gets glimpse of bills. Tracey, seeing, 
+		tugs at Ormond's sleeve, with bulging eyes. 
+		Ormond, always the controlled master crook, 
+		calms him sternly, but moves his chair back 
+		a little to hear Morson talk.   Ormond's back 
+		is toward Morson, in response to friend's 
+		questions Morson tells of his experience with the
+		Sheik in Egypt.  As he talks fade out into
+  
+Scene  36.	SAME AS SCENE 3. 
+		Quick flash.
+
+Scene  37.	SAME AS SCENE 4. 
+		Quick flash.
+
+Scene  38.	SAME AS SCENE 6. 
+		Quick flash.
+
+Scene  39.	SAME AS SCENES 7 AND 8. 
+		Fade out into 
+
+Scene  40.	SAME AS SCENE 36.
+ 		At finish of the narrative, Morson half pulls 
+		out jewel case from pocket with: 
+
+CUT-IN. 	"And so he gave me these jewels." 
+
+		Morson, with half look around, suddenly 
+		remembers he is in a public place and puts back 
+		jewels.  Ormond indicates intense interest, but 
+		has to quiet Tracey, who is now nearly crazy 
+		with covetous greed.  Morson and friend rise
+		and go out.  Ormond and Tracey rise, Tracey 
+		rising so quickly that he knocks over
+		chair, nearly ready to run after Morson.  
+		Ormond pulls Tracey back sternly. They go out, 
+		affecting casual indifference.
+
+Scene  41.	SAME AS SCENE 33, EXTERIOR. MORSON'S HOTEL.
+		Morson arrives and goes in.  Ormond and
+		Tracey follow cautiously, as though they have 
+		been shadowing at a distance.
+ 
+LEADER. 	"714, PLEASE." 
+
+Scene  42.	INTERIOR, HOTEL LOBBY.
+		Morson comes into scene, goes to desk and 
+		gets key.  Tracey walks casually past desk in 
+		time to catch number, turns and walks out,
+		as Morson walks toward elevator.  Cut. 
+
+Scene  43.	EXTERIOR, HOTEL (SAME AS SCENE 41). 
+		Tracey out, rejoins Ormond, tells number; 
+		both off; Tracey excited. 
+
+Scene  44.	EXTERIOR, HARBOR.
+		Spitfire steaming into harbor, city in distance. 
+
+Scene  45.	EXTERIOR, UPPER DECK OF SPITFIRE. 
+		Valda, Aunt Mary and Polly looking over rail
+		toward city.  Valda explaining to the excited
+		party, marine glasses in use, etc. 
+
+Scene  46.	INTERIOR, SMOKING ROOM.
+		Beasley cautiously writing, occasionally 
+		looking over shoulder.  Flash telegram:
+
+INSERT.
+		James Ormond, 
+			Hotel Cecil, 
+				London.
+
+		Arrived at Calais, dropped Girard and 
+		valet at Liverpool; old man will be tied 
+		up with business deal in London for ten 
+		days and is stopping at Hotel Ritz. 
+		Await further instructions from you.
+
+					BEASLEY. 
+
+		Finishes writing, folds paper, puts in pocket. 
+		Cut.
+ 
+Scene  47.	INTERIOR, ENGLISH HOTEL ROOM 
+		(HANDSOMELY FURNISHED).
+ 		Girard fuming, as usual, valet unpacking and 
+		panic-stricken.  Cut.
+
+Scene  48.	EXTERIOR, PIER--SUPPOSEDLY AT CALAIS.
+		Launch lands, Aunt Mary, Polly and Valda 
+		exit from launch and scene, with individual
+		business.  Aunt Mary nervous.
+
+Scene  49.	INTERIOR. ORMOND'S ROOM IN LONDON 
+		HOTEL--RATHER WELL-FITTED ROOM. 
+		Discovered Ormond, smoking and planning, 
+		narrowed eyes, uniformed boy brings telegram
+		on tray.  Ormond takes message, tips boy, 
+		reads, nods, dismisses boy, then studies 
+		telegram.  Flash (London receiving blank).
+ 
+INSERT.		WIRE WRITTEN BY BEASLEY IN SCENE 46. 
+		Ormond registers approval, knock on door. 
+		Trainor and Tracey arrive.  Ormond instinctively 
+		conceals wire until he sees who they are. 
+		Three talk and plan. Trainor is crook of lowest 
+		type.  Tracey "rough-neck" sport, still
+		chewing cigar.  Tracey and Trainor lounge 
+		about in characteristic attitudes.  When Ormond 
+		shows wire they become keen and alert 
+		and businesslike. All heads together. Ormond 
+		outlines action:
+
+CUT-IN.		"When the job is done, make for Calais and 
+		meet me on the 'Spitfire.'"
+
+ 		Tracey and Trainor excited and eager.  All 
+		leave.
+
+Scene  50.	EXTERIOR, STREET--TINT NIGHT. 
+		Ormond, Tracey and Trainor come on.  Ormond 
+		gives last direction and leaves, Ormond 
+		going in opposite direction from others.
+
+Scene  51.	INTERIOR, GIRARD'S ROOM HOTEL--
+		LIGHTS--NIGHT (SAME AS SCENE 47).
+ 		Girard, changing shoes, excited. Valet becomes 
+		nervous.  As valet hands Girard shoe he drops
+		it on his stockinged foot.   Girard in rage and
+		pain, picks up shoe and hurls it at valet, 
+		evidently striking him in the face; valet puts 
+		hand to face.  Girard commands him to bring
+		the shoe.  Valet brings shoe with one hand,
+		guarding his face with the other.  Girard 
+		snatches shoe, puts it on, slaps on hat and goes
+		out of room with a final impression.  Valet
+		shakes fist toward closed door, really dares to 
+		be a man in Girard's absence.
+
+Scene  52.	EXTERIOR, HOTEL (IMPOSING)--ENTRANCE 
+		AS ENGLISH AS POSSIBLE. 
+		Girard comes out. Ormond, who has been 
+		cautiously watching in background, hat pulled 
+		over eyes, now comes forward and goes, into
+		hotel.
+
+Scene  53.  	INTERIOR, LOBBY IN MORSON'S HOTEL 
+		(SAME AS SCENE 42).
+		Tracey and Trainor in--up to desk--speaks 
+		to clerk:
+
+CUT-IN.		"We are friends of Mr. Morson's and would 
+		like the room next to his." 
+
+		Clerk looks at his list of vacant rooms, nods, 
+		calls front, gives key, they register, and off. 
+
+Scene  54.	INTERIOR, CORRIDOR IN HOTEL--TWO 
+		DOORS SHOWING IN ROW--714 AND 716.
+ 		Bellboy, Trainor and Tracey come to room
+ 		716--bellboy inserts key in lock.  Cut. 
+
+Scene  55.	INTERIOR, HOTEL ROOM OF GIRARD 
+		(SAME AS SCENE 51).
+ 		Ormond enters and is greeted with pleased 
+		surprise by valet.  Ormond asks valet about black 
+		eye.  Valet explains, tells his troubles.  Ormond 
+		sympathizing. Ormond gives valet cigar, 
+		sits, motions valet to sit;  valet shows he is 
+		pleased and flattered by Ormond's condescension.  
+		Sits awkwardly.  Ormond begins to talk 
+		earnestly.  Cut.
+
+Scene  56.	INTERIOR, MORSON'S ROOM IN HOTEL. 
+		Morson prepares to retire, opens window 
+		wider, takes jewels out of belt case, putting them 
+		under pillow (they are in soft chamois bag). 
+		Morson starts undressing, takes off collar. 
+		Cut.
+ 
+Scene  57.	INTERIOR, GIRARD'S ROOM IN HOTEL. 
+		Continuation of conversation between Ormond 
+		and valet. Valet now on Ormond's side, listening 
+		eagerly.  Ormond gives valet bills, which 
+		valet takes gloatingly.  Ormond rises: 
+
+CUT-IN.		"Remember, if any telegrams arrive from 
+		Calais for Mr. Girard, you are to read and 
+		answer them as I have instructed." 
+
+		Valet nods with many assurances that he will
+		do as told.  Ormond smiles, pats bim on back. 
+		A monogramed cigar case of Girard's is on 
+		dresser--as he turns, Ormond sees it--thinks--
+		he decides to ask for it--valet at first 
+		hesitates, then gives it to him--he goes out, 
+		smiling in sinister fashion--valet gloats over
+		money.
+
+Scene  58.	INTERIOR--MORSON'S ROOM (AS IN SCENE 56).
+		Morson, in pajamas, puts hand up to turn out
+		light.  Cut to
+ 
+Scene  59.	INTERIOR--CORRIDOR OUTSIDE ROOMS 
+		714 AND 716 (AS IN SCENE 54)
+		No light in 716, door slightly ajar, hall dimly 
+		lighted.  Tracey's face in door of 716, peering 
+		cautiously out toward 714.  The light that 
+		shows over transom of 714 suddenly goes out. 
+		Look of satisfaction on Tracey's face as he 
+		disappears into darkened room 716 again. 
+
+Scene  60.	EXTERIOR--R. R. STATION--NIGHT. 
+		Ormond pacing platform impatiently waiting 
+		for Dover train (suggestion, sign in vicinity 
+		of platform, "Train for Dover--time, etc."). 
+
+Scene  61.	EXTERIOR--SHOWING WINDOW--MOONLIGHT
+		--SHOWING WINDOW LEDGES ADJOINING, 
+		SO THAT ONE WINDOW CAN BE REACHED 
+		FROM THE OTHER--DEEP LEDGES, ETC.
+		The figure of Trainor, with dark lantern, 
+		mask, revolver, etc., from his window L. to 
+		R. window, makes journey with difficulty, 
+		registering peril, caution and fear; he 
+		reaches the other window, begins to enter, 
+		Tracey follows, starting from L. window in same 
+		manner.  Cut.
+
+Scene  62.	INTERIOR--MORSON'S ROOM (AS IN 
+		SCENE 56) ROOM ALMOST IN TOTAL 
+		DARKNESS--ONLY WEAK SHAFT OF
+		LIGHT IN TRANSOM, COMING FROM
+		LIGHT IN CORRIDOR.
+		Trainor comes through window with lantern, 
+		flashes light about room, throws it on Morson's 
+		sleeping face, quickly off again, his shadowy 
+		form approaches bed, seen in light which he 
+		has placed on table.  He takes bottle from 
+		pocket, saturates handkerchief, puts over 
+		Morson's face--at this point Tracey comes through 
+		window--light now increased by two lanterns. 
+		Morson stirs.  Tracey quickly searching for 
+		jewels, feels under pillow, flashing light on it, 
+		pulls out jewel bag--registers triumph--Morson 
+		rouses in spite of chloroform, jumps up 
+		while he is struggling with Trainor, Tracey 
+		runs with jewels to window and clambers out. 
+		Trainor hits Morson over head with revolver. 
+		Morson staggers back against the bed an instant,
+ 		but recovers, dashes blood from eyes and 
+		rushes after Trainor as he reaches window, 
+		pulling him back into room by leg--desperate 
+		struggle with intermittent darkness and
+		gleams from the lantern. Cut.
+
+Scene  63.	EXTERIOR--NIGHT--IN FRONT OF MORSON'S HOTEL.
+		Tracey out, fearfully and quickly hurries out 
+		of scene.
+
+Scene  64.	INTERIOR--MORSON'S ROOM.
+		Morson tying Trainor in chair. Morson turns 
+		up light and reveals Trainor trussed in chair 
+		and looking as though he had had far the
+		worst of the combat.  Morson eyes Trainor
+		contemptuously and then wipes away blood 
+		from his own forehead, goes to bed, searches 
+		for jewels, goes to Trainor, searches him, asks 
+		where they are.  Trainor doggedly refuses
+		to tell.  Morson sees the other lantern, points
+		to it, and to window, asks him where his partner 
+		is--again Trainor sullenly shakes his head 
+		won't talk.  Trainor registers he is uncomfortable, 
+		wants to be unbound.   Morson refuses.  
+		Trainor must stay as he is tell he decides 
+		to tell.  Trainor writhes in discomfort, 
+		but Morson sits calmly on bed, lights cigarette 
+		nonchalantly and waits.
+
+LEADER. 	DAWN.
+
+Scene  65.	EXTERIOR--PIER AT CALAIS (SAME AS 
+		SCENE 48)--"SPITFIRE" LITTLE OFF IN 
+		HARBOR.
+		Ormond arrives at pier, registers recognition 
+		of the yacht, and success--gets into launch at 
+		pier, tells man in charge to make for yacht in 
+		distance.
+ 
+LEADER. 	TRAINOR TALKS.
+
+Scene  66.	INTERIOR--MORSON'S ROOM.
+		Continuation of scene 64.  Morson now clad
+		in shirt and trousers, sits on edge of bed, still
+		smoking calmly.  Trainor, head drooped, 
+		exhausted from the all-night confinement in his 
+		bonds to chair, all in. Morson asks him if he's 
+		ready to talk.  Trainor hesitates, then nods 
+		emphatically--he is.  He talks rapidly.  Morson 
+		now interested and alert, leans forward, 
+		listens, rings bell, into hat and coat, opens 
+		door, bellboy in-doorway.  Morson  quickly 
+		speaks to him, pointing to trussed figure of 
+		Trainor in chair. Bellboy is left standing in 
+		open-mouthed astonishment as Morson rushes 
+		past him and out.
+
+			End of reel two.
+ 
+ 
+  
+			"THE SPITFIRE."
+
+			Reel Three.
+ 
+Scene  67.	EXTERIOR--DECK  OF  YACHT--DAWN TINT.
+ 		Beasley and Larris on deck--register attempt 
+		at conversation by Beasley--discouraged by 
+		Larris, who is gruff.  Larris walks away, reads
+ 		telegram with worried expression. Flash 
+		(telegram from Girard to Larris): 
+
+INSERT		Capt. Larris, 
+			Aboard Spitfire, 
+				Off Calais.
+		Mr. James Ormond to take full charge
+		--reach New York by twentieth.  Fly 
+		private signals and cruise off Sandy 
+		Hook till further orders.  Drive her 
+		as hard as hell will let you.
+				MARCUS GIRARD. 
+
+		Beasley looks over rail, sees Ormond approaching 
+		in launch, speaks to Larris after indicating 
+		interest and delight.  Indicates to Larris
+   		that Ormond is intending to board yacht. 
+		Larris surprised.
+
+Scene  68.	EXTERIOR--LAUNCH ON WATER APPROACHING YACHT.
+		Ormond signals Beasley.  Launch reaches
+		yacht, Ormond climbs up stairway. 
+
+Scene  69.	INTERIOR--VALDA'S CABIN.
+		Valda sleepy, in kimona, sitting at dressing-
+		table combing hair. Polly runs in in negligee, 
+		wide awake, chattering.  Valda answers her. 
+		Polly admires Valda's hair, takes comb, starts 
+		to comb.  Valda smiles, suddenly Polly comes 
+		to a snarl, pulls hair accidentally.  Valda 
+		jumps up in rage, takes comb away, makes 
+		face of pain.  Polly overcome by Valda's scolding 
+		and remorse at hurting her cries babishly. 
+		Valda immediately becomes good natured and 
+		comforts Polly. 
+
+Scene  70.	DECK OF YACHT.
+		Ormond on board, greeted by Beasley and Larris.   
+		Larris polite, but not deferential, rather 
+		puzzled by Ormond's presence.  Ormond produces 
+		telegram.  Larris reads.  Flash telegram:
+
+INSERT.		James Ormond,
+			Hotel DuBois, 
+				Calais, France.
+		"Spitfire" in port, just off mole--clears 
+		this afternoon.  Tracey will meet you in
+ 		time.  Go on board and take full charge
+ 		of sailing directions and anchorage.
+                  		MARCUS GIRARD. 
+
+		Larris looks angry and puzzled.  Returns 
+		telegram to Ormond, looks as though he places
+ 		little credence in its authenticity.  Larris paces
+ 		deck, hands in pockets or behind back, lost in
+		thought, undecided, wondering. Ormond waits, 
+		anxious, but affecting calm, and retaining self-
+		possession.  Larris gets idea.  Sends steward
+		down to call Valda. Cut. 
+
+Scene  71.	INTERIOR VALDA'S ROOM.
+		She and Polly chatting, as in scene 69--
+		steward knocks, is told to come in--stands in 
+		doorway and gives message to Valda--captain
+		wants her on deck.  Valda rises, wondering. 
+		Polly very much excited.  Valda calms her 
+		with little shake. Valda hastily gets into long 
+		steamer coat, throws cape to Polly. Girls out.
+ 
+Scene  72.	EXTERIOR--DECK OF YACHT.
+		Larris and Ormond still discussing wire.  
+		Ormond calm and imperturbable. Larris angry
+ 		and disturbed, arguing.  Beasley watching
+		with a smile. Valda comes on quickly, 
+		followed by Polly. Stops short when she sees
+		and recognizes Ormond.  Girls embarrassed, 
+		quickly pull long coats around them to hide
+		negligee. Aunt Mary enters and witnesses
+		scene. Larris explains situation to Valda.
+ 		She looks puzzled and Ormond politely hands 
+		her the telegram. She glances at it, looks 
+		puzzled again.  Ormond steps forward--speaks: 
+
+CUT-IN.		"I am acting as your father's agent on a 
+		private business matter." 
+
+		Valda accepts the explanation as sufficient--
+		pouts a little--turns to captain, questions him. 
+		Reluctantly the captain pulls out his own wire, 
+		shown in previous scene (67).  Aunt Mary 
+		shocked at father's profane wire.  Valda 
+		laughs, recognizes father's profanity.  She is 
+		then completely convinced.  Valda introduces 
+		aunt and Polly.  They are rather stiff. Valda 
+		and the captain are at one side talking, Valda 
+		telling  Larris  she  knows  Ormond  socially,
+		vouching for him.  Polly watches them open-
+		eyed, the scene is altogether too exciting and 
+		puzzling for her.  Beasley and Ormond are off 
+		to one side, exchange quick word or two and 
+		meaning glances.  Captain nods to Valda, 
+		walks away, slowly and thoughtfully. Valda 
+		and Polly excuse themselves, go down to dress.
+ 
+Scene  73.	FLASH OF BRIDGE.
+		The captain stands at bridge undecided, makes 
+		up his mind, stands a moment undecided then 
+		makes resolve.  Walks away quickly. 
+
+Scene  74.	INTERIOR--WIRELESS ROOM IN THE YACHT.
+		Operator at table, apparatus, etc. Larris 
+		comes in, gives instructions, operator nods, 
+		busies himself in sending messages. 
+
+Scene  75.	EXTERIOR--DECK OF YACHT.
+		Tracey climbs on yacht by landing stairway. 
+		Ormond greets him.  Introduces him to 
+		captain.   Tracey's jovial, over-friendly manner 
+		disgusts the dignified Captain Larris, who 
+		repels his advances coldly, looks meaningly at 
+		the two and turns his back--walks off.
+  
+Scene  76. 	INTERIOR--GIRARD'S ROOM IN HOTEL SAVOY.
+		Boy brings in captain's wire to Girard, valet 
+		signs, pays, smiles, indicates this is one he 
+		is to handle.   When boy goes he opens and
+ 		reads.  Flash wire.
+ 
+INSERT.		TRANSCRIPT OF WIRELESS. 
+		Marcus Girard, 
+ 			Hotel Ritz, 
+				London.
+ 		Are James Ormond's orders from you to 
+		take full charge of "Spitfire" and sail at 
+		once to New York authentic?
+					LARRIS. 
+
+		Valet reads, grins, then starts to write with 
+		glee, followed by fear and trembling, as he 
+		thinks what might happen if caught.  Cut. 
+
+Scene  77.	EXTERIOR--DECK OF YACHT.
+		Larris, Beasley, Ormond, Tracey, Valda, Polly 
+		and aunt, in two or three groups about deck. 
+		Ormond and Tracey stroll away from scene into 
+
+Scene  78.	INTERIOR--SMOKING ROOM.
+		Ormond glances round, makes sure of privacy,
+		quickly questions Tracey--Tracey nods with 
+		importance, hand goes to pocket, draws out 
+		chamois bag of Morson's jewels--at this moment 
+		door opens--both men start--it is Beasley, 
+		who smiles at their nervousness--Tracey, 
+		when door is closed, again takes jewels from 
+		pocket--Beasley's eyes light up, involuntarily 
+		puts out hand.  Ormond calmly waves him off 
+		takes the jewels from Tracey himself, who is
+ 		reluctant to part with them.  Ormond asks
+ 		for Trainor, Tracey makes gesture, "all in,"
+ 		describes flight and capture.  Ormond 
+		thoughtful, registers worry--Ormond draws out 
+		Girard's cigarette case from pocket, puts jewels 
+		in it--men admire case.
+
+Scene  79.	CLOSE UP OF CASE, FINGER POINTING MONOGRAM.
+
+Scene  80.	WIRELESS ROOM, AS IN SCENE 74. 
+		Captain Larris standing by operator--then 
+		paces floor, waiting answer to his message--
+		light flickers, operator gets message, writes it 
+		out, smiles as he gets it--hands it to Larris, 
+		who reads. Flash message:
+ 
+INSERT.		Capt. Larris, 
+			Spitfire,
+ 				Off Calais.
+ 		Mind your own business, or you'll have 
+		no business to mind! 
+				MARCUS GIRARD.
+ 
+ 		Larris finishes reading--crumples wire--
+		exclamation of profane disgust, but convinced
+ 		of its authenticity--operator chuckles.  Larris
+ 		off.
+
+Scene  81.	EXTERIOR--DECK OF YACHT.
+		Captain Larris appears and tells Valda of wire 
+		from father--pulls out message and shows it 
+		to Valda, who laughs heartily.  Aunt Mary
+ 		registers cold disapproval of it all.  Larris
+ 		very much annoyed, as Ormond registers calm 
+		triumph--others walk away, leaving Larris 
+		scratching chin thoughtfully.
+
+CUT-IN.		"I wish I could wake up and find I was drunk." 
+
+		Shoves hands in pockets, hunches shoulders, 
+		strides moodily down deck.
+
+Scene  82.	EXTERIOR--ANOTHER PORTION OF DECK 
+		Larris and Beasley on, giving hurried directions 
+		to sailors to cast off.  Great activity. 
+
+Scene  83.	EXTERIOR--PIER AT CALAIS.
+		Morson quickly on, breathlessly, sees yacht in
+		distance--questions man in uniform, man nods 
+		--Morson registers delight--it is the "Spitfire," 
+		the yacht of which Trainor has told him--he 
+		wipes his forehead, pushes hat back--shows 
+		relief.
+
+Scene  84.	EXTERIOR--CLOSE UP QUICK PLASH OF
+		PULLING UP "SPITFIRE'S" ANCHOR. 
+		Ormond, Beasley and Tracey register nervous 
+		relief and gladness.
+ 
+Scene  85.	EXTERIOR--PIER AT CALAIS (SAME AS SCENE 84).
+		Morson, with dismay, sees "Spitfire" steam 
+		slowly off--a moment of indecision and he 
+		rushes to the piermaster and points to yacht, 
+		imperative that he catch it--men hastily hoist 
+		signal flags on pole at end of pier. 
+
+Scene  86.	EXTERIOR--DECK OF YACHT, SHOWING 
+		PORTION OF BRIDGE.
+		Captain Larris on bridge, with glasses, registers 
+		he sees signals, runs down ladder--tells 
+		Ormond, points to flags on pole--Ormond
+ 		shakes head--pay no attention--Larris registers 
+		they must stop.  Tracey shows comic despair.  
+		Ormond indicates his instructions from 
+		Girard, must go.  Larris glares at him angrily. 
+
+Scene  87.	EXTERIOR--PIER.
+		Morson desperate, yacht further off in the 
+		harbor.  Morson suddenly conceives idea, makes
+ 		negotiations with tugmaster.  Points to yacht. 
+		Talks to tugmaster, rehearses plan, tugmaster 
+		laughs; is tempted by roll of bills Morson 
+		shows, nods, agrees--hastily orders tug out. 
+		Morson aboard.  Off.
+
+Scene  88.	EXTERIOR--DECK OF YACHT.
+		All on--girls excited and gleeful.  Aunt Mary 
+		struggling with voluminous yells, blown by
+ 		the wind.  Ormond doing the gallant--talking 
+		to girls.  Valda suddenly sees the tug, points,
+ 		Polly stares excitedly.  Tug can be seen not
+ 		far off, men can be seen struggling on the 
+		deck of tug-boat near rail--all run to rail of 
+		yacht, look toward tug, registering excited 
+		interest.
+
+Scene  89.	CLOSE UP OF TUG.
+		Tug-boat crew lift the struggling Morson, and 
+		throw him overboard.
+ 
+Scene  90.	EXTERIOR--DECK OF YACHT.
+		All see Morson thrown overboard.  Larris 
+		orders ship to stop and boat to be lowered.  
+		Ormond steps forward and stops him--tells 
+		Larris to go straight ahead--gasp of horror from 
+		all.   Larris remonstrates, the man is drowning.  
+		Ormond reminds him forcibly that he is 
+		commanding the yacht.  Morson can be seen 
+		struggling in water, evidently drowning--Valda 
+		looks at Ormond in horrified displeasure, 
+		surprised at lack of humanity.  She takes 
+		command herself, turns to Captain Larris and
+ 		tells him to stop the boat.  Larris obeys her
+ 		command with alacrity. Ormond, Tracey and 
+		Beasley register chagrin.  Captain gives 
+		directions to pilot, boat is lowered--swings off to
+		rescue Morson. Beasley and four sailors get
+		into the boat. Valda leaves Ormond with a
+		frown and goes to bridge, looking on through 
+		glass.   Aunt Mary covers her eyes in fear. 
+		Excitement from Polly.
+
+Scene  91.	CLOSE UP OF MORSON IN WATER. 
+		Life-boat reaches him, men haul him in.
+ 
+Scene  92.	EXTERIOR--DECK OF YACHT.
+		All press against rail except Ormond and
+		Tracey, who register disgust. 
+
+Scene  93.	CLOSE UP OF DECK.
+		Lifeboat being hoisted up to rail--crew and 
+		Beasley clamber over rail, bringing with them 
+		the wet and shivering Morson--Valda comes 
+		forward with exclamation of pity.  Morson 
+		throws hair back out of eyes, looks admiringly 
+		at Valda, then bows gratefully and gallantly 
+		over her hand. Both register instant admiration 
+		and the romance to come.  Polly clasps 
+		hands romantically, and gazes at Morson 
+		adoringly.  Tracey, horror-stricken when he 
+		recognizes Morson, excitedly pulls at Ormond's coat, 
+		and tells him Morson is the man they robbed:
+ 
+CUT-IN.		"Trainor has squealed!" 
+
+		Tracey quickly and excitedly telling Ormond, 
+		who silences Tracey, and is tense in thought, 
+		planning quickly.  Valda points to Morson's 
+		clothing, speaks to Beasley, who is watching 
+		Tracey and Ormond in troubled  anxiety. 
+		Beasley rouses with start, takes Morson with 
+		him.  Morson turns and bows deeply to Valda, 
+		who stands looking after him admiringly. 
+		Polly comes up and tries to get a look at 
+		retiring Morson, dodging from one side of Valda 
+		to the other.  Valda turns and catches her. 
+		Gives her blank look.  Cut.
+
+Scene  94.	INTERIOR--GIRARD'S ROOM AT HOTEL. 
+		Valet, repentant, horrified, abject figure of
+ 		woe, hastily packing to make his getaway before 
+		Girard arrives.  Worried and frightened, 
+		he grasps valise, shoves hat on head, runs out. 
+
+Scene  95.	INTERIOR--SMOKING ROOM OF YACHT. 
+		Ormond, Beasley and Tracey conspiring best 
+		way out. Ormond thoughtful, suddenly draws 
+		out clipping of scene 17--flash clipping--
+		Ormond points to it, says he has way out. Tracey
+		relieved and interested.  Heads close together. 
+		Ormond draws out cigar case of jewels, taps
+ 		it, explains his plan--Ormond goes out,  
+		followed by others.
+
+Scene  96.	INTERIOR--MAIN SALON.
+ 		Valda dreamily thinking of Morson--knock, she 
+		says "Come"--Ormond enters, approaches a 
+		little uncertain of his welcome.  Valda turns 
+		and greets him coldly. Picks up magazine, 
+		ignores him.  Ormond begins to talk eagerly. 
+		She finally listens, impressed by his earnestness.  
+		While Valda is listening, Tracey enters. 
+		Valda motions Ormond to keep quiet, indicating 
+		Tracey.  Ormond says it is all right--goes
+		on:
+
+CUT-IN.		"Your rescued gentleman is a customs officer. 
+		He boarded the yacht by a trick to trap your 
+		father, who has placed some undeclared jewels 
+		in our trust." 
+
+		Tracey nods corroboratively, and stares at 
+		Ormond in admiration. Valda springs in 
+		astonishment and anger.  Ormond slowly draws 
+		clipping of scene 95 from pocket, hands it to 
+		Valda gravely.  Valda reads, bites lips, sits, 
+		taps foot--registers dismay and apprehension. 
+		She asks to see jewels.  Ormond, prepared,
+ 		readily draws out cigar-case, handing it to 
+		her.  She recognizes monogram of father, 
+		starts, is becoming convinced, empties jewels, 
+		examines. Cut.
+
+Scene  97.	EXTERIOR--BEASLEY'S CABIN.
+		Morson comes out.  Morson is in first 
+		mate's dress uniform, looking very spick and 
+		span and handsome--lights cigarette,
+ 		meditates, saunters away, musing.
+
+Scene  98.	INTERIOR--CONTINUATION OF SCENE 96. 
+		Valda is putting jewels back into bag and case. 
+		Morson walks past window outside.  They see
+ 		him.  Valda half rises, looking toward him. 
+		Ormond sees him, indicates--
+
+CUT-IN.		"He plays on women's sympathies with a story 
+		of having come from Egypt with a fortune in 
+		jewels, and being robbed in a London hotel by 
+		masked burglars!"
+
+ 		Valda registers indignation at Morson.  She
+ 		will be on her guard.  She calmly puts jewel 
+		case in her hand-bag, telling Ormond she will 
+		take care of them. Ormond bites his lips, with 
+		frown, Tracey makes a grab, but is restrained 
+		by Ormond, who makes the best of the situation.   
+		Valda rises and goes out, followed by
+ 		Tracey and Ormond who exchange meaning 
+		looks, Tracey shaking head in worry. 
+
+Scene  99.	EXTERIOR--PORTION OF DECK. 
+		Valda walks on thoughtfully, sits in steamer
+ 		chair--meditates, Morson in distance sights
+ 		her, comes eagerly toward her.  She looks up
+		as he approaches, cool, but can't resist 
+		interest in him.  At his stopping by her side, she
+ 		casually shifts handbag to opposite side from
+ 		him--this business all through scene.  He
+ 		takes off cap and stands with bared head, 
+		thanking her for her aid in his "accident." 
+		She coolly deprecates his gratitude. He is a
+ 		little dashed, but persistent.   He asks if he
+ 		may sit. She nods. He comes around to her 
+		other side and takes steamer chair.  She 
+		shifts bag to the opposite side of chair, a
+ 		little fearfully, and clutches it nervously.  He
+ 		sits and talks.  The rug comes loose from
+ 		her feet.  He stoops gallantly and fixes it 
+		tenderly.   She draws the bag up out of his 
+		reach--registers little panic.  He talks on, 
+		not noticing her nervousness.  Cut. 
+
+Scene 100.	EXTERIOR--FLASH ANOTHER SECTION OF DECK.
+		Tracey and Ormond gazing toward Morson and 
+		Valda.  Tracey almost wild with anxiety and
+		suspense.  Ormond, by contrast quiet, gazes
+		quietly, with narrowed eyes.  Men smoking.
+ 
+Scene 101.	EXTERIOR--CONTINUATION OF SCENE 99.
+		Morson talking to Valda. Valda looks at him 
+		a little  suspiciously.  The bag accidentally 
+		catches on steamer chair--falls.  Morson 
+		gallantly leans over to pick it up.  Valda quickly 
+		snatches it up and stares defiantly at him,
+		to his complete amazement.  Valda, quickly 
+		changes expression to fixed smile.  Tells him
+ 		to go on with story.  Aunt Mary and Polly 
+		listen interestedly as they come into scene. 
+		He tells of--fade out into 
+
+Scene 102.	SAME AS SCENE 16. 
+		Quick flash--fade out into--
+ 
+Scene 103.	SAME AS SCENE 6.
+      		Quick flash--the fight--fade out into.
+ 
+Scene 104.	CONTINUATION OF SCENE 101.
+		Morson finishes with last punch that ended 
+		flight and finds her contemplating him icily, 
+		with folded arms and mocking smile.  
+		Suddenly she becomes furious.  She springs to
+ 		her feet.  The astonished Morson rises also. 
+		Valda, in a tempest of rage, denounces him 
+		as an imposter. He stares at her dazed. 
+		Ormond and Tracey, who have come into scene,
+ 		register triumph.  Aunt Mary in amazement
+ 		and rebuke.  Polly stares at Valda as though
+ 		she thinks her suddenly demented.  Valda
+		speaks:
+
+CUT-IN.		"You are an impostor! The uniform of an 
+		officer doesn't suit you! You shall work your
+		passage across!" 
+
+		Morson stares at her in stunned astonishment.
+		but sees her feeling is genuine.  For an 
+		instant he is about to resent Valda's attack, 
+		but suddenly realizes the humor of the 
+		situation and grins.  Beasley steps forward to 
+		take charge of him.  Morson bows low, sweeping 
+		deck with cap.  Beasley takes him by 
+		shoulder.  Morson, right-about-face, marches
+ 		off. Ormond and Tracey in triumph, Polly 
+		wringing hands in sorrow over her hero's 
+		fate, aunt Mary rebuking.  Valda, in rage, 
+		stares after him, and as all turn and leave 
+		her, sinks down in chair sobbing. 
+
+			End of Reel Three.
+ 
+ 
+			"THE SPITFIRE."
+ 
+			Reel Four.
+ 
+Scene 105.	INTERIOR--MAIN SALON.
+		Valda enters, looks about cautiously, goes to
+		safe, kneels, works at combination.  The 
+		sinister face of Ormond is seen at window.  He 
+		glances in, sees her at safe, face lights up. 
+		He watches. She opens safe, takes jewel case 
+		from bag, puts it in safe.  As she swings 
+		safe door shut, Ormond's face leaves window. 
+		Valda leaves cabin.
+
+Scene 106.	EXTERIOR--THE DECK.
+		Polly, aunt Mary, Tracey on.  Valda comes
+		on and joins party. Morson comes into scene 
+		with tin box of cleaning powder and large 
+		rag in hands.  He is dressed as ordinary 
+		seaman, but, most becomingly, wears blue jersey, 
+		duck trousers and canvas shoes, while a sailor 
+		hat is set at a rakish angle.  Beasley ushers 
+		him on and points to rail, speaking roughly. 
+		Slight commotion when party recognizes the 
+		transformed Morson.  Polly in distress. Aunt 
+		Mary sympathetic, Valda stern with an effort. 
+		Ormond hugely pleased.  Morson sees Valda, 
+		frowns humorously; quickly followed by smile.
+		Following Beasley's orders, Morson rubs rag 
+		in powder and vigorously scrubs rail, 
+		standing back to get artistic result.  Ormond is 
+		smiling.  Morson works very gaily, whistling 
+		blithely, as though delighted with work. 
+		Valda shows irritation, picks up parasol--
+		opens it.  Morson glances toward parasol--
+		keeps on whistling.  Valda puts down parasol, 
+		moves off with nose in air.  Tracey 
+		shakes with satisfied glee, takes cigar out of
+ 		mouth to chuckle, laughs, suddenly sees
+ 		Morson staring coldly at him with a 
+		vengeful look in his eye, and gasps with
+		fear, shoving the wrong end of cigar 
+		in mouth, turning cigar about two or 
+		three times nervously before getting the right 
+		end.  Morson works on nonchalantly.  Others
+ 		watch.  Tracey walks off in response to 
+		significant glance from Ormond, who precedes.
+ 
+Scene 107.	EXTERIOR--MAIN SALON--NEAR DOOR. 
+		Ormond and Tracey come into scene, look 
+		through window--coast  is  clear.  Ormond 
+		cautiously opens door, indicates safe, which 
+		can be seen through door, to Tracey.  Tracey 
+		makes a movement to go in as Ormond 
+		signifies jewels are in it.  Ormond holds him 
+		back and they pass on.
+
+Scene 108.  	EXTERIOR--ANOTHER PORTION OF DECK AT RAIL.
+		Valda, standing at rail, very angry, foot 
+		tapping impatiently.  Morson approaches with
+ 		rag and box, sees her, passes on.  Suddenly 
+		he turns.  She has turned to look at him. 
+		Then, angry at his having seen this, turns 
+		shoulder again, abruptly, and studies ocean. 
+		He hesitates, and then comes to her. He tries 
+		to talk to her, but she refuses to listen.  He 
+		speaks:
+
+CUT-IN		"I don't blame you!  If somebody told me the
+		tale I told you, I wouldn't believe it myself. 
+		At the same time, my jewels are on this 
+		yacht, and when we land In New Pork I'll 
+		have the whole crew of you arrested--
+		EXCEPT AUNT MARY!"   
+
+		He finishes his speech, audaciously shaking 
+		his finger near her face.  She backs away, 
+		perfectly furious--stamps her foot in rage. 
+		He goes away laughing at her discomfiture.
+		Gradually her face softens into a tender little 
+		smile, and she gives sentimental sigh, looking 
+		dreamily off to sea.
+
+Scene 109.  	EXTERIOR--ANOTHER PORTION OF DECK. 
+		Polly alone at rail.  Morson passes, nods to 
+		Polly, who smiles very sweetly as he lifts his 
+		cap.  Encouraged by her friendly manner, he 
+		looks back a little as he passes, smiling. When 
+		he goes, Polly sighs sentimentally and clasps 
+		hands ecstatically.
+ 
+LEADER.		THAT NIGHT.
+
+Scene 110.	INTERIOR--GIRARD'S ROOM IN LONDON. 
+		Girard comes in, evidently after a few days' 
+		absence.  Mail piled high on desk, unopened. 
+		Girard walks in and storms about for the 
+		valet--gradually works himself into rage--
+		slams valise down, goes into next room, comes 
+		out storming, muttering imprecations, shoves 
+		hat back on head, goes to desk, prepares to 
+		rummage through mail on desk, finds opened 
+		envelope containing message from Larris (of 
+		scene 76), picks it up, scratches head, pulls
+		out message, reads--flash message.  Girard 
+		stands stunned.  Then realizes that some 
+		mischief is intended, shoves hat hastily down on 
+		head, still holding message in hand, grabs up 
+		valise again, rushes out.
+
+Scene 111.	EXTERIOR--DECK OF SPITFIRE.--NIGHT TINT.
+		Polly and Morson sitting in shadow of boat--
+		mild flirtation--Polly chatting vivaciously, 
+		Morson smiling.
+
+Scene 112.	ANOTHER PORTION OF DECK.
+		Valda walks down deck in long steamer coat, 
+		suddenly spies Morson and Polly, becomes 
+		extremely jealous, marches toward them 
+		indignantly.
+ 
+Scene 113.	DECK NEAR SMALL BOAT (SAME AS SCENE 111).
+		Morson is about to playfully take Polly's hand
+		when Valda appears and speaks sternly to   
+		them. Polly is terrified;  Morson amused. 
+		Valda speaks to Morson:
+
+CUT-IN.		"You are to have no conversation with my 
+		guests!"
+ 
+		Morson smiles amusedly, bows gravely to 
+		Polly, ironically to Valda, and walks away.
+		Polly, in tempest of tears, turns and marches 
+		away.  Valda sits in steamer chair, gazes
+		ahead moodily--hurt.  Indicates she is now
+		deeply in love with Morson.
+
+Scene 114.	EXTERIOR -- CALAIS  PIER -- DAYLIGHT, FULL.
+		Girard talks with a yacht captain, climbing
+		aboard another yacht he has chartered. 
+		(Yacht's name must be plainly seen to avoid 
+		confusion with "Spitfire.") 
+
+Scene 115.	INTERIOR--WIRELESS ROOM OF YACHT
+		(OF SCENE 114). (Note--May be same
+		wireless room used in previous scenes, with 
+		little change and different operator.) 
+		Girard into room, excited; tells the operator. 
+
+CUT-IN.		"Locate the yacht 'Spitfire,' en route to New 
+		York!" 
+
+		Operator looks up.  Girard irritable. Captain
+ 		enters, as though accompanying Girard, 
+		explains to operator.  Operator nods, begins to 
+		send.  Girard angrily and profanely discussing 
+		matter with captain.  Cut.
+
+Scene 116.	INTERIOR--MAIN SALON OF "SPITFIRE"--CLOSE UP.
+		Polly on, kneeling on cushioned seat that runs 
+		about port-holes.  Morson's grinning face can 
+		be seen through port-hole. Polly has sandwich. 
+		He opens mouth. She puts whole sandwich
+ 		in his mouth.  Cut.
+ 
+LEADER:		MORSON GETS A HAND-OUT 
+
+Scene 117.	EXTERIOR--DECK OUTSIDE PORT-HOLE. 
+		Morson withdraws head with sandwich in 
+		mouth, takes sandwich out with one hand, 
+		extends other hand through port-hole for grateful 
+		handshake, just as Valda comes into scene. 
+		Valda stands for an instant.  Morson takes 
+		hasty glance at her, withdraws hand quickly,
+		and walks rapidly away.  Polly's hand comes
+		through port-hole, groping frantically for his. 
+		Valda stares in angry amazement, then she 
+		walks angrily to door of salon and enters. 
+
+Scene 118.	INTERIOR--MAIN SALON--OTHER SIDE OF PORT-HOLE.
+		Polly waving hand through port-hole as Valda 
+		enters.  She hears Valda, hastily draws out 
+		hand, turns to face the indignant Valda. Polly 
+		goes meekly to Valda, who spurns her.
+  
+Scene 119.	INTERIOR--WIRELESS ROOM ON OTHER 
+		YACHT--SAME AS SCENE 115. 
+		Girard walks in, inquires of operator if any 
+		news of "Spitfire."  Operator shakes head. 
+		Girard registers disapproval of operator and 
+		whole d--- thing, smites fist on table, goes out, 
+		slamming door.  Operator leans back, gazing 
+		after him, shrugs shoulders, goes back to work.
+ 
+Scene 120.	EXTERIOR--DECK OF "SPITFIRE." 
+		Morson polishing brasses of yacht with the 
+		cleansing powder. Valda comes into scene, 
+		imperatively beckons him to her with finger, as 
+		to a servant.  With a mock sailor-like hitch 
+		of his trousers, Morson, can of powder and 
+		rag in hand, comes to her. She points to rail, 
+		rubs finger across it--"Not clean enough." He
+		touches cap gravely, polishes it briskly. She
+		talks to him a little, as though rebuking him
+		for his carelessness.  He listens with perky
+		look on face, hitches his trousers again as he 
+		listens, gravely rubs rag in cleansing powder
+		and pretends to polish his nails.  Valda, 
+		exasperated by his pretense, stamps foot--
+		exclaims:
+
+CUT-IN.		"I wish you were back in the sea again!" 
+
+		Morson points gravely to the sea--"Does she 
+		mean it?"  She nods vehemently.  With a 
+		spring, he is over the side, clinging to a rope 
+		on the side, though she is not aware of rope, 
+		and thinks him overboard.  Valda, with wild 
+		cry, rushes toward the pilot house, calling to 
+		Captain Larris to stop the ship. There is 
+		instant excitement of all on board--all rushing 
+		toward her.
+
+Scene 121.	EXTERIOR--VIEW OUTSIDE OF HULL OF YACHT.
+		Morson clinging to rope hung on davit, out 
+		of view of those on deck, grinning 
+		mischievously.
+
+Scene 122.	EXTERIOR OF "SPITFIRE."
+		People running toward rail.  Polly, wringing 
+		hands, grabs boat-hook.  Aunt Mary tears off
+		life preserver from rail, throws it aimlessly, 
+		faints--supported by the excited and delighted 
+		Tracey, who nearly drops her at times in his 
+		wild anxiety to glimpse the drowning figure 
+		of Morson--off.  Ormond and Beasley  also 
+		register pleased relief, and pretended solicitude.  
+		Valda alone quiet, tense, hands clenched,
+ 		repentant and grief-stricken.  As Captain 
+		Larris is about to order boat lowered, the 
+		anxious  Tracey, holding the fainting Aunt 
+		Mary, presses close to the rail, and looks over 
+		rail.  He suddenly sees Morson, safe and 
+		clinging to rope.  In his disappointed disgust, 
+		Tracey drops Aunt Mary with a thump, and
+		she immediately comes to.  Tracey points over
+		shoulder with thumb to rail and walks off. 
+		Others crowd to rail--register relief and 
+		surprise to see Morson safe.  Ormond and 
+		Beasley alone disappointed, though pretend 
+		otherwise after a second.  Polly clasps hands in
+		delight.  Valda, hand on heart, sways a little 
+		in revulsion of feeling; then  her relief is
+ 		mastered by indignation and she imperiously 
+		beckons Morson back. He sheepishly clambers 
+		back over rail, with assistance of sailors, 
+		saying apologetically to the angry Valda:
+ 
+CUT-IN.		"I almost got my feet wet!" 
+
+		Valda stamps foot in anger, turns indignantly 
+		and walks away.
+ 
+Scene 123.	EXTERIOR--ANOTHER PORTION OF DECK. 
+		Valda comes down deck and approaches Beasley, 
+		who is standing  morosely against rail. 
+		She points back to Morson, seen in distance, 
+		talking to the excited Polly, and speaks: 
+
+CUT-IN.		"He hasn't enough to do. Give him some real 
+		work!" 
+
+		Beasley accepts this suggestion, very pleased, 
+		bows--off to Morson.
+
+Scene 124.	EXTERIOR--ANOTHER PORTION OF DECK. 
+		Polly comes on, accompanied by Ormond and 
+		Tracey, who are trying to be very gallant. 
+		Polly is annoyed, showing plainly she has 
+		little use for  either.  She drops her small
+ 		mesh-bag.  Both men stoop gallantly, Tracey
+ 		nearly getting it, but Polly is quicker, and 
+		rescues the purse herself, showing satisfaction 
+		purposely; then, with a meaning look at both 
+		men, turns and leaves them.  Ormond shrugs 
+		shoulders, smiles grimly at Tracey's 
+		discomfiture--they walk on.
+
+Scene 125.	EXTERIOR--STILL ANOTHER PORTION OF DECK.
+		Beasley enters, followed by Morson.  Morson 
+		carries a bucket of water and a mop with a
+		long handle, scrubbing brush protrudes from 
+		bucket.  Beasley carries holy-stone, concealed 
+		behind his back.  Morson looks humbly 
+		resigned, as though going through an ordeal, 
+		Ormond and Tracey pass and register 
+		thorough satisfaction.  Morson makes gesture as 
+		though about to throw bucket at them, but 
+		thinks better of it and proceeds on with it. 
+		Beasley stops and shows Morson portion of 
+		deck he is to scrub--Morson sets down bucket 
+		--Beasley  slowly produces the holy-stone--
+		shows it to Morson.  Morson pretends to 
+		examine it as through opera glasses.  Beasley
+		frowns, puts stone down on deck.  Morson
+		puts long-handled mop in bucket, starts to 
+		push holy-stone along with it--Beasley 
+		interrupts him--"It isn't done that way"--gets 
+		down on marrowbones and illustrates, with 
+		action, method of holy-stone.  With a grimace 
+		at him, Morson  reluctantly gets down on 
+		knees as Beasley rises and goes at his work. 
+		Beasley registers satisfaction at the 
+		humiliation.
+
+Scene 126.	EXTERIOR--PORTION OF DECK AT DISTANCE.
+		Camera follows Ormond and Tracey, with 
+		Valda in center, down deck. Polly and Aunt 
+		Mary following. The two men point out distant 
+		view of Morson scrubbing, with satisfaction to 
+		Valda, whose triumph is marred by her own
+ 		secret sympathy with Morson.  She turns away
+      		Polly and Aunt Mary register disapproval. 
+		With a little sly look of glee toward 
+		Ormond and Tracey, Beasley raises his foot,
+ 		and quickly placing it against Morson's 
+		shoulder, pushes him violently, so that Morson 
+		falls flat on his face in the soapy water. 
+		Valda turns just in time to see this cowardly 
+		act.  Morson leaps to his feet, is about to 
+		rush toward Beasley, when he catches sight of 
+		Valda.  With a great effort he controls 
+		himself, bows to Valda and is about to return to
+ 		his work.  Beasley laughs and Valda, with an
+ 		outburst of fury, turns to Morson and speaks: 
+
+CUT-IN.		"Mr. Morson, as mistress of this yacht, I give 
+		you full permission to avenge that insult to 
+		the limit of your strength and will." 
+
+		Morson steps back with wondering unbelief,
+		while Beasley and others also show their 
+		amazement.  Morson thanks Valda and without 
+		more ado, goes for Beasley.  (The fight 
+		should be a short, sharp, decisive affair, 
+		with Morson as victor, ending with Beasley 
+		prostrate with Morson standing over him.)  The 
+		sailors all cheer. Valda shows quiet delight 
+		in Morson's triumph.  Cut.
+ 
+LEADER. 	A FEW DAYS LATER--WIRELESS LOCATES "SPITFIRE" 
+		ALMOST WITHIN VISION OF GIRARD'S VESSEL. 
+
+Scene 127.	INTERIOR--WIRELESS ROOM ON GIRARD'S 
+		CHARTERED YACHT (SAME AS SCENE 119).
+		Girard on, is told by operator he has located
+		"Spitfire."  Girard joyful, begins to dictate
+		message.  Cut.
+
+Scene 128.	EXTERIOR--DECK OF YACHT "SPITFIRE." 
+		Ormond and Larris talking, Tracey at hand--
+		wireless operator comes on deck with message, 
+		looks for Larris--gives him transcript of messages
+		--Larris reads.  Flash message: 
+
+INSERT.		Capt. Larris, 
+			Yacht Spitfire.
+		Take charge of ship immediately.  Will
+		overtake you soon.  Reduce speed and
+		await instructions.
+				MARCUS GIRARD. 
+
+		Larris triumphantly shows wire to Ormond, 
+		whose eyelids flicker, but does not otherwise
+		betray emotion.  As a matter of course, and
+		as though expecting message, he bows, says 
+		a few words to captain, and strolls off easily. 
+		The captain looks after the nonchalant Ormond, 
+		puzzled, shakes head--the situation has 
+		"got him" all right.  Tracey joins Ormond, 
+		they walk down deck. 
+
+Scene 129.	INTERIOR--SMOKING ROOM.
+		Ormond and Tracey in--they sit with heads
+		together, worried.  Ormond outlines action--
+		Tracey listening.  Beasley comes in, all talk, 
+		finally Ormond, with quick decision, says: 
+
+CUT-IN.		"Tonight!"
+ 
+LEADER.		WHAT HAPPENED THAT NIGHT. 
+
+Scene 130.	STRETCH OF SEA--NIGHT TINT. 
+		The "Spitfire" and other yacht, all lighted up, 
+		against solid black night, and stars.
+
+Scene 131.	EXTERIOR--DECK OF SPITFIRE--NIGHT. 
+		Ormond and Tracey at rail, look off and see 
+		lights of the other yacht.  They prime 
+		themselves for action.
+
+Scene 132.	INTERIOR--MAIN SALON.
+		Valda sitting by table reading by lights--she 
+		hears knock, goes to door, opens it cautiously 
+		--it is Morson, clad in Beasley's long oilcoat--
+		she starts to close door, mocking him impertinently
+		--he places foot in door, she can't shut 
+		it--finally she allows him to come in--they 
+		stand a moment, talking, tender little scene--
+		he takes her hand as he says good night, she 
+		pulls it away gently--she indicates now that 
+		she can no longer conceal her love for him. 
+		He says good night and closes door.  She 
+		stands a moment and goes to port-hole, looks 
+		after him tenderly, shakes head sadly--still 
+		thinks him spy, though she loves him.  She 
+		goes to door, right, and hesitates a moment, 
+		then turns out lights. Room in darkness.
+ 
+LEADER. 	MORSON REMEMBERS THE DECK HAND'S LAST DUTY 
+		FOR THE NIGHT.
+
+Scene 133.	INTERIOR--BEASLEY AND MORSON'S CABIN.
+		Morson comes on, takes off coat as he goes in 
+		and about to undress, when he remembers he 
+		has forgotten to take in the chairs--leaving 
+		coat he goes out. 
+
+Scene 134.	EXTERIOR--DECK.
+		Morson gathering up steamer chairs. 
+
+Scene 135.	EXTERIOR--BEASLEY AND MORSON'S CABIN.
+ 		Ormond and Beasley come on cautiously--
+		Beasley glances through port-hole or window--
+		no one there--Beasley opens door, reaches and 
+		gets coat Morson wore and hands to Ormond--
+		men off.
+
+Scene 136.	INTERIOR--MAIN SALON (AS IN SCENE 132).
+		Very dim light--flash at door of burglar's 
+		lantern--figure in long coat of Morson goes 
+		to safe, working away at safe, blows it open,
+		steals jewels--to door--just as man gets to 
+		door, Valda in doorway of her room, in time 
+		to see figure of man dart from door in 
+		Morson's coat--look of horror, registering she
+		thinks it Morson, covers face--the room only 
+		lighted by dim rays from port-holes and the
+ 		burglar's light left by man in his haste. 
+		Valda takes the burglar's light and goes to 
+		safe--kneels, looks through rifled safe. 
+
+Scene 137.	EXTERIOR--OUTSIDE MAIN SALON. 
+		Morson rounds the corner gathering steamer 
+		chairs--by this porthole he stops, transfixed 
+		by what he accidentally glimpses through the 
+		port-hole--he steps nearer, and gazes in 
+		horror at Valda in room.  He puts down chair, he
+		walks away dazed and overwhelmed--disappears 
+		around corner.  Valda rushes out of 
+		door with wild excitement, but no outcry--
+		she knocks at various doors, groups come out,
+		she notifies them.  Cut.
+ 
+LEADER.		NEXT MORNING. 
+ 
+Scene 138.	INTERIOR--MAIN SALON.
+		Valda and all on---she shows the captain the 
+		rifled safe, Aunt Mary and Polly register great 
+		excitement.  Ormond and Tracey saunter in, 
+		looking cool and interested.  Beasley looks at 
+		Ormond and Tracey, but quickly looks away. 
+		Captain begins to question them all--finally 
+		questions Valda.  After struggle with herself 
+		she turns, looks toward Morson while speaking, 
+		points to him and safe, indicates she saw 
+		him at safe. Morson staggers back and looks 
+		at her in stunned amazement, indicating that 
+		his feeling for his own position is less than 
+		his loss of faith in her.  He passes hand across 
+		his eyes, stares at her, but makes no denial. 
+		Captain speaks:
+
+CUT-IN.		"Do you deny that you were in the main 
+		salon at midnight?"
+ 
+CUT-IN LEADER.	MORSON CANNOT REPLY.
+ 
+		Morson looks long and steadily at Valda, 
+		refuses to answer.  Valda's eyes drop and she 
+		registers emotion. Captain Larris gives 
+		orders, they search Morson and bind him 
+		to post.  Valda crushed.  All register 
+		dismay at Morson's implied guilt.  Cut.
+ 
+Scene 139.	INTERIOR--HOLD OF YACHT.
+		Fire breaks out, sailor discovers, excitedly runs 
+		off.
+ 
+Scene 140.	INTERIOR--MAIN SALON  (SAME AS SCENE 138).
+		Varied business on parts of Polly, Aunt Mary, 
+		Valda, Ormond, Tracey, captain, etc.  Morson
+		still bound to pillar of cabin.  Sailor rushes in
+		to captain, says "Fire!"  Others overhear and 
+		register wild panic.  Captain Larris, after 
+		momentary shock, rushes out, giving orders--
+		all rush out in pandemonium, leaving Morson 
+		alone, bound--smoke curls in.
+
+Scene 141.	QUICK FLASH OF HOLD (SAME AS SCENE 139).
+ 		Flame now big and strong.  Captain Larris 
+		and men appear, but are driven back by fire 
+		and smoke.
+
+Scene 142.	EXTERIOR--UPPER DECK.
+ 		Women all huddled together. Polly weeping, 
+		Aunt Mary praying, Valda tense, suddenly 
+		thinks of Morson, turns, rushes off. 
+
+Scene 143.	EXTERIOR--DECK OF PURSUING YACHT. 
+		Captain, Girard and others at rail, much 
+		nearer to "Spitfire" now than in night scene--
+ 		see smoke of "Spitfire."  Girard registers great
+ 		fear and anxiety--much excitement--captain 
+		gives quick orders to increase speed. 
+
+Scene 144.	INTERIOR--MAIN SALON OF "SPITFIRE" 
+		(SAME AS SCENE 140).
+		Morson alone, bound--smoke volumes increasing
+		--Valda rushes in--looks about frantically 
+		for some means of releasing him. 
+
+Scene 145.  	EXTERIOR--DECK OF "SPITFIRE." 
+		Lifeboats being lowered--Polly and Aunt Mary 
+		being shoved into boat by captain, Beasley 
+		and others. Ormond and Tracey at rail, register 
+		sudden resolve to finish Morson.  Ormond,
+		gun in hand, followed by Tracey, starts off. 
+
+Scene 146.	INTERIOR--MAIN SALON (AS IN SCENE 144).
+		Valda cutting cords with knife she finds in 
+		desk--Ormond and Tracey come in, are 
+		dumbfounded at the sight of Valda--with a spring, 
+		Morson, freed, is upon Ormond, wrests away 
+		gun, holds Ormond and Tracey at bay--then 
+		hands gun to Valda, fights Ormond with bare 
+		hands while Valda holds the terrified Tracey
+		easily at bay.  Smoke rushing on thicker and 
+		thicker--desperate fight between men.  Quick,
+		Tracey, recovering from fright, makes 
+		threatening movement, is knocked out by Morson. 
+		Morson gets mastery over Ormond, knocks him 
+		down, searches pockets, finds dangerous-
+		looking knife, throws it aside, searches again, 
+		as if for more weapons, finds the morocco 
+		cigar case, starts to throw aside, when Valda 
+		gives cry of astonishment--he looks at her, 
+		opens case, Ands his jewels--he registers 
+		delighted surprise and mental vindication for 
+		Valda (Valda same business for him). Smoke 
+		and flames now appear. Morson thrusts jewels
+ 		in belt.  Valda overcome.  Morson rushes off,
+		half carrying  Valda.  Tracey and Ormond 
+		stagger to their feet and follow. 
+
+Scene 147.	EXTERIOR--DECK OF SPITFIRE. 
+		Flames mounting high, the captain stands on 
+		the bridge watchful and waiting, tense--
+		commanding, heroic figure.  Morson is seen 
+		rushing through the smoke, carrying Valda.  For
+		a moment he bends over her, kisses her, then
+		on to the rail.  Boats seen rowing hastily off 
+		toward other yacht.  Flames envelop the
+		yacht.  Cut.
+
+Scene 148.  	EXTERIOR--EXPANSE OF WATER. 
+		Distant view of the charred hulk of the 
+		"Spitfire" descending into the sea.
+
+Scene 149.  	EXTERIOR--DECK OF GIRARD'S OTHER YACHT.
+		Girard, captain and others at rail.  Boat 
+		reaches yacht.  Girard scans faces in boat in 
+		vain for his daughter.  Tears his hair in 
+		anxiety and grief.  Levels glasses and scans
+		water.
+
+Scene 150.  	EXTERIOR--EXPANSE OF OCEAN. 
+		In foreground, charred spar of ship with Valda 
+		and Morson clinging to it, Morson supporting 
+		Valda.  A little bit off, a larger piece of 
+		wreckage to which cling Beasley, Ormond, Tracey 
+		and Captain Larris.
+
+Scene 151.  	EXTERIOR--DECK OF GIRARD'S OTHER YACHT--
+		SHORT FLASH.
+		Girard, looking through glasses, spots daughter  
+		on spar.  Excitedly tells captain, they
+            	lower boat. Cut.
+
+Scene 152.  	EXTERIOR--ROCKY BEACH.
+		Valda and Morson on beach, spar lies near 
+		them.  They look off at sea and then tenderly
+		at each other.  Morson draws pouch from belt, 
+		thrusts in hand, takes out some jewels, from 
+		which he selects diamond ring--puts it on 
+		her finger--speaks:
+
+CUT-IN. 	"You called me a thief--and I am! I'm going
+		to steal you" 
+
+		She goes to his arms. 
+
+Scene 153. 	FLASH TO BEACH.
+		Father lands in boat, gets out with one or two 
+		sailors, runs up beach, stops short in paralyzed 
+		indignation at what he sees.
+
+Scene 154.	EXTERIOR--BEACH (AS IN SCENE 152). 
+		Valda still in Morson's arms.  Father storms 
+		angrily into scene.  Morson looks at him, 
+		annoyed at interruption.  Valda sees father, flies 
+		to his arms, and after embrace, and then 
+		turning, points to Morson, says:
+
+CUT-IN.		"Father, Mr. Morson, a traveler from Egypt!" 
+
+		Father angry, eyes Morson, sternly, then grins 
+		slowly, extends his hand.  Fade out. 
+
+				End of "The Spitfire."
+
+
+
+Screenplay by B. P. Schulberg
+
+
+
+
+geovisit();
+
+

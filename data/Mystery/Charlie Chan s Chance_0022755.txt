@@ -1,0 +1,2245 @@
+
+
+
+
+
+
+
+<!--
+		document.isTrellix = 1;
+//						-->Illustrated Script: CHARLIE CHAN'S CHANCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        function tweNavbarPreload(imgSrc, imgObj) {
+            if (document.images) {
+                eval(imgObj+' = new Image()');
+                eval(imgObj+'.src = "'+imgSrc+'"');
+            }
+        }
+
+        function tweNavbarChangeImage(imgName, imgObj) {
+            if (document.images) {
+                document[imgName].src = eval(imgObj + ".src");        
+            }
+        } 
+
+    	
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/entrancelink01.jpg","twe24451A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/entrancelink01.jpg","twe24451B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/directorylink01a.jpg","twe24452A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/directorylink01a.jpg","twe24452B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/calendarlink01.jpg","twe24453A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/calendarlink01.jpg","twe24453B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/chatroomlink.jpg","twe24454A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/chatroomlink.jpg","twe24454B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/messageboardlink01.jpg","twe24455A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/messageboardlink01.jpg","twe24455B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/bulletinboardlink.jpg","twe24456A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/bulletinboardlink.jpg","twe24456B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/thefilmslink01.jpg","twe24457A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/thefilmslink01.jpg","twe24457B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/thelostfilmslink.jpg","twe24458A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/thelostfilmslink.jpg","twe24458B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/otherchanfilmslink01d.jpg","twe24459A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/otherchanfilmslink01d.jpg","twe24459B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/thetvserieslink.jpg","twe244510A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/thetvserieslink.jpg","twe244510B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/castlistlink01.jpg","twe244511A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/castlistlink01.jpg","twe244511B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/linkslink01.jpg","twe244512A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/linkslink01.jpg","twe244512B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/charliechanlink01.jpg","twe244513A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/charliechanlink01.jpg","twe244513B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/aphorismslink01.jpg","twe244514A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/aphorismslink01.jpg","twe244514B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/chronologylink01.jpg","twe244515A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/chronologylink01.jpg","twe244515B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/glossarylink01.jpg","twe244516A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/glossarylink01.jpg","twe244516B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/earlderrbiggerslink01.jpg","twe244517A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/earlderrbiggerslink01.jpg","twe244517B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/warnerolandlink01.jpg","twe244518A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/warnerolandlink01.jpg","twe244518B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/sidneytolerlink01.jpg","twe244519A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/sidneytolerlink01.jpg","twe244519B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/rolandwinterslink01.jpg","twe244520A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/rolandwinterslink01.jpg","twe244520B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/jcarrolnaishlink01a.jpg","twe244521A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/jcarrolnaishlink01a.jpg","twe244521B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/familyroomlink01.jpg","twe244522A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/familyroomlink01.jpg","twe244522B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/studylink01.jpg","twe244523A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/studylink01.jpg","twe244523B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/gallerylink01.jpg","twe244524A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/gallerylink01.jpg","twe244524B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/librarylink01.jpg","twe244525A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/librarylink01.jpg","twe244525B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/chansundaycomicslink01a.jpg","twe244526A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/chansundaycomicslink01a.jpg","twe244526B");
+		
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/cartoonslink01.jpg","twe244527A");
+			tweNavbarPreload("sitebuildercontent/sitebuilderpictures/cartoonslink01.jpg","twe244527B");
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+                  
+
+Post-Production Script:
+CHARLIE CHAN'S CHANCE
+
+
+  
+  
+CHARLIE CHAN'S CHANCE
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCREEN PLAY & DIALOG: PHILLIP KLEIN and BARRY CONNORS CAMERAMAN: JOSEPH AUGUST SOUND
+                  MAN: ALBERT PROTZMAN ART DIRECTOR: GORDON WILES COSTUMES: DAVID COX FILM EDITOR: ALEX. TROFFEY BUSINESS
+                  MANAGER: SAM WURTZEL ASSISTANT DIRECTOR: JASPER BLYSTONE DIRECTOR: J. G. BLYSTONE 
+
+
+  
+CAST OF CHARACTERS
+
+
+ 
+Charlie Chan: WARNER OLAND Inspector Flannery: JAMES KIRKWOOD Inspector
+                  Fife: H. B. WARNER Barry Kirk: RALPH MORGAN Kenneth Dunwood: JAMES TODD Paradise: CHARLES McNAUGHTON
+                  Shirley Marlowe: MARION NIXON Gloria Garland: LINDA WATKINS John Douglas: ALEXANDER KIRKWOOD Garrick
+                  Enderby: HERBERT BUNSTON Kee Lin: JAMES WANG Doctor: JOE BROWN Li Gung: EDWARD PEIL, SR. 
+
+
+    
+SCREEN CONTINUITY Dated: January 9, 1932
+
+
+  
+FADE IN   WIDE SHOT EXTERIOR STREET OUTSIDE THE OFFICES OF THE CRIMINAL INVESTIGATION BUREAU.   Traffic
+                  seen going along the street -   DISSOLVE TO -   CLOSE SHOT on bronze panel in the wall of the building,
+                  showing that in the building are the offices of the New York Police Department.   DISSOLVE TO TITLE -   TITLE:
+                   "BUREAU OF CRIMINAL INVESTIGATION"   DISSOLVE TO -   CLOSE SHOT - INTERIOR BUREAU - ON A FINGERPRINT
+                  APPARATUS as the hand of official rolls the roller over the ink preparatory to taking fingerprints - as he does this and as
+                  he takes the impression of each of the prisoners' fingers he speaks:  
+
+VOICE:   Come on - give us the other one - Come on - come on.  Put it in there.  'Fraid to get it dirty?  What's the matter?
+                   You've done this before.  This is nothing new to you.  Nothing strange about it.  Okay.
+
+DISSOLVE TO -  A SHOT along the files in the record room of the bureau - the camera moves along the long row of files
+                  - VOICE of Flannery heard before he is seen - 
+
+FLANNERY'S VOICE:   This is our Rogues' Gallery.
+The camera takes in Flannery as he moves to one of the files, draws out a slide from it -  CUT TO INSERT OF THE book
+                  of photographs of criminals, as Flannery's hand turns over the pages, showing the "Rogues' Gallery" -  CUT
+                  TO CLOSEUP on Flannery standing at the record files - continues:
+
+Your police department in Honolulu hasn't any collection like this, has it Mr. Chan?
+CAMERA PANS OVER to take in CHAN IN CLOSEUP - as he replies:
+CHAN: Not so many. The Islands are not yet so civilized as New York. (Turns)
+Inspector Fife, perhaps, has as many in Scotland Yard.
+
+
+As he says this last CAMERA PANS to CLOSEUP on Inspector Fife -
+FIFE:   Yes.  Unfortunately, the British Islands are also more civilized than the Hawaiian.
+CAMERA PANS BACK to the three men standing together by record files.  Flannery with the records before him.  He points to
+                  one -
+
+FLANNERY:   Here.  Here's a man who's -
+CUT TO INSERT of the picture of criminal - voice of Flannery continues through shot --
+- hard to arrest.  Always has to be clubbed into submission.
+CUT TO CLOSE SHOT on the three by files as Flannery finishes:
+He's a hard nut. CHAN: Hard nut? FLANNERY: Yes - hard nut. CHAN:
+(As he gets this) Oh, I see. Some heads, like hard nuts, much better if well cracked.
+
+
+(All laugh)
+FLANNERY: Right. (Puts record away in file) I want you to
+                  see the lineup. These criminals are more interesting in the flesh. 
+
+
+(The three men start from the scene)  DISSOLVE TO -  MEDIUM SHOT door to auditorium as Flannery and the other
+                  two men enter to it - Flannery opens the door through which the big auditorium is seen - and the three men go inside.   
+VOICES HEARD as the door is opened and they go inside - they move toward the background where there is a platform, and
+                  the wall back of it is marked out with a line scale - the area around platform more brightly lit than the rest of the hall.
+                   Flannery goes up on the platform.  Chan and Fife stand nearby. 
+
+FLANNERY: (Addressing the audience of police officers before him)
+Boys -
+
+
+CUT TO MEDIUM CLOSE SHOT on Flannery on the platform, Chan and Fife standing nearby as Flannery continues:
+- this gentleman is Inspector Fife of Scotland Yard -- 
+(Applause comes through shot)  CUT TO CLOSE SHOT on Flannery as he speaks - 
+- and this gentleman is Inspector Chan of the Honolulu Police, who's been sent here to study New York police methods.
+CUT TO CLOSE SHOT on Chan and Fife standing before platform as Flannery's voice continues through shot -
+We've heard of Sherlock Holmes, Arsene Lupin and now we have with us one equally known - Charlie -
+CUT TO FULL SHOT in the hall, as the people applaud - Flannery's voice heard through shot -
+- Chan.
+CUT TO CLOSE SHOT on Chan and Fife as they take bows.  CUT TO CLOSE SHOT on Flannery as he continues:   
+(Indicates audience) And those boys are what I consider one of the finest
+                  detective organizations in the world.
+
+
+CUT TO CLOSE SHOT on Chan and Fife standing together.
+CHAN:   Could not be otherwise.  Under strong general there are - 
+CUT TO MEDIUM SHOT of the group of three - Flannery, Chan and Fife as Chan finishes:
+- no weak soldiers.
+CUT TO FULL SHOT by platform - Flannery turns around to address someone standing before platform.
+FLANNERY:   Ready with the lineup?
+VOICE: All ready, Inspector. (Calling off [scene]) John
+                  Hawkins.
+
+
+CUT TO CLOSE SHOT on platform as big burly man comes on - the man standing close before platform - back to camera addresses
+                  Hawkins.
+
+MAN:   Hawkins.  Stand on the platform...look straight out in front of you - take your hat off.
+CUT TO MEDIUM CLOSE SHOT on Flannery standing before a lighted reading desk - audience glimpsed dimly back of him as he speaks.
+FLANNERY:   Last night in Washington Heights he put a man to sleep with a blackjack - 
+CUT TO MEDIUM SHOT on Chan and Fife standing in the aisle near platform as the voice of Flannery continues through shot -
+FLANNERY'S VOICE:   - kicked all his teeth out and robbed him of fifty dollars.  What do you do for a living?
+CUT TO CLOSEUP on Hawkins - ugly and insolent as he speaks:
+HAWKINS:   I'm a dentist.
+CUT TO CLOSE SHOT on Flannery at the reading desk as he speaks:
+FLANNERY:   Dentist, eh?  And you use a blackjack instead of gas.  Some idea.
+CUT TO FULL SHOT by the platform Hawkins here - man standing before platform - Flannery and others in shot.   Flannery
+                  finishes: 
+
+Take him off.
+Hawkins exits - next prisoner is called.
+VOICE:   Isador Rosenblatt!  Put your hat on - 
+(Hawkins exits the platform)   CUT TO MEDIUM CLOSE SHOT on Rosenblatt standing on platform - mike [microphone] seen
+                  before him.    VOICE continues through shot -  
+
+Look straight to the front.  FLANNERY'S VOICE:   This man is charged with entering a delicatessen store on 116th Street
+                  and stealing a ham. 
+
+CUT TO CLOSE SHOT - Flannery continues:
+How did you come to steal a ham?
+CUT TO CLOSEUP on Rosenblatt.
+ROSENBLATT:   You're Inspector Flannery, ain't you?  FLANNERY'S VOICE:   Never mind my name.  Why did you do it? 
+ROSENBLATT:   Well, I'll tell you the truth, Inspector.  I took that ham for a poor starving Irish family named Flannery.
+                  
+
+CUT TO MEDIUM SHOT by Chan and Fife - Flannery's voice comes through shot -
+FLANNERY'S VOICE:   Take him out.  VOICE:   Step down off the platform. 
+CUT TO MEDIUM SHOT on platform as girl comes to the platform.
+VOICE:   Evelyn Vandelear.  FLANNERY'S VOICE:   Look straight out in front of you. 
+CUT TO CLOSE SHOT on Flannery at reading desk -
+FLANNERY:   This girl is charged with blackmailing a man out of eight -
+CUT TO CLOSEUP on Evelyn on platform, very tough - Flannery finishes:
+- hundred dollars.  EVELYN:   Eight hundred dollars?  Say, that thirty-cent millionaire was just eight dollars short
+                  of having twenty cents, so wipe your nose on that one! 
+
+CUT TO FULL SHOT by platform, Flannery in foreground.
+FLANNERY: (To Chan and Fife) This young lady is what we
+                  call a live wire.
+
+
+CUT TO CLOSE SHOT group and audience - Flannery at reading desk.
+FLANNERY:   Right.
+CUT TO FULL SHOT of platform.
+VOICE:   Take her off!  The Rajah Mangapore.
+CUT TO CLOSE SHOT on platform as Benny dressed in tall hat and morning coat comes on -   Man's voice heard as he gives
+                  instructions - 
+
+VOICE:   Look straight ahead of you and take that steeple off.
+CUT TO MEDIUM CLOSE SHOT on Flannery standing before reading desk as he speaks:
+FLANNERY:   This man claims to be the seventh son of a seventh son - born with -
+CUT TO CLOSE SHOT on Chan and Fife as voice of Flannery continues:
+- a veil.  He's charged with fortune telling and swindling.
+CUT TO CLOSE SHOT on Flannery - continues:
+What have you to say for yourself?
+Cut to medium shot on Benny standing on platform - as he speaks - using extravagant gestures to illustrate his words.
+BENNY:   I'm no fortuneteller, your Honor - I predict the future events by virtue of the science of astrology.
+CUT TO MEDIUM SHOT by Flannery - group and audience back of him.
+FLANNERY: Come on out from behind those whiskers, Benny. (Turning around
+                  to address audience back of him) This is Benny the dip. He used to imagine he was a pick-pocket but he couldn't
+                  get his hand in and out -
+
+
+CUT TO MEDIUM SHOT on Benny on platform as voice of Flannery finishes:
+- of a sugar barrel.  BENNY:   Go on!   I'm better than anyone you ever - 
+CUT TO MEDIUM CLOSE SHOT on Flannery - Benny's voice finishes:
+- knocked off.  FLANNERY:   Well, you'd better consult the stars and find out how long it will be - 
+CUT TO FULL SHOT GROUP and Flannery, platform seen background as Flannery finishes:
+- before you get out.  BENNY:   Oh yes.  FLANNERY:  Take him off.  MAN:   Step down - put that hat
+                  on. 
+
+MEDIUM CLOSE SHOT Flannery.
+FLANNERY: (To Chan and Fife) Well, you've had enough of
+                  this, I guess.
+
+
+CUT TO MEDIUM CLOSE SHOT on Chan and Fife, Fife looks toward Flannery off scene and speaks:
+FIFE:   It's been very interesting, Inspector.  Thanks very much.  CHAN:   Thank you so much. 
+CUT TO FULL SHOT in auditorium - as Flannery, Chan and Fife start down the aisle -
+FIFE:   Come on, Charlie.  
+(Audience rises and applauds as they exit)   DISSOLVE TO EXTERIOR SHOT -   STREET in Chinatown - traffic
+                  noises heard.   DISSOLVE TO -   INTERIOR KEE LIN'S RESTAURANT - MEDIUM CLOSE SHOT on Chan, Fife and Kee
+                  Lin seated together in room -  
+
+KEE LIN: (In Chinese) You have heard the story about the
+                  mule who tried to come down from the attic on a ladder. FIFE: (Turning to Chan as the latter laughs)
+What is that? CHAN: I will tell you later. FIFE: (Takes out his watch and looks at it)
+Come on, Charlie, we must be going. (Rises - shakes hands with Kee Lin) Thank you, Kee Lin,
+                  for a most enjoyable -
+
+
+CUT TO CLOSEUP on Kee Lin as Fife finishes:
+- dinner.  KEE LIN:   When your feet enter my humble dwelling I am honored -  
+CUT TO MEDIUM SHOT of the group as Kee Lin finishes:
+- more than I deserve. FIFE: That's nice of you. CHAN: (Rising)
+Good kitchens kill more men than sharp swords.
+
+
+(Telephone bell heard)
+KEE LIN: Telephone! (Exits from scene)
+
+
+CUT TO FULL SHOT in another corner of restaurant as Kee Lin comes down to the telephone in foreground, picks it up and speaks
+                  into it -  CUT TO CLOSER SHOT on Kee Lin at phone - 
+
+KEE LIN: Hi! Hi! Hello -- (Turns and calls)
+
+
+CUT TO WIDER SHOT by Kee Lin -  Chan enters from background to Kee Lin at phone - takes phone from Kee Lin who exits
+                  from scene. 
+
+CHAN:   Hello.  What?  Yes, Inspector Fife is here.  One moment.
+CUT TO FULL SHOT in the restaurant as Fife enters from background and takes the phone from Chan.
+FIFE:   Thank you, Charlie.  
+(Chan moves to background)  
+Yes - yes -
+CUT TO CLOSEUP on Chan listening.  Fife's voice continues through shot.
+How long ago?
+CUT TO CLOSEUP on Fife speaking in phone:
+Oh this is terrible.  Very well - I'll be there as soon as possible.
+CUT TO MEDIUM SHOT by Chan and Fife - Kee Lin tipped in shot -
+CHAN: Something has happened? FIFE: (Turning in direction of
+                  Chan) Sir Lionel Gray, former Chief of Scotland Yard, has just dropped dead in Barry Kirk's offices in Wall Street.
+                  CHAN: So sorry. Can I be of service? 
+
+
+FIFE: (Turning to Chan) Come with me, Charlie, will you?
+(To Kee Lin) I'm afraid we must go, Kee Lin. Goodnight. KEE LIN: (As Fife makes a step
+                  toward Chan then stops) May blessings come and sit on your doorstep. (In Chinese) Goodnight.
+                  CHAN: Goodnight. FIFE: Goodnight to you. 
+
+
+DISSOLVE TO -  INTERIOR BARRY'S OFFICE -  CLOSEUP on Doctor Hammond. 
+DR. HAMMOND: Unquestionably, gentlemen, a
+                  case of heart failure.  I should say Sir Lionel has been dead over an hour. 
+
+
+FIFE: He died in the line of duty. Although retired, he was still investigating unsolved
+                  cases.
+
+
+CUT TO CLOSEUP on Chan.
+CHAN:   These are your offices, Mr. Kirk?
+CUT TO CLOSEUP on Kirk and Fife.
+
+
+KIRK:   Yes I - I turned them over to Sir Lionel and he's been stopping with me in my penthouse upstairs.
+CUT TO MEDIUM SHOT shooting down on Fife, Chan and Kirk -- Doctor tipped in foreground.
+FIFE:   Did he complain of illness?
+CUT TO FULL SHOT on group around the desk - across which Sir Lionel is sprawled.
+KIRK:   On the contrary, he was in fine spirits.  Said he was on the verge of solving an important case.  CHAN:  
+                  Did he name case?  KIRK:   No. 
+
+CUT TO CLOSEUP on Kirk and Fife as Kirk continues:
+He asked me to invite several guests here tonight -- they're upstairs now.
+CUT TO CLOSEUP on Fife and Chan.   Kirk's voice continues through shot - 
+Then unexpectedly someone telephoned him for an appointment here.
+CUT TO MEDIUM SHOT on Fife, Chan and Kirk - Doctor in foreground tipped in.   (Shooting down) 
+FIFE:   Who?  KIRK:   He gave his name -- I don't recall it. 
+CUT TO CLOSEUP on Kirk and Fife.  Kirk continues: 
+However, after Sir Lionel had been absent an hour, I sent my butler down and he found him -
+CUT TO FULL SHOT on the group around the desk as Kirk finishes:
+- as you see him. CHAN: (Addressing doctor) You
+                  are positive, Honorable Sir, this man died of -
+
+
+CUT TO CLOSEUP -- on Dr. Hammond - Chan's voice finishing through shot -
+- heart failure?  DR. HAMMOND:  Positive, sir.  I would stake my professional - 
+CUT TO CLOSEUP on Chan and Fife.   Dr. Hammond's voice finishes through shot - 
+- reputation on it. CHAN: But who or what stopped heart? FIFE:
+(Turning to Chan) What do you mean, Charlie? CHAN: (Looking at Fife) I
+                  have seen strange thing in this room. FIFE: What? CHAN: House cat has not moved or taken breath since we came.
+
+
+CUT TO MEDIUM SHOT on group of four.
+KIRK:   Cat?  Why where?  CHAN:   Under that chair. 
+CUT TO FULL SHOT in the room -  Chan moves toward foreground where a chair stands, and pushes chair a little back
+                  -- below it lies cat. 
+
+CHAN (Continued): Dead! FIFE: Is that your cat,
+                  Mr. Kirk? KIRK: Yes. FIFE: When did you last see it? KIRK: Upstairs -
+
+
+CUT TO CLOSEUP on Chan listening to voices continue through shot.
+KIRK'S VOICE:   - just before dinner.  FIFE'S VOICE:  That's strange.  CHAN:   Very strange.  Cat is like
+                  rich man's heir -- never dies out of sympathy. 
+
+CUT TO MEDIUM SHOT on the four men around desk at which Sir Lionel lies dead.
+KIRK: Well, you don't think there's a connection? CHAN: (Indicating
+                  Sir Lionel) Prominent detective is about to catch criminal -- at this point detective is found dead.
+
+
+FIFE: That may be mere coincidence, Charlie. CHAN: I always suspect coincidence
+                  - (Indicates his nose) - same as nose always suspect ancient cheese. 
+
+
+CUT TO CLOSE SHOT on Fife, Chan and Kirk.
+FIFE:   You really think --
+CUT TO FULL SHOT on the group around desk -
+CHAN:   Yes.  Hold guests upstairs.  Telephone Inspector Flannery.  This is murder.
+The men turn - Fife moves down to the desk telephone and as he raises it to call number -  FADE OUT.  FADE
+                  IN  INTERIOR BARRY KIRK'S PENTHOUSE.  MEDIUM SHOT on group in room. 
+
+FLANNERY: (To Paradise) Well go on, what happened then?
+                  PARADISE: Why sir, Mr. Kirk sent me below for Sir Lionel and I found the office door and the window open and breeze
+                  blowing all the papers about, sir. So I closed the windows, went into the private office and there, sir, I - I found Sir Lionel.
+                  FIFE: Haven't I seen you before, somewhere? PARADISE: (Turning to Fife) I think
+                  not, sir.
+
+
+Flannery turns - camera moves over with him to take in the guests.
+FLANNERY:   If anyone can throw any light on this affair I'd like it now.  It will be much pleasanter all around than if I
+                  have to dig it up later.
+
+CUT TO CLOSEUP on Kirk, as he stands very thoughtful.  CUT TO CLOSEUP on Gloria - seated.  CUT TO FULL SHOT
+                  of the group - seated in the room.  CUT TO CLOSE SHOT on Enderby.  CUT TO CLOSE SHOT on Mrs. Enderby - very
+                  nervous.  CUT TO CLOSE SHOT on Mrs. Enderby's hands playing with pearl necklace.  CUT TO FULL SHOT of the
+                  guests in room.  CUT TO CLOSEUP on Dunwood - watching.  CUT TO CLOSEUP on Flannery - he turns around. 
+CUT TO CLOSEUP on Gloria - watching.  CUT TO SHOT of the room as Flannery moves over and comes to pause before
+                  Gloria's chair. 
+
+FLANNERY:   Miss Garland, you say you're an actress?  GLORIA:   Yes, and a lot of others have said it too.  FLANNERY:
+                    I'll take your word for it -- Ever played England?  GLORIA:   Yes, often. 
+
+Fife moves over closer to Gloria stands before her as he speaks:
+FIFE:   Have you ever met Sir Lionel before tonight, Miss Garland?  GLORIA:   Never.  FIFE:   What time did
+                  you arrive here tonight - 
+
+CUT TO CLOSE SHOT on Gloria - as Fife's voice continues:
+- for dinner?  GLORIA:   I had intended arriving at eight but coming up the stairs I broke my string of pearls - 
+CUT TO CLOSE SHOT on Chan, Fife and Flannery, voice of Gloria continues:
+- and I spent about twenty minutes -
+CUT TO CLOSE SHOT on Gloria, as she finishes:
+- picking them up - making sure I -
+CUT TO FULL SHOT of the group as she finishes:
+- hadn't lost any. FIFE: I see. FLANNERY: (Moves over
+                  to corner where Enderby and wife sit) Mr. Enderby - Sir Lionel was evidently looking for an Englishman. You were
+                  born in England, weren't you?
+
+
+CUT TO MEDIUM CLOSE SHOT on Mr. and Mrs. Enderby -   Enderby - very indignant as he replies: 
+ENDERBY:   Is that an offense?  MRS. ENDERBY:   Garrick!  Please.  He's not accusing you of anything.  ENDERBY:
+                    Bah!  I don't like this questioning.  Are we suspects? 
+
+CUT TO CLOSE SHOT on Chan and Fife.
+FIFE:   Every guest here had the opportunity during the bridge game after dinner to leave this room.
+CUT TO MEDIUM SHOT ON Enderby and Mrs. Enderby as Fife's voice finishes through shot -
+Did you? ENDERBY: (Indignantly) No I didn't. MRS.
+                  ENDERBY: (Interrupting) Oh, but Garrick you -- ENDERBY: (Glaring down at Mrs.
+                  Enderby) Bah, must you contradict? What were you going to say? MRS. ENDERBY: Nothing.
+
+
+CUT TO CLOSEUP on Dunwood -
+DUNWOOD:   But you left the room just after we lost the third rubber -
+CUT TO MEDIUM CLOSE SHOT by Enderby and Mrs. Enderby - Dunwood's voice finishes:
+- didn't you?  ENDERBY:   You're quite mistaken.  I haven't left the room this evening. 
+CUT TO FULL SHOT on the group in the corner of the penthouse apartment.
+DUNWOOD: My error - Sorry. ENDERBY: (Indignantly) Sorry
+                  - bah! (Exits)
+
+
+CUT TO CLOSEUP on Dunwood and Flannery -
+FLANNERY: And you, Mr. Dunwood? DUNWOOD: Yes, I was out quite a while - in
+                  the garden - admiring the skyline. KIRK: (Enters to the two) I can vouch for Mr. Dunwood
+                  - I brought him out a drink. DUNWOOD: Oh, but I didn't drink it, Inspector. KIRK: My error. I shouldn't have
+                  mentioned it before the Inspector. Sorry. FLANNERY: (To Dunwood) Was it a good drink? DUNWOOD:
+                  Excellent. FLANNERY: How do you know it was? DUNWOOD: (Smiling) You have me there.
+                  FLANNERY: You're an Englishman too, aren't you? DUNWOOD: Australian, educated in London and Heidelberg. FLANNERY:
+                  And your offices are in this building? KIRK: He was my first important tenant. That's how we became friends. Now he
+                  attends to all my investments.
+
+
+CUT TO FULL SHOT in the room, the group in corner -- Flannery back to camera.
+FLANNERY: Thank you, ladies and gentlemen. I'll not keep you any longer. Let's look
+                  around. (Moves over as he finishes and goes through door)
+
+
+CUT TO FULL SHOT other side of door as Flannery enters through it - two men here - he addresses them - Chan and Fife follow
+                  Flannery.
+
+FLANNERY: All right, boys - report to headquarters. MAN: Okay Chief.
+(The two men exit)
+
+
+CUT TO EXTERIOR ROOF OF PENTHOUSE.   MEDIUM SHOT on Chan, Fife and Flannery standing by parapet looking over - the
+                  apartment is seen through windows - two men standing inside - 
+
+FLANNERY: (Pointing over parapet) There's our financial
+                  district, Charlie.
+
+
+CUT TO LONG SHOT on the financial district - night - buildings with lighted windows.  CUT TO MEDIUM SHOT on the group
+                  on penthouse roof - interior seen through windows. 
+
+That's the Battery down there.  Those lights you see - that's the Brooklyn Bridge.  CHAN:   I must see it in daytime.
+                   FLANNERY:   I wonder who made that telephone appointment with Sir Lionel.  CHAN:   He was interested in one
+                  of these guests.  Which one?  FIFE:   I've seen that butler in the prisoners' dock in England somewhere.  CHAN:
+                    Yes?  FIFE:   Yes.  Scotland Yard will have the record. 
+
+CUT TO CLOSEUP on Fife and Chan, as Fife continues:
+What do you think of Enderby?  CHAN:   Enderby?  Oh he reminds me of little lamb.  FIFE:   What?  CHAN:
+                    Every few seconds - 
+
+CUT TO FULL SHOT of the three on the penthouse roof as Chan finishes:
+- he says bah!  Bah!  FIFE:   Very rude to his wife, wasn't he? 
+CUT TO CLOSEUP on Chan and Fife.
+CHAN:   Maybe some people on sea of matrimony wish they had missed boat.
+CUT TO FULL SHOT on penthouse roof as Kirk comes out from inside to the group.
+FLANNERY: Mr. Kirk, I wish you could remember the name of the man who made that telephone
+                  appointment. KIRK: It was John something. I'm sure I'd recognize it if I heard it again. FIFE: (To
+                  Flannery) I wonder if your men have found any fingerprints? FLANNERY: I'm going down and see.
+(Exits right foreground)
+
+
+CUT TO LONG SHOT on the steps that lead down from the roof as Flannery goes down from the roof.  CUT TO MEDIUM SHOT
+                  on Chan, Fife and Kirk on penthouse roof. 
+
+CHAN: (Moves forward) Is possible for any of the party to
+                  have gone downstairs to offices below? (Indicates direction as he speaks) KIRK: Yes it is.
+                  CHAN: Let us go down. (Exits from scene)
+
+
+CUT TO INTERIOR KIRK'S OFFICE.    Flannery comes in through the door - two men are here by the desk - with apparatus
+                  for photographing fingerprints.   
+
+FLANNERY:   Any prints?   EXPERT:   Yes, sir, about ten of them - they look very good, too.
+FLANNERY: (Standing before desk, spreading his fingers on the desk as
+                  he speaks) Yes, someone stood here with his fingers on the desk - facing Sir Lionel. Shoot them down to headquarters
+                  - for classification. (Moves to telephone and picks it up) EXPERT: Yes sir. FLANNERY:
+(Speaking into phone) Operator, I want you to get me Spring 7-3100.
+
+
+CUT TO SHADOW SHOT on door - and wall - the shadow moves along and then Chan comes into the scene, walking along close to
+                  wall, looking around him --- moves along, entering the offices, stands back to camera as he speaks:
+
+CHAN: Did Sir Lionel keep papers in this safe? KIRK: (Entering
+                  to Chan) Yes. CHAN: Open please.
+
+
+Kirk goes through railed part of office to safe -  CUT TO MEDIUM SHOT on Flannery at the phone, experts by him. 
+Flannery speaks into phone. 
+
+FLANNERY:   Flannery speaking.  Give me the Lieutenant.
+CUT TO CLOSEUP on Flannery as he continues, into phone -
+Lieutenant, I want you to trace all calls made on Hanover 2-7700 in the last twenty-four hours.
+CUT TO CLOSE SHOT on Kirk, Chan and Fife in office by safe - Kirk is taking pictures, etc. from open safe.
+KIRK: (As he empties last papers from safe) Why that's odd
+                  - he must have removed the papers. CHAN: (Papers in his hand) Perhaps person who removed
+                  him also removed papers. What is this? (Examines card)
+
+
+CUT TO INSERT of Cosmopolitan membership card -- Kirk's voice comes through shot - 
+KIRK'S VOICE:  That's the membership book to the Cosmopolitan Club -
+CUT TO MEDIUM CLOSE SHOT on Chan and Kirk as Kirk finishes:
+I procured a two weeks' guest card for Sir Lionel. CHAN: (Indicating
+                  names in book) Know any of these? KIRK: No.
+
+
+CUT TO FULL SHOT of the group in room - Kirk and others are seen. Background - Flannery moves toward them from foreground.
+FIFE: (As Flannery enters) We find the safe has been robbed
+                  -
+
+
+CUT TO MEDIUM SHOT by the group - Fife finishes:
+- of all Sir Lionel's papers.
+FLANNERY:   There's your motive, gentlemen.  FIFE:   Undoubtedly. 
+CUT TO CLOSE SHOT on Flannery.
+FLANNERY:  I think the autopsy will -
+CUT TO MEDIUM CLOSE SHOT on Chan, Kirk and Fife.  Flannery's voice continues:
+- show he was killed by with gas.  CHAN:   An almost perfect crime.  Doctor extremely positive verdict was heart failure.
+                  
+
+CUT TO FULL SHOT on group -  Chan and Kirk holding papers in hand. 
+FIFE:   Yes and we would have believed him but thanks to you, Charlie.  CHAN:   No, thanks to honorable cat. 
+CUT TO CLOSE SHOT on Chan and Kirk as Chan continues - holding membership card in hand -
+Here's number written - thirteen thirteen. (Moves over - camera with
+                  him to Flannery) You think this means something? FLANNERY: I don't think so. CHAN: Sometimes
+                  very small cloud hide sun.
+
+
+CUT TO FULL SHOT of the group - telephone bell rings - Flannery picks up phone -
+FLANNERY: (Into phone) Hello, Yes - yes.
+
+
+CUT TO CLOSEUP on Flannery as he continues into phone.
+What's the number?  How's the telephone listed?
+CUT TO FULL SHOT on the four men as Flannery speaks in to phone:
+What name? John R. Douglas. KIRK: (Looks toward Flannery)
+                  That's the name - John R. Douglas. FLANNERY: (Holding up hand to silence Kirk) What's the
+                  address? What's his business? Right. (Puts phone down) Gentlemen, guess what this man's business
+                  is? FIFE: What?
+
+
+CUT TO CLOSE SHOT on Flannery.
+FLANNERY:   Hes a manufacturer of chemicals.  Fits - 
+CUT TO CLOSE SHOT on Chan, Kirk and Fife.    Flannery continues: 
+FLANNERY'S VOICE:  - doesn't it?  CHAN:   Yes - like duck's foot in mud pond. 
+CUT TO FULL SHOT on the four men.
+FLANNERY: Hm - I think we're after the right man. I'll give you a ring as soon as
+                  we pick him up. (Exits) KIRK: Thanks.
+
+
+CUT TO CLOSEUP on Fife, smiling as he speaks:
+FIFE:   Quick work, what?  He's what you Americans call a hot shot.
+CUT TO MEDIUM SHOT Chan, Fife and Kirk.
+CHAN:   Chef who cooks with gunpowder make quick fire.  KIRK:   Well, gentlemen, may I offer you a drink?  CHAN:
+                    No thanks. 
+
+CUT TO CLOSE SHOT on Chan and Kirk as Chan continues:
+On subject of drink I am one-round prize-fighter.  Second round always knock-out.  KIRK:   I hope Flannery is after
+                  the right man. 
+
+CUT TO FULL SHOT on the three.
+FIFE: Think I'll telephone Scotland Yard. Will you get it for me, Mr. Kirk? KIRK:
+                  Certainly. (Lifts phone) FIFE: Thank you. KIRK: (Into phone) Hello
+                  -
+
+
+CUT TO CLOSE SHOT on Kirk and Chan, as Kirk continues into phone.
+- get me Transatlantic Operator, please.  I want to speak to Scotland Yard, London, England.
+CUT TO INTERIOR EXCHANGE -  CLOSE SHOT on operator at switch board - (girl). 
+OPERATOR:   What is your number, please?
+CUT TO INTERIOR KIRK'S OFFICE.  CLOSE SHOT on Kirk at phone. 
+KIRK:   Hanover 2-7700.
+CUT TO INTERIOR EXCHANGE -  CLOSEUP on operator (girl) at switch board - 
+GIRL:  Scotland Yard, London.
+CUT TO ANOTHER EXCHANGE - MEDIUM CLOSE SHOT on male operator at big switch board
+                  as he raises phone, plugs in -
+
+
+MAN:   Are you through to London?
+CUT TO CLOSEUP on dial indicator as the hands travel around the face of the dial.   CUT TO WIDE SHOT on open country
+                  with the high tower - from which the spark of the electric current is seen - as it comes from the top of the tower and travels
+                  across the sky - NIGHT.   FADE TO WIDE SHOT over ocean - showing the electric current passing through space over
+                  the ocean - NIGHT.   FADE TO WIDE SHOT country location lights from small houses seen - the electric wave passes
+                  through space toward large receiving towers - NIGHT.   CUT TO EXTERIOR LONDON telephone exchange - man with earphones
+                  at switch board operating keys.   DISSOLVE TO -   CLOSE SHOT of girl at switch board.  
+
+GIRL:   Hello - Are you there?  This is London.  I'll put you through to Scotland Yard.
+CUT TO CLOSE SHOT on girl operating switch board. CUT TO AN EXTERIOR SHOT. CUT
+                  TO INTERIOR SCOTLAND YARD OFFICE of Chief - MEDIUM SHOT - Chief seated at desk - clerk standing at desk speaking into phone.
+
+
+CLERK: Hello, are you there? Yes, this is Scotland Yard. (To Chief)
+                  Here's New York on the telephone, sir. CHIEF: (As he takes phone from clerk) Thank you.
+(Into phone) Hello.
+
+
+CUT TO INTERIOR KIRK'S OFFICE.  CLOSE SHOT on Kirk, Chan and Fife - Fife speaking into phone. 
+CUT TO CLOSEUP of Fife speaking in phone:
+I'm sorry to report - Sir Lionel Grey was murdered here tonight.
+CUT TO INTERIOR SCOTLAND YARD.   CLOSE SHOT on Chief speaking into phone.
+CHIEF:   Oh, terrible!
+CUT TO INTERIOR KIRK'S OFFICE.  CLOSEUP on Fife at phone.
+FIFE:   Please cable me immediately, in code, name of case in which he was interested and full details.  Also complete data
+                  on a man named -
+
+CUT TO CLOSEUP on Chan and Kirk.   Voice of Fife finishes through shot -
+- Stanley Paradise.
+CUT TO INTERIOR SCOTLAND YARD -  CLOSE SHOT on Chief at desk, speaking into phone - 
+CHIEF:   Yes, you shall have it forthwith.
+CUT TO INTERIOR KIRK'S OFFICE -  MEDIUM CLOSE SHOT on Fife, Kirk and Chan. 
+FIFE: Thank you. (Puts phone down) KIRK:
+(To Fife) Are you investigating my butler? FIFE: (Turning to Kirk) Merely
+                  a matter of routine, Mr. Kirk. KIRK: Oh. Well, gentlemen, I'll see you upstairs.
+
+
+CUT TO FULL SHOT in office as Kirk exits.  Chan moves down to foreground where Fife stands. 
+FIFE:   Strange lack of clues, Charlie.
+CUT TO CLOSE SHOT on Chan and Fife.
+CHAN:   Remember, nothing but the wind can pass the sun without casting shadow.
+FIFE: (Indicating direction) Let's take a look in here.
+
+
+CUT TO FULL SHOT as Chan and Fife exit - camera with them, as they move through to another part of office where two men are.
+MAN: (To other man as Chan and Fife enter) All right, Mac.
+                  MAC: Goodnight, Inspector. MAN: Goodnight. (Mac and the man exit)
+
+
+CUT TO CLOSE SHOT on Chan and Fife at the desk.
+FIFE: Charlie, I'm going to make an important inquiry. CHAN: Yes? FIFE:
+                  You've solved some extraordinary cases. I wish I could make you stay and help me. CHAN: (Taking out envelope
+                  from pocket) You forget, there's new baby in our family in Honolulu. FIFE: No I don't. It's a boy, isn't
+                  it? CHAN: Oh yes, a boy. Most fortunate. Out of eleven opportunities, I've been unfortunate three times. FIFE:
+(Laughing) That's splendid. CHAN: Well, I must send cable. (Sits down at desk)
+Baby will have to wait a while to see old papa. (Takes out cable blanks) FIFE:
+(Standing at desk) You mean you'll stay, Charlie?
+
+
+CUT TO CLOSE SHOT on Chan looking up in direction of Fife.
+CHAN:  When friend asks, friend gives.
+CUT TO MEDIUM CLOSE SHOT on Chan and Fife.
+FIFE:   That's splendid.  Thank you, Charlie.
+CUT TO CLOSE SHOT on Chan at the desk - takes up pen, dips it into ink, and tries to write with it.  Unsuccessful - so picks
+                  up another pen.  CUT TO MEDIUM CLOSE SHOT on Chan seated at desk, Fife standing by him - Chan draws the ink stand
+                  to him -  CUT TO CLOSE SHOT Chan dipping pen into ink again - as he does so the pen comes into contact with something
+                  in ink well - Chan leans forward as he gets this.  CUT TO CLOSEUP on Chan's hand holding the pen as it stirs around
+                  in the ink well -  CUT TO CLOSE SHOT on Chan, takes up small piece of blotting paper and blots the ink out of the
+                  ink well.  CUT TO CLOSE SHOT on Fife watching this operation.  CUT TO CLOSE SHOT on Chan as he extracts pearl
+                  from ink well.  CUT TO CLOSEUP on Chan's hand - it lifts the pearl between fingers.  CUT TO CLOSE SHOT on
+                  Chan and Fife as Chan examines the pearl.  CUT TO CLOSE SHOT of he two - another angle. 
+
+CHAN:   Pearl from string. 
+FIFE:   The broken necklace. 
+CUT TO CLOSE SHOT - different angle of two.
+DISSOLVE TO -   WIDE SHOT EXTERIOR ROAD HOUSE CAFE NIGHT - As a car drives up to the door of the cafe.  DISOLVE
+                  TO -   INTERIOR LOBBY OF CAFE as Shirley comes up the stairs in background, moving down to foreground where waiter
+                  stands near entrance to dining room. 
+
+WAITER:   How do you do, madam.
+CUT TO MEDIUM CLOSE SHOT on Shirley and waiter near entrance to dining room. 
+SHIRLEY: Mr. John R. Douglas - I'm to meet him here. WAITER: Oh, yes madam
+                  - (Glances through doorway to cafe) - this way please.
+
+
+CUT TO FULL SHOT as the waiter and Shirley start down into the cafe passing tables and on to a corner   table -  
+CUT TO ANOTHER SHOT by corner table as the waiter brings Shirley to Douglas, who is there.  
+
+WAITER:   Here's the lady, sir.  JOHN:   Hello, Shirley.  SHIRLEY:   Hello.  Am I late?  JOHN:   No.
+                   You must have hurried.  SHIRLEY:   Oh I did. 
+
+CUT TO CLOSE SHOT by John, Shirley and waiter at table.
+WAITER: (Handing menu to John) Supper sir? JOHN:
+(To Shirley) Supper? SHIRLEY: Oh - oh no, thank you, nothing to eat. Just coffee. JOHN: The
+                  same for me, please. WAITER: Yes sir. (Exits)
+
+
+CUT TO CLOSEUP on Shirley.
+SHIRLEY:   You know, I had a feeling I was being followed.
+CUT TO MEDIUM CLOSE SHOT on the two at table.
+JOHN:   So did I.  SHIRLEY:   You did?
+CUT TO CLOSEUP on Shirley as she continues:
+Did you see Sir Lionel?
+CUT TO CLOSEUP on John.
+JOHN:  Yes, but it wasn't easy.
+CUT TO CLOSEUP on Shirley.
+SHIRLEY:   He didn't refuse to see you?
+CUT TO CLOSEUP on John.
+JOHN:   Oh no, no.  He was attending a bridge party in Barry Kirk's penthouse and I was obliged to wait in the office below.
+                  
+
+CUT TO MEDIUM CLOSE SHOT on the two as John continues:
+He seemed surprised when he found I'd come from you - tried to trick me into telling him where you lived and your name. 
+SHIRLEY:   But you didn't?  JOHN:   Of course not. 
+
+CUT TO CLOSEUP an John as he continues:
+I told him I wouldn't unless he promised to protect you.
+CUT TO CLOSEUP on Shirley as John's voice continues though shot --
+But he refused to compromise.
+CUT TO MEDIUM CLOSE SHOT of the two.
+SHIRLEY:   What will he do?
+CUT TO CLOSEUP on John.
+JOHN:   He said if you didn't tell him where Alan Raleigh is and testify against him - 
+CUT TO MEDIUM CLOSE SHOT on the two as John continues:
+- he'd find you, take you back to England and try you as an accessory after the fact for shielding a murderer. 
+CUT TO FULL SHOT by table - the waiter enters with coffee and cups on a tray and starts
+                  putting them on the table. CUT TO CLOSE SHOT on John and Shirley as the cups and coffee are put down on the table
+                  before them. CUT TO MEDIUM CLOSE SHOT on the group at table - waiter finishes putting cups, etc. down. CUT
+                  TO CLOSEUP on Shirley, her head a little averted. CUT TO MEDIUM SHOT as waiter exits. CUT TO CLOSE SHOT on
+                  John and Shirley.  John continues - now that waiter has gone.
+
+
+I pleaded with him - told him he was heaping tragedy on a girl who had suffered too much already.  But he's an iceberg. 
+CUT TO CLOSEUP on Shirley much distressed as she speaks.
+SHIRLEY:   But didn't you tell him I don't know where Alan is?  That I'd never seen him since that night in London? 
+CUT TO CLOSEUP on John.
+JOHN:   He doesn't believe it.  I told him he was asking too much of you -- of any girl -- to send a man she once loved to
+                  a hangman. 
+
+CUT TO MEDIUM CLOSE SHOT of the two.
+SHIRLEY: Couldn't he understand that? JOHN: (Folding his hands
+                  on the table) He agreed to think it over - he told me to come back tomorrow afternoon at -
+
+
+CUT TO CLOSEUP on Shirley.  John's voice finishes: 
+- three o'clock.  SHIRLEY:   Maybe he said that so he can have you followed and find me. 
+CUT TO MEDIUM CLOSE SHOT on the two.
+JOHN: In that case I'd better not see him again. (He takes up coffee
+                  pot to pour coffee) SHIRLEY: (Stopping him) I don't think I even want coffee,
+                  John. Do you mind taking me home? JOHN: Of course not. (Puts coffee pot down again) (Calls off [scene])
+Check, please.
+
+
+CUT TO FULL SHOT by the table as waiter to the table with check, which John takes, pays waiter -
+WAITER:  Thank you.
+As John and Shirley rise from table -  DISSOLVE TO -  EXTERIOR SHIRLEY'S APARTMENT HOUSE.  THEY GET
+                  OUT of the car and start up steps to door.  CUT TO CLOSE SHOT on Shirley and John outside apartment house door - he
+                  kisses her - 
+
+JOHN:   Goodnight, dear.  Think it over.  Marry me and we'll go away together. 
+CUT TO MEDIUM CLOSE SHOT on the two.
+SHIRLEY:   Oh, I'd like to.  I love you better than anything else in the world, but don't ask me to decide now.  Goodnight,
+                  dear.
+
+(They kiss again - John opens the door for her and she goes inside)  CUT TO EXTERIOR STREET by car as John comes down
+                  to the car, gets into driver's seat and starts car -  CUT TO FULL SHOT exterior apartment house as John drives out
+                  in car.  DISSOLVE TO -  FULL SHOT exterior street near filling station - Flannery stands in foreground with
+                  filling station man -   Newsboy enters from background shouting papers - 
+
+NEWSBOY:   Extra!  All about the Wall Street murder!  All about the Wall Street murder.  Extra - paper.  FLANNERY:
+                   Hey, boy! 
+
+The boy comes down from foreground to Flannery with paper --  In the background a car drives into scene toward filling
+                  station.    Newsboy goes away shouting his wares.  His voice continues throughout the scene as he shouts: 
+
+NEWSBOY:   PAPER!  EXTRA!  All about the Wall Street murder.  Thank you.  Paper, sir?  Here you are. 
+MEDIUM SHOT on John's car going along.  CUT TO MEDIUM SHOT by filling station as John drives his car in to the foreground,
+                  stopping just where Flannery and the filling station man stand.  Newsboy's voice continues shouting: 
+
+Paper!  Paper!  All about the Wall Street murder!  Paper - Extra!  Extra!  Evening Journal!  All about the Wall Street murder.
+CUT TO CLOSE SHOT on the filling station man, standing by car in which John sits - man gives broad and knowing wink to Flannery
+                  -  CUT TO MEDIUM SHOT on Flannery and John - who is in car - as Flannery opens the door of the car and speaks: 
+
+FLANNERY:   Come on - get out on this side.
+CUT TO CLOSE SHOT by John and Flannery -
+JOHN:   What for?  FLANNERY:   Ride down to headquarters.  JOHN:   Why?  FLANNERY:   Take a look at
+                  those headlines. 
+
+As he says this, Flannery hands the paper he has just bought to John.  John takes it and studies it -  CUT TO INSERT
+                  on the paper with glaring headlines about murder of Sir Lionel Grey.  CUT TO MEDIUM CLOSE SHOT by John and Flannery
+                  as John looks up from the paper to Flannery -  FADE OUT.  FADE IN  INTERIOR KIRK'S OFFICES -  
+MEDIUM SHOT as Flannery enters to Fife and Chan, who stands back to camera. 
+
+FLANNERY:   The autopsy showed no signs of poisoning in the stomach but the lungs showed -
+CUT TO CLOSE SHOT Fife with Chan, as Flannery finishes:
+- gas.  FIFE:   Has Douglas decided to talk yet? 
+CUT TO CLOSEUP on Flannery.
+FLANNERY:   He denies he was here last night but the fingerprints we found on the desk are his.
+CUT TO CLOSE SHOT on Chan, Fife and Flannery -
+CHAN:   What about the elevator boy?  FLANNERY:   Identified him positively -
+CUT TO ANOTHER CLOSE SHOT of the group as Flannery continues:
+- as the man he brought up and took down just about the time of the murder.  When we proved Douglas was lying he shut up like
+                  a clam.
+
+FIFE:   That looks bad for him.  FLANNERY:   He's guilty.  If he isn't, why does he lie?  Why is he afraid to talk?
+                  
+
+CUT TO ANOTHER CLOSE SHOT of the three men.
+CHAN: Silence is golden except in police station... FLANNERY: I'm going down
+                  and give him another grilling. Where can I reach you? (This to Fife) FIFE: We're staying
+                  here -
+
+
+CUT TO ANOTHER MEDIUM CLOSE ANGLE of the group as Fife continues:
+Mr. Kirk insisted upon our being his guests during the investigation. FLANNERY:
+                  We? (To Chan) Thought you were on your way to Honolulu.
+
+
+CUT TO ANOTHER CLOSE ANGLE of the three.
+FIFE: No - Mr. Chan has kindly consented to stay. FLANNERY: Oh - think we
+                  need help, Charlie? CHAN: (Indicating Fife) Inspector Fife - (Changes tone)
+Oh, I want to go home and meet new boy.
+
+
+Fife and Flannery laugh.
+FLANNERY:   Do you mean to say I have the wrong man?
+CUT TO CLOSE SHOT of the three - different angle.  Flannery tipped in.
+CHAN:   Can happen.   Even wise fly sometimes mistake spider web for old -
+CUT TO FULL SHOT on the three, Chan finishes:
+- man's whiskers. FLANNERY: Well I hope you dig up something. It sometimes
+                  takes two heads to. CHAN: (Makes gesture) Also takes two heads to make empty barrel. FLANNERY:
+                  See you later. (Exits)
+
+
+CUT TO MEDIUM CLOSE SHOT on door as Flannery exits through it.  CUT TO CLOSE SHOT by Chan and Fife - 
+FIFE: Yeah. Charlie, tell me, why - why do you pay so -- (Pauses as he
+                  sees Chan looking off scene - looks that way also)
+
+
+CUT TO CLOSE SHOT on door with glass panel against which man's shadow is seen.  CUT TO CLOSE SHOT by Chan and Fife,
+                  Fife starts away.  CUT TO MEDIUM SHOT in room as Fife goes to the door and opens it quickly, disclosing Paradise outside,
+                  listening. 
+
+PARADISE:   Pardon, sir - I --
+CUT TO CLOSE SHOT on Chan - he is watching suspiciously toward direction of Paradise (Off [scene]).     Voice of
+                  Paradise continues through shot --   
+
+PARADISE'S VOICE:   I was just about to knock.
+CUT TO MEDIUM SHOT on Fife and Paradise at door - as Paradise continues:
+Letter addressed to Sir Lionel - (Hands large envelope to Fife)
+                  - 
+
+
+CUT TO MEDIUM SHOT by group of three - camera shooting toward Chan through doorway at which Fife and Paradise stand. 
+Paradise continues: 
+
+- and Miss Garland's waiting upstairs, sir.  FIFE:   Thank you.  PARADISE:   Yes, sir. 
+CUT TO CLOSE SHOT on Chan - watching toward direction of Paradise.  CUT TO MEDIUM SHOT by Chan.  Fife enters
+                  to him with the envelope in his hand. 
+
+FIFE: From Scotland Yard to Thomas Cook and Sons. CHAN: Is not Garrick Enderby
+                  with Cook and Son? FIFE: (Opening the letter) Yes. (Examines contents of envelope)
+A blank sheet of paper! (Holds up envelope and examines it closely) Charlie, this envelope
+                  has been steamed and re-sealed.
+
+
+(Chan has the paper in his hand and is examining it through magnifying glass)
+CHAN: (Examining paper through glass) And whoever did this
+                  forgot to cleanse his hands. FIFE: Why? CHAN: There's one fine thumb print. FIFE: Show me.
+(Takes paper and glass from Chan - examines paper) Hm. I'm going to try and match that thumb print at Thomas
+                  Cook and Sons. Charlie, I'll get you to interview Miss Garland for me - will you? CHAN: Me? FIFE:
+(Nodding his head) Yes.
+
+
+Charlie searches through his pockets and takes out pearl, holding it between his fingers - exits from scene.  CUT
+                  TO INTERIOR ROOM IN KIRK'S PENTHOUSE APARTMENT -   MEDIUM SHOT on Dunwood and Gloria - as they speak the camera moves
+                  closer to them. 
+
+DUNWOOD:   Well I leave you to the tender mercies of the police.  GLORIA:   Stay here with me - I'm frightened. 
+CUT TO CLOSE SHOT of the two - Dunwood facing camera.
+DUNWOOD:   Great Scott!  You don't know anything to tell them do you?
+CUT TO CLOSE SHOT of the two - different angle - Gloria faces camera.
+GLORIA:   No.
+CUT TO CLOSE SHOT of the two.  Dunwood faces camera.
+DUNWOOD: Oh, well in that case speak freely. (He turns)
+
+
+CUT TO FULLER SHOT of the two as Dunwood continues:
+Kirk's waiting for me - I'll see you later.
+Dunwood exits - Gloria moves toward the table at background near window - camera moves back as she goes.
+PARADISE: (Entering from foreground) May I bring you something
+                  to drink while you're waiting, Miss Garland? GLORIA: (As she takes out cigarette and lights lighter)
+No, thank you.
+
+
+Paradise exits, Gloria lights her cigarette - Chan seen entering scene outside on the roof -    Chan comes into the
+                  room. 
+
+CHAN:   Good morning, Miss Garland.  Inspector Fife appointed me unworthy -
+CUT TO CLOSEUP on Gloria as she turns - Chan's voice finishing through shot.
+- substitute. GLORIA: (Rising) I told Inspector
+                  Flannery everything I knew about this last night.
+
+
+CUT TO CLOSE SHOT on Chan.
+CHAN:   Humbly begging pardon, I'm in great hurry.
+CUT TO FULL SHOT of the two - Gloria is moving away from Chan.  Chan enters to her - camera moving up on the two as
+                  Chan continues: 
+
+How did this pearl from your broken string mix itself with ink on Sir Lionel's desk?
+(Holds up pearl as he speaks) GLORIA: It isn't mine. (She moves away - Chan follows
+                  her) CHAN: Do not tangle foot on fringe of murder.
+
+
+(Gloria moves down)
+(Chan follows) Only foolish mouse plays with cat. Were you in Sir Lionel's
+                  office last night before he died or after?
+
+
+Gloria turns from Chan without answering and moves to window seat in background where she sits.  Chan moves after
+                  her.  CUT TO CLOSEUP on Chan and Gloria, as Chan seats himself by Gloria.
+
+GLORIA: (Realizing she has got to speak) Wait - I'll tell
+                  you everything. He stopped me as I passed the office on my way up here. He told me he had asked Mr. Kirk to invite me here
+                  for a special request. CHAN: And that reason was --? GLORIA: He asked me about a girl who disappeared from
+                  a show four years ago in London - a girl I played with. He wanted to know if I'd seen her in New York. I told him no. CHAN:
+                  Why did you tell him no? GLORIA: We were dear friends. She's a lovely girl. I was afraid I might get her into some
+                  trouble. CHAN: Where can I find her? What is her name? GLORIA: She's known as the Masked Dancer at the Follies.
+                  CHAN: The Masked Dancer at the Follies?
+
+
+CUT TO MEDIUM CLOSE SHOT on the two - Chan speaks to someone off [scene].
+Paradise, my hat. (Rises) (To Gloria) Pardon Haste. Thank
+                  you so much. (Hands her pearl as he says) Oh, your pearl. GLORIA: (Rising)
+                  Is that all you want to know - just that one thing? CHAN: One at a time is good fishing.
+
+
+CUT TO WIDE SHOT in the room as Paradise enters with Chan's hat, hands it to him - opens door for Chan - who goes out. 
+FADE OUT.  FADE IN  INTERIOR STAGE of Follies -  FULL SHOT shooting down on the Masked Dancer
+                  as she runs on to the stage - center - takes her bows to the applause which comes through the shot.  The curtain comes down
+                  - dancer moves toward wings to exit.  CUT TO FULL SHOT shooting down on to the stage, showing other dancers around
+                  - as Shirley (the Masked Dancer) runs along stage toward the stairs up which she starts.  CUT TO SHOT on the stairs
+                  as Shirley runs up the stairs -   ANOTHER SHOT - she comes to door to dressing room at top, through which she goes.
+                   CUT TO INTERIOR DRESSING ROOM FULL SHOT as Shirley comes in and sits down at dresser.  CUT TO MEDIUM SHOT
+                  in wings of stage - Chan is here with stage hand - the stage hand points in the direction of the stairs. 
+
+MAN: There's her room - number one - right up there. CHAN: Thank you so much
+                  - (Chan exits from the scene)
+
+
+CUT TO INTERIOR DRESSING ROOM - Shirley seated at the dressing table, preparing to remove make up.  CUT TO INTERIOR
+                  DRESSING room door by stairs, as Chan comes to it - takes out card from his pocket and writes on it - knocks on door. 
+CUT TO INTERIOR DRESSING ROOM - full shot - as knock is heard Shirley speaks to maid. 
+
+SHIRLEY: See who it is. (Rises - maid goes to door)
+
+
+CUT TO EXTERIOR OF DOOR - maid opens it.
+CHAN: (Handing card to maid - off scene) Will you give card
+                  to lady, please?
+
+
+MAID'S VOICE:   Yes sir.
+Chan stands by the door - up the stairs come the chorus girls on their way to dressing rooms - they pass Chan as he stands
+                  at the door watching them.
+
+CHORUS GIRL: (As she passes Chan) Who ordered chop suey?
+
+
+CUT TO ANOTHER SHOT on the stairs.  More chorus girls run up the stairs.
+SECOND CHORUS GIRL:  No laundry today.
+CUT TO MEDIUM SHOT shooting from the stairs toward Chan who stands by dressing room door watching the girls as they run up
+                  the stairs - their costumes decidedly scanty.
+
+CHAN:   So I notice.
+CUT TO CLOSE SHOT INTERIOR DRESSING ROOM by door as the maid opens it to Chan outside - says:
+MAID:   Can't you see Mademoiselle after the matinee, sir?  CHAN:   Tell her I'm afraid person Sir Lionel sought may
+                  disappear again.  SHIRLEY'S VOICE:  Ask him to come in. 
+
+Chan comes into the room - camera moves over with him as he crosses to Shirley at dressing table - she speaks to maid --
+SHIRLEY:   Tanya, would you wait outside, please?
+CUT TO CLOSER SHOT on Chan and Shirley - she is seated at the dresser - Chan stands by her.
+CHAN:   I must ask you please to remove mask.  SHIRLEY:   I always wear it to and from the theatre and while I'm here.
+                  
+
+CUT TO MEDIUM CLOSE SHOT on the two.
+CHAN:   Also, perhaps, to avoid recognition.  
+(Shirley rises)  CUT TO CLOSEUP on Shirley as she removes her mask.  CUT TO MEDIUM SHOT of the two. 
+SHIRLEY:   Well?  CHAN:   You look like nice girl...
+(She turns away from Chan) 
+- you have not been happy since that night in London four years ago when you disappear?
+CUT TO CLOSE SHOT on Shirley, distressed as she speaks:
+SHIRLEY:   You're making sure I'll never be happy again, aren't you?  CHAN'S VOICE:   I seek only truth. 
+CUT TO MEDIUM SHOT on the two as Chan continues:
+A man has been arrested and charged with murder.  I do not believe he's guilty.
+CUT TO CLOSEUP on Shirley as she speaks a little wildly.
+SHIRLEY:   He isn't -- he's innocent.  Why, he didn't even know Sir Lionel was dead.  He was going back this afternoon to
+                  see him.
+
+CUT TO MEDIUM SHOT of the two.
+CHAN: You knew he was there then? SHIRLEY: He went to Sir Lionel to plead
+                  for me. CHAN: He is shielding you? That is why he will not talk. (Turns around looking down toward chair)
+May I take seat? SHIRLEY: Of course. CHAN: Thank you. Now tell me... SHIRLEY: You'll only
+                  use what I tell you -
+
+
+CUT TO CLOSEUP on Chan - Shirley's voice finishes through shot -
+- against me.  CHAN:   You forget police are also human beings.  You can trust me. 
+CUT TO CLOSEUP on Shirley as she sits down.  CUT TO MEDIUM SHOT on Chan and Shirley - as she turns in Chan's direction
+                  -  CUT TO CLOSEUP on Shirley as she starts to speak: 
+
+SHIRLEY:   Well I was in love with Alan Raleigh.  We were to be married - I was young - infatuated.  The day after his aunt's
+                  death I discovered he was guilty of the crime.
+
+CUT TO CLOSE SHOT on Chan -
+CHAN:   That is why you disappeared.
+CUT TO CLOSEUP on Shirley as Chan finishes:
+SHIRLEY:   Oh, I had loved him.  I couldn't give him up to justice.  But ever since, I've been hunted - hunted - as if I myself
+                  were guilty.
+
+CUT TO MEDIUM SHOT of the two.
+CHAN:   Did you go with him?  SHIRLEY:   No.  I've never seen him since that day in London, but I think he's in New
+                  York.  CHAN:   Why?  SHIRLEY:   I've seen his Chinese servant here. 
+
+CUT TO CLOSE SHOT on Chan - he becomes more interested.
+CHAN:   Do you remember name of servant?
+CUT TO CLOSEUP on Shirley -
+SHIRLEY:   In London he was called Li Gung.
+CUT TO CLOSE SHOT on Chan repeating the name.
+CHAN:   Li Gung - Li Gung.
+CUT TO CLOSEUP on Shirley becomes more worried.
+SHIRLEY:   What will they do to John?  CHAN'S VOICE:   You are much interested in him?  SHIRLEY:   Oh, he
+                  must be freed.  If necessary I'll tell them everything - I'll even let them take me back and - 
+
+CUT TO MEDIUM SHOT on Chan and Shirley as she finishes:
+- try me. CHAN: No - no. More important to find Alan Raleigh. For present
+                  keep secret. I will keep also - like good friend. SHIRLEY: (Putting her hand in his) Oh,
+                  I need a friend. John and I both need a friend - desperately. CHAN: I will try to be that friend.
+
+
+CUT TO CLOSE SHOT of the two as they get up from chairs - Chan still holding her hand.
+SHIRLEY: Oh thank you. I'm sure you can help us. CHAN: I'm only insignificant,
+                  clumsy person, and it is difficult to pick up needle with boxing glove. (Exits)
+
+
+DISSOLVE TO -  INTERIOR KEE LIN'S RESTAURANT.  MEDIUM SHOT on Kee Lin and Chan seated together in room. 
+KEE LIN:   No matter how great the difficulty, fortune always leave an open door, through which can come remedy.  CHAN:
+                    You encourage me, honorable friend.  KEE LIN:   Tell me how I can help you?  CHAN:   You have done so already.
+                    Friends, like fiddle strings, should not be stretched too tight.  KEE LIN:   Ask. 
+
+CUT TO CLOSEUP on Chan.
+CHAN:   I seek man named Li Gung.  Where can I find him, wise one?
+CUT TO CLOSEUP on Kee Lin - he considers this - putting finger to forehead.
+KEE LIN:   Li Gung.  On Lee Street.  Number thirteen thirteen, there is a man called Henry Li -- he has a cousin Li Gung who
+                  some time comes to visit him.
+
+CUT TO MEDIUM SHOT ON THE TWO.
+CHAN: Thirteen thirteen. And this Li Gung - what is known of him? KEE LIN:
+                  Very little except he once lived in Limehouse - London. CHAN: Limehouse - London. Out of the darkness of the unknown
+                  comes bright spark of light. My humble gratitude is yours. (Takes up hat) Duty says I must walk
+                  my way. (Rises from chair) KEE LIN: (Bowing - in Chinese) Goodbye.
+                  CHAN: (Bowing - in Chinese) Goodbye. (Exits)
+
+
+DISSOLVE TO -  INTERIOR HALLWAY of Li Gung's apartment house - FULL SHOT as Chan comes up the stairs - pauses by door
+                  and listens - then starts up on the next flight of stairs till he reaches the corner, turns here and starts down a step or
+                  two again - stumbles and clatters down the remaining steps of the flight till he comes to position near door - he holds his
+                  ankle as though he has hurt it.  CUT TO MEDIUM SHOT on door as it opens and Henry comes out to where Chan is sitting
+                  on the stairs. 
+
+HENRY: What's the matter - did you hurt yourself? CHAN: (Rubbing
+                  his ankle) I have given my ankle a bad turn - if only I could rest a little. HENRY: Sure. (Crossed
+                  to Chan and helps him to his feet) Here let me help you. Come on. (He helps Chan in through doorway)
+
+
+CUT TO INTERIOR LI GUNG'S ROOM.  FULL SHOT as Henry helps Chan in Li Gung is there - 
+HENRY: Say uncle, this gentleman hurt himself. LI GUNG: (Rising
+                  from chair and going toward the two) Condescend to enter my contemptible abode. CHAN: Thank you.
+
+
+CUT TO CLOSER SHOT by three as Chan sits.  CUT TO MEDIUM CLOSE SHOT on Henry and Chan near door.
+HENRY: I go get first aid kit. (Moves toward background) CHAN:
+                  Injury not serious enough for first aid kit.
+
+
+CUT TO CLOSEUP on Henry.
+HENRY:   But every day Boy Scout have got to do one good deed.
+CUT TO FULL SHOT by group in room as Henry turns and exits through door.  CUT TO MEDIUM CLOSE SHOT on Chan and Li
+                  Gung.
+
+CHAN: Every day one good deed - nice boy. Accident overwhelmed me while in search
+                  of my old friend Li Gung. LI GUNG: (Becomes suspicious - looks at Chan) You're friend of
+                  Li Gung? (Looks toward a photograph on table - Chan's eyes look in the same direction)
+
+
+CUT TO INSERT of photograph of Chinese man in European clothes.  Voice of Chan heard through shot.
+CHAN'S VOICE:   Yes --
+CUT TO MEDIUM CLOSE SHOT on Chan and Li Gung.  Chan continues:
+That is excellent likeness of him.  LI GUNG:   Yes -- he was here this morning.  CHAN:   Where can - 
+CUT TO CLOSEUP on Li Gung - Chan's voice finishes through shot -
+- I find him?  LI GUNG:   He disappeared on business of his own. 
+CUT TO CLOSEUP on Chan as he says:
+He still works for same Englishman?
+CUT TO CLOSEUP on Li Gung as he says:
+My cousin speaks little of his affairs.
+CUT TO CLOSEUP on Chan, turns away as he says:
+CHAN:   Hm - probably why he is so valuable to his employer.
+CUT TO FULL SHOT in the room as the door opens and Henry comes in with Doctor, who carries kit bag.
+HENRY: Here's Doctor Bloom - he's got a first aid kit. DOCTOR: (Looking
+                  from Chan to Li Gung) An accident - which one of you? HENRY: (Indicating Chan) His
+                  ankle. DOCTOR: Oh. (Moves forward to where Chan is sitting)
+
+
+CUT TO MEDIUM CLOSE SHOT on Chan and the Doctor as Doctor enters to Chan and kneels before him.
+CHAN: But I don't need a doctor - it - it is not serious. (Doctor starts
+                  to take off Chan's sock as he speaks) DOCTOR: All sprains are serious. It's a good thing you sent for
+                  me in time. CHAN: But I did not send for you. HENRY: No - I did - that's my good deed for today. CHAN:
+                  Hm.
+
+
+CUT TO CLOSE SHOT on Chan as Doctor takes off the sock and examines foot - twisting foot.  CUT TO WIDER SHOT as Doctor
+                  twists foot - 
+
+DOCTOR:   What's the idea?  There's nothing wrong with this ankle.
+CUT TO ANOTHER shot of the group.
+CHAN:   I told you it was nothing.
+CUT TO WIDER SHOT by the group as the Doctor rises to his feet - holds out his hand to Chan as he speaks:
+DOCTOR:   Five dollars please... 
+(Chan counts out money)  CUT TO FULL SHOT in the room as Chan counts out money and gives it to Doctor.
+DOCTOR: Thank you. Good day. (Bows to Chan) Good day sir.
+                  (Bows to Li Gung and exits) CHAN: (Putting on sock) A fool and
+                  his money never become old -
+
+
+CUT TO CLOSEUP on Li Gung as Chan finishes:
+- acquaintances.  LI GUNG:   So I observe. 
+CUT TO CLOSE SHOT on Chan working with his shoe, out of scene.
+CHAN:   These doctors - five dollars for this - what would he charge for a broken neck?
+CUT TO MEDIUM SHOT on Chan and Li Gung - as Li Gung picks up Chan's hat and hands it to Chan.
+LI GUNG:   Here's your hat.  CHAN:   Oh I see - guest - 
+CUT TO CLOSE SHOT on Chan and Li Gung as Chan continues:
+- who lingers too long becomes stale like unused fish.  LI GUNG:   You are second man who has come here for Li Gung.
+                   CHAN:   Yes?  LI GUNG:   The other was Englishman - did I not read in paper of his death?  CHAN:
+                   Possibly. 
+
+CUT TO FULL SHOT in the room as Chan exits through door.  CUT TO MEDIUM SHOT by the door to apartment and stairway
+                  as Chan comes out - Li Gung stands in the doorway. 
+
+LI GUNG:   If you will accept humble advice -- step carefully - rain quenches unguarded fire.
+CUT TO CLOSE SHOT on Chan and Li Gung.
+CHAN:   Ah yes - but it takes very rainy day to drown duck.
+Li Gung slams door shut.  CUT TO ANOTHER SHOT of the stairs, as Chan starts down the stairs - shooting to Chan going
+                  down, through banisters.  Henry enters down the stairs to Chan with sock as he calls: 
+
+HENRY: Hey mister - (Enters to Chan on stairs) - you forgot
+                  your sock.
+
+
+CUT TO ANOTHER SHOT on the two.  Chan takes the sock, pats Henry's shoulder and smiles at boy as he says:
+CHAN:   Thank you so much.   And every day when you are doing kind deed, remember kind hearted elephant who tried to help
+                  hen hatch chickens.  HENRY:   What did he do?  CHAN:   He sat down on hen's eggs.  
+
+(Exits down the stairs, Henry stands, open mouthed staring after Chan - then after a pause calls down stairs)
+HENRY:   I got you.
+FADE OUT.   FADE IN  INTERIOR KIRK'S OFFICES -   MEDIUM CLOSE SHOT on Fife seated at desk, Dunwood
+                  seated in chair by him. 
+
+DUNWOOD:   But if the police found several gas masks in Douglas' chemical factory - why advertise --
+CUT TO MEDIUM CLOSE SHOT on Fife, Kirk and Dunwood - different angle.  Dunwood finishes: 
+Why offer a reward? FIFE: Just about the place you'd expect to find them,
+                  isn't it? Mr. Kirk - (Rising from chair) KIRK: Yes sir. FIFE: (Hands
+                  written ad to Kirk) Will you be so kind? KIRK: I'll see that it goes in all the morning and evening papers.
+                  DUNWOOD: Thank you. But I don't think it will bring any results - looks like a slim chance.
+
+
+CUT TO FULL SHOT in the room as Chan enters - Dunwood moves background.
+FIFE: Ah Charlie -- KIRK: Good evening - good evening. FIFE:
+(Seated on edge of desk) I'll wager you've been busy. CHAN: Oh - busy as one-eyed cat watching six
+                  mouse holes. FIFE: You find anything? CHAN: My day's work has been useless as life preserver for fish. FIFE:
+                  Too bad -
+
+
+CUT TO CLOSE SHOT on Fife as he continues:
+- anything happen after you telephoned?  What about Li Gung?
+CUT TO CLOSE SHOT on Chan.
+CHAN:   Boy Scout perpetrated good deed and updumped -
+CUT TO FULL SHOT on group at desk as Chan finishes:
+- apple cart. KIRK: I'll attend to the ad - we'll be on our way.
+(Looks toward desk where Fife is seated) Oh, you got the cable. FIFE: Yes - thanks. DUNWOOD:
+(Coming up to desk) Cheerio - better luck another day. FIFE: Thank you.
+
+
+CUT TO CLOSE SHOT on Chan and Fife at desk.
+CHAN:   What did you find at Cook and Sons?  FIFE:   Charlie, the thumb print on this blank sheet of paper is not
+                  Enderby's.  CHAN:   No?  FIFE:   No - here's a photograph of it...someone else was opening Sir Lionel's mail
+                  - 
+
+CUT TO MEDIUM SHOT on Paradise as he enters with tray.  CUT TO CLOSE SHOT on Chan - watching.  CUT TO CLOSE
+                  SHOT on Chan and Fife at desk - Fife speaks to Paradise. 
+
+FIFE:   Bring it here, will you?
+CUT TO FULL SHOT as Paradise enters to the desk with tray and sets it on desk -  CUT TO MEDIUM CLOSE SHOT on Fife
+                  at desk, Paradise by him - Paradise hands paper to Fife. 
+
+PARADISE:   I found this in Sir Lionel's room behind the dresser, sir -- might be important.  FIFE:   Thank you. 
+CUT TO FULL SHOT as Fife sits.
+PARADISE: (In background - to Chan) Your hat, sir?
+(Takes Chan's hat) (Exits) FIFE: Charlie -- 
+
+
+CUT TO CLOSE SHOT on Chan and Fife at desk - examining letter, Fife continues -
+- my cable and this letter proves that your dancer was telling the truth. CHAN:
+                  I think so. FIFE: Sir Lionel was looking for an Englishman named Alan Raleigh. CHAN: This butler, Paradise
+                  -- also English and also have opportunity to handle mail. (Indicates paper Fife holds in hand) Look
+                  at date of post mark on that envelope. FIFE: (Examining the envelope) You're right, Charlie
+                  -- the letter was stolen from this envelope.
+
+
+CUT TO ANOTHER SHOT by the two as Fife lifts tray into scene across desk and sets it down - continues:
+Quickly -- see if you can find a thumb print on this tray.
+CUT TO CLOSE SHOT on Chan and Fife examining the tray.
+CHAN: Look! (Hands glass to Fife)
+
+
+CUT TO CLOSE SHOT of the two - different angle, as Fife examines tray through glass.  CUT TO ANOTHER CLOSE ANGLE SHOT
+                  of he two examining the tray.  CUT TO CLOSE SHOT - different angle, as Chan pours some solution from bottle on to
+                  the tray -  CUT TO MEDIUM SHOT of the two as they examine the tray with solution on it.  CUT TO CLOSEUP on
+                  the tray showing Chan's hand in shot glass is held over the thumb print on tray.  CUT TO MEDIUM CLOSE SHOT on Chan
+                  and Fife - Chan is looking at the tray and paper through glass. 
+
+CHAN: Identical! FIFE: Positive? CHAN: Could not be mistaken. FIFE:
+                  It seems impossible we've blindly stumbled on the solution of this crime. CHAN: (Putting glass away in
+                  his pocket) The impossible sometimes permits itself the luxury of occurring. FIFE: I think I'll take
+                  this man in charge. CHAN: No --- wait -- we can watch. Do not wave stick when trying to catch dog. I am sorry this
+                  happened. FIFE: Why? CHAN: It adds more water to an ocean of puzzlement. (Ticks off names on
+                  fingers as he speaks) John R. Douglas -- Alan Raleigh -- Li Gung -- Enderby -- and now Paradise. Innocent and
+                  guilty in this case are harder to separate than Siamese Twins.
+
+
+CUT TO INTERIOR DRESSING ROOM.  CLOSE SHOT on Shirley seated at table writing note -  CUT TO INSERT OF LETTER
+                  which reads as follows: 
+
+"Dear Mr. Chan:   May I see you at once.  I have decided to tell the police everything." 
+CUT TO MEDIUM SHOT in dressing room - maid here with Shirley.  Maid has head dress of Shirley's costume in her hand
+                  and is arranging it. 
+
+SHIRLEY:   Is my car outside?  MAID:  I don't know.  Shall I go and see, Mademoiselle?
+CUT TO CLOSE SHOT on Shirley.
+SHIRLEY: No - never mind - (Pauses in her writing - looks ahead)
+I'm going to tell the police everything, Tanya. 
+
+
+(The shadow of a man is seen in background on wall)  CUT TO FULL SHOT in the room - Tanya, the maid, stands watching
+                  Shirley.  CUT TO EXTERIOR STAGE DOOR as car drives up - the chauffeur gets out of the car -- camera trucks up to the
+                  car as a hand comes in, feels along the top of the window, then winds the window shut -  CUT TO INTERIOR DRESSING
+                  ROOM.  FULL SHOT - Shirley at dresser hands note to maid. 
+
+SHIRLEY:   Tell the chauffeur to deliver this at once -- the gentleman may come back with him.  MAID:   Yes, Mademoiselle.
+                  
+
+CUT TO INTERIOR CAR - CLOSE SHOT as a hand throws bottle into car.  CLOSE SHOT on the floor showing the small bottle
+                  bursting on the floor and fumes rising - the door is shut.  CUT TO EXTERIOR STAGE DOOR as maid comes out to the chauffeur
+                  - hands him the note as she says: 
+
+MAID:   Mademoiselle wants you to deliver this at once - a gentleman may come with you - and hurry.  CHAUFFEUR:  
+                  Okay honey. 
+
+Moves to the car, camera panning with him - gets into car - closes door and starts car.  CUT TO WIDE SHOT showing
+                  the car driving along street.  CUT TO CLOSE SHOT on chauffeur inside car - driving.  CUT TO WIDE SHOT in a
+                  street, car going along.  CUT TO CLOSEUP on the chauffeur in car as he struggles with his collar as if trying to get
+                  air.  CUT TO SHOT in street showing car traveling along from foreground.  CUT TO CLOSE SHOT on the chauffeur
+                  inside the car as he slumps in his seat.  CUT TO SHOT of the car going along street - begins to wobble in its course.
+                   CUT TO SHOT of the car - shooting through the windshield to the street - ahead.  CUT TO WIDE SHOT in street
+                  as car comes along and crashes into a large obstacle.  CUT TO FULL SHOT by car in street as people in the street start
+                  running to it, crowding around it.  CUT TO CLOSER SHOT on people crowding around the car - VOICES HEARD. 
+
+VOICES:   Is he dead?  Certainly.  Oh my!
+CUT TO CLOSE SHOT by the car.   Policeman at the door opens it and stoops down toward chauffeur inside (Off [scene]).
+                    CUT TO CLOSER SHOT as people crowd around car - another policeman comes into scene -   CUT TO CLOSE SHOT
+                  by first policeman as he leans into the car and takes another look at the chauffeur, straightens from car as he speaks:  
+
+POLICEMAN: This fellow's dead - (Starts to hustle the people around him
+                  back) - get back there - all get back -- get back.
+
+
+CUT TO WIDER SHOT as people move back.
+VOICES:  Did you see it?  No I was down the street a ways.
+Policeman calls to another -
+POLICEMAN:   Hey Sully.
+CUT TO CLOSE SHOT on Sully and policeman at car - as the one named Sully comes to him near car door.
+POLICEMAN (Continued): (Showing him object)
+- Come here - look at this. SULLY: What do you make of it? POLICEMAN: I don't think the crash killed
+                  him - you'd better phone the Inspector.
+
+
+CUT TO CLOSER SHOT by the car a man comes into scene, dressed in chauffeur's uniform - goes to get in car - policeman stops
+                  him.
+
+POLICEMAN: You know who this car belongs to? MAN: It belongs to the Masked
+                  Dancer at the Follies - her name's Marlowe - she's over at the theatre now. POLICEMAN: Guess we'll go and see that
+                  dancer. I'll phone the Inspector from the theatre. (Starts away) SULLY: (As
+                  he moves the people back from the car) Okay. Come on, get back folks - step back.
+
+
+DISSOLVE TO -  MEDIUM SHOT outside dressing room door and stairs as the policeman comes up the stairs to the door
+                  and knocks on it.  CUT TO INTERIOR DRESSING  ROOM.  FULL SHOT - Shirley and maid here as knock heard. 
+
+SHIRLEY:   Give me my robe - see who it is.  
+(Maid goes to the door and opens it)
+POLICEMAN: (Entering to Shirley) I have some bad news for
+                  you, Miss -- your chauffeur's --
+
+
+CUT TO CLOSE SHOT on Shirley as she listens - the policeman's voice finishes through shot --
+- just been murdered. SHIRLEY: Murdered? How? POLICEMAN'S VOICE: Looks
+                  like gas. SHIRLEY: (As she gets this) That was meant for me.
+
+
+CUT TO FULL SHOT on Shirley and policeman.
+POLICEMAN: (Handing note to her) Did you write this letter?
+
+
+CUT TO CLOSE SHOT on Shirley.  The policeman's hand holding note, seen in the shot.
+SHIRLEY:   You'd better open it --
+CUT TO MEDIUM CLOSE SHOT on the two as policeman opens letter.   Starts to read over it.   CLOSE SHOT on Shirley
+                  as she watches policeman (Off scene) - frightened.   CUT TO CLOSE SHOT on policeman.  
+
+POLICEMAN:   What was all this you were -
+CUT TO CLOSE SHOT on Shirley as she turns - policeman's voice continuing through shot.
+POLICEMAN'S VOICE:   - going to tell the police.  Guess you'd better come down to headquarters.  I'll be waiting for you outside.
+CUT TO FULL SHOT in dressing room as policeman exits.  Maid closes the door behind him.  FADE OUT.  FADE IN
+                   INTERIOR HEADQUARTERS - MEDIUM SHOT - Shirley and Flannery are seated by desk - Chan standing by desk.  He is questioning
+                  her. 
+
+SHIRLEY:   This is just as I told it to Mr. Chan -- and there's nothing I can add to it.  FLANNERY:  Would you recognize
+                  this Alan Raleigh - 
+
+CUT TO CLOSEUP on the girl and Flannery -  CUT TO ANOTHER CLOSE SHOT of the two at desk - as Flannery finishes: 
+- would you?
+CUT TO ANOTHER CLOSE SHOT of girl and Flannery -
+SHIRLEY:   I think so - but he may have changed.
+CUT TO CLOSE SHOT of Shirley and Flannery, different angle.
+FLANNERY:   We may have him here this afternoon --
+CUT TO FULL SHOT by desk as Flannery rises from the desk -- continues:
+Will you wait in the next office?
+Shirley rises from her chair, crosses back of Flannery to left of scene and then turns -  CUT TO CLOSEUP on Shirley
+                  and Flannery - she is very much distressed as she speaks: 
+
+SHIRLEY:   After what happened last night you must be convinced that Mr. Douglas is innocent.
+CUT TO MEDIUM SHOT on Shirley and Flannery -
+FLANNERY:   There's one thing we're sure of - it wasn't Douglas who killed your -
+CUT TO CLOSEUP on Shirley and Flannery as he finishes:
+- chauffeur.  
+(Shirley starts away)
+CUT TO MEDIUM SHOT in room as Shirley exits - Chan opening the door for her to go out.
+FLANNERY (Continued): (As Chan moves back to
+                  him) That one is shielding Raleigh -- (Steps to dictograph at desk and speaks into it) Send
+                  Douglas in here.
+
+
+CUT TO MEDIUM SHOT by the door as it is opened by policeman who shows John Douglas in to the room. Douglas moves over to desk.
+Sit down Douglas.
+(John sits down) 
+Well we finally found out why you won't talk.   JOHN:   Have you?   FLANNERY:   Yes.  Do you know a girl
+                  named Shirley Marlowe?
+
+CUT TO CLOSE SHOT on John - Flannery tipped in shot.
+JOHN:   No - no - I don't know anyone of that name.
+CUT TO ANOTHER CLOSE SHOT of the three -
+FLANNERY:   Think again - she's known as the Masked Dancer of the Follies.
+CUT TO CLOSE SHOT.
+JOHN:   Sorry - I don't know her.
+CUT TO CLOSE SHOT - Flannery.
+FLANNERY:   Don't happen to be engaged to marry her, eh?
+CUT TO CLOSE SHOT John - and Flannery.
+JOHN: Hardly - since I've never heard of her. FLANNERY: (Leaning
+                  farther into shot) Did you know someone tried to kill her last night? JOHN: (Startled)
+What? FLANNERY: Well I thought you didn't -
+
+
+CUT TO FULL SHOT in the room as Flannery continues:
+- know her. Will you ask her to come in, Charlie? CHAN: (Moving
+                  over to door to other room - camera with him, opens door and says) Will you come in please?
+
+
+CUT TO ANOTHER SHOT by the door as Shirley comes in.  CUT TO CLOSE SHOT on John as he sees her.  Recognition in his
+                  face.  CUT TO CLOSE SHOT on group -
+
+FLANNERY:   Never saw this girl before, eh?
+CUT TO CLOSE SHOT on John.
+JOHN:   No.
+CUT TO MEDIUM CLOSE SHOT by Shirley - she moves over.
+SHIRLEY: (Entering to John) John - it's no use - I've told
+                  them everything. JOHN: Oh Shirley -- 
+
+
+CUT TO CLOSEUP on Shirley and John as he continues:
+- why did you?  SHIRLEY:   Because I want them to know that you're innocent. 
+CUT TO MEDIUM SHOT on the group of four -
+FLANNERY:   Douglas, we know why you called on Sir Lionel - will you answer just one question?  JOHN:   If I can.
+                   FLANNERY:   Did you see anyone in the office - 
+
+CUT TO CLOSE SHOT on John and Shirley as Flannery's voice finishes:
+- or the building?  JOHN:   Yes.  FLANNERY'S VOICE:   Who?  JOHN:   As I was waiting for the elevator,
+                  I saw a Chinaman with a basket on his arm start - 
+
+CUT TO CLOSE SHOT Chan and Flannery as John's voice continues through shot -
+- to walk up the stairs.  CHAN:   Oh - perhaps Li Gung.  FLANNERY:   I think I'll leave Li Gung to you Charlie.
+                   CHAN:   Thank you - you give me easy job. 
+
+CUT TO FULL SHOT of the group of four -
+FLANNERY:   We're taking up the matter of bail for you with the District Attorney.  JOHN:   Thanks.
+CUT TO CLOSEUP on Shirley and John as he looks down on her.  Continues:
+I owe this to you, dear. Be careful - we can't have anything happen to you. FLANNERY'S
+                  VOICE: (Coming through shot) I'm taking care of that --
+
+
+CUT TO FULL SHOT of the group of four as Flannery continues:
+I've assigned a detective - (To John) Will you wait in the
+                  other office?
+
+
+John moves over to the door to the other room and opens it - man enters the doorway as John goes out.
+POLICEMAN: (Standing in doorway) Inspector Fife is here.
+                  FLANNERY'S VOICE: Send him in.
+
+
+Fife comes through the door - enters to the desk by Flannery -
+FLANNERY: Well Inspector -- where is Enderby? FIFE: (Indicating
+                  Shirley) Is this young woman Miss Marlowe? FLANNERY: Yes. FIFE: I'm sorry - we can't have Enderby
+                  here to meet her. FLANNERY: Why?
+
+
+CUT TO CLOSE SHOT on Fife and Shirley.
+FIFE:   He left town last night - nobody seems to know where he's gone or when he'll be back.
+CUT TO MEDIUM CLOSE SHOT on the group of four -
+We'll find him. (To Shirley) Miss Marlowe, you can go --
+                  
+
+
+(She turns and looks at Flannery)  
+- we'll have to ask you to come back again.
+(As Shirley starts to pull fur neckpiece on) 
+Pardon, Inspector - aren't you overlooking something?  FLANNERY:   What?  FIFE:   This young woman is wanted
+                  by Scotland Yard.   
+
+(There is a long pause in which Shirley looks at Fife)  CUT TO CLOSE SHOT on Chan - watching - his face filled with
+                  pity for Shirley.  CUT TO MEDIUM SHOT on Shirley, Chan and Flannery - Flannery moves over to the phone, camera with
+                  him, picks up the phone, as bell rings. 
+
+FLANNERY: Flannery speaking. What's that? Tug boat 'O. Kay'? Seventieth Street. No
+                  - I'll attend to this myself. (Turns to Shirley) Miss Marlowe, will you wait in the -
+
+
+CUT TO CLOSE SHOT on Shirley as she gets this.  Flannery finishing:
+- other office please.
+CUT TO CLOSE SHOT on Chan and Flannery.
+Gentlemen, a gas mask has been found in the East River. I'll order a police boat to
+                  find the tug that picked it up. (Speaks into dictograph) Have a boat ready for me at nine o'clock.
+
+
+FADE OUT.  FADE IN   EXTERIOR STREET outside building, as Chan, Flannery and Fife come to a car standing by
+                  curb and get into car.
+
+FLANNERY: (As he gets to car) Harbor police - and step on
+                  it.
+
+
+CUT TO EXTERIOR STREET - THROUGH TRAFFIC - car is coming along toward camera through street -  CUT TO CLOSE SHOT on
+                  Chan, Fife and Flannery seated in the car, camera shooting toward them as car travels along.  CUT TO ANOTHER SHOT
+                  in street showing the car driving along street.  DISSOLVE TO -  WIDE SHOT - DOCKS - as the car drives in to
+                  the dock edge.  CUT TO ANOTHER SHOT - Flannery and others get out of the car.  CUT TO ANOTHER MEDIUM SHOT
+                  on the docks, near police boat as Flannery enters to man by boat, Chan and Fife with him. 
+
+MAN: (As Flannery comes in) How are you Inspector? FLANNERY:
+                  Hello Mike. We're looking for a tug boat called the 'O. Kay.' Usually ties up around Seventieth Street - East River - make
+                  it snappy. MAN: Right sir.
+
+
+CUT TO FULL SHOT by the boat and dock as Chan, Fife and Flannery get into the police boat.  CUT TO SHOT ON RIVER showing
+                  the boat moving away from the dock - the men standing on it.  DISSOLVE TO -  CLOSER SHOT on the police boat,
+                  Chan, Fife and Flannery seen standing on the boat, sky scrapers seen on the river bank background.  DISSOLVE TO -
+                   CLOSER SHOT of the three men standing on the tug boat - another sky scraper line background. 
+
+CHAN: Advertising for gas mask better idea than I thought. FIFE: I only hope
+                  it proves to be the right one, Charlie. FLANNERY: Man said he was standing on the pier and saw the tug boat 'O. Kay'
+                  pick it up. If we can find it, it might lead to something. CHAN: (Turning around to face Flannery)
+If not - it may be long time before the beginning and ending of this case shake hands.
+
+
+FLANNERY:   Cheer up, Charlie - the Big Town isn't getting you, is it?
+CUT TO CLOSE SHOT on Chan and Fife, river background -
+CHAN: Oh no - but I'm very lonesome for new boy in Honolulu. FIFE: How many
+                  children have you, Charlie? Twelve, isn't it? CHAN: (Turning to Fife) Oh no - only eleven!
+                  FIFE: Only eleven!
+
+
+CUT TO MEDIUM CLOSE SHOT on Chan, Fife and Flannery, river in background.
+FLANNERY: What are you trying to do, Charlie - raise enough voters to elect yourself
+                  sheriff of Honolulu? CHAN: (Laughs) I never thought of that - but sounds like good idea.
+                  (Turns looking toward sky line again) FLANNERY: Was the boy born in hospital? CHAN:
+(Turning back to Flannery) Oh no - home made!
+
+
+(All laugh)  DISSOLVE - TO ANOTHER MEDIUM SHOT of the three on boat - they are nearing the dock sides, and a light
+                  from the tug boat is traveling along some boats docked there  CUT TO FULL SHOT on the side of tug 'O. Kay' as the
+                  light picks up the name on it -  CUT TO MEDIUM SHOT on the three men on the police boat as the light pans over the
+                  'O. Kay.' 
+
+FLANNERY:   There she is, Charlie.
+CUT TO ANOTHER SHOT on police boat as it comes up alongside of the 'O. Kay' - Flannery steps off the police boat on to the
+                  'O. Kay.'  CUT TO A CLOSER SHOT on board the 'O. Kay' - police boat alongside.  CUT TO CLOSER SHOT as Flannery
+                  gets to boat - 
+
+FLANNERY: Hey you - come out here! MAN: (Entering through door
+                  to deck) Well - what do you want? FLANNERY: Are you the owner of this boat?
+
+
+CUT TO CLOSEUP on policeman watching scene (off [scene]).   CUT TO CLOSE SHOT on man and Flannery - the man becomes
+                  uneasy and speaks bombastically:
+
+MAN:   Now listen, gents - you're making a mistake...you - you got the wrong guy...I wasn't there - and I don't know anything
+                  about it...I got six witnesses can prove I was in Donovan's -
+
+CUT TO CLOSE SHOT on Chan and Fife as they watch - voice of man finishes through shot -
+- when it happened.  CHAN:   When what happened? 
+CUT TO CLOSE SHOT on Man and Flannery - man getting upset -
+MAN:   I don't know.  FLANNERY:   What do you mean you don't know?  MAN:   Well I thought you was accusing
+                  me of something.  FLANNERY:   Where's the mask you picked up in the river?  MAN:   Is that what you want?
+                   FLANNERY:   Yeah.  MAN:   Well why didn't you say so? 
+
+CUT TO FULL SHOT on the boat - police boat standing by 'O. Kay,' as the man turns inside the door to cabin.  Re-enters to
+                  Flannery with mask - hands it to Flannery -
+
+MAN: Here it is. FLANNERY: (Examining the mask) Where'd
+                  you pick it up? MAN: Right off the Ninety-Sixth Street Pier. FLANNERY: When? MAN: Early last Tuesday.
+                  CHAN: That was day after murder. FLANNERY: Yes - and here's the number.
+
+
+CUT TO CLOSE SHOT on Man and Flannery -
+FLANNERY: I'll find out who sold this and maybe who bought it. FIFE'S VOICE:
+                  All right. MAN: (Becoming belligerent) Hey listen - there ought to be something coming to
+                  me for this - hadn't there? FLANNERY: If you ever get what's coming to you it'll probably be twenty years. MAN:
+                  Say don't I even get a new hat out of this?
+
+
+CUT TO FULL SHOT of the group on 'O. Kay' and police boat.
+CHAN:   Good head always gets own new hat.  
+(Flannery steps off the 'O. Kay' on to police boat)   FADE OUT.   FADE IN   INTERIOR LI GUNG'S
+                  ROOM -    CLOSEUP on Li Gung's hand as he pours something down barrel of gun he holds in his hand -   CUT
+                  TO CLOSEUP on Li Gung, gun in hand, standing near window where there is a table with gold fish bowl on it - he is putting
+                  something down the gun barrel.   CUT TO FULL SHOT on Li Gung, standing by the window - crosses from the window to
+                  other side of room, arranges a chair to face a certain position goes back to table at window, picks up piece of paper and
+                  holds it close to bowl.   CUT TO CLOSE SHOT on Li Gung by the table, holding paper close to the bowl.  He moves around
+                  the table and starts to fix gun in position near bowl. 
+
+CUT TO CLOSE SHOT on Li Gung, DIFFERENT ANGLE, he is back to camera and is arranging the gun so that it points in the direction
+                  of the chair in background.   CUT TO CLOSEUP on gun as Li Gung's hand fixes it -   CUT TO CLOSE SHOT on
+                  Li Gung by bowl - he takes something from his pocket.  Puts his hand around the bowl. 
+
+CUT TO MEDIUM CLOSE SHOT by Li Gung as he draws the window shade up, moves to the bowl, puts his hand around the bowl to feel
+                  effect of sun's rays.
+
+CUT TO FULL SHOT by Li Gung in room - he takes up a picture frame and sets it in a position before the bowl - crosses to the
+                  door - knock having been heard, and opens it - admitting two men.  The two men start into the room.
+
+FIRST CHINAMAN: (As Li Gung opens door - in Chinese) Hello.
+                  SECOND CHINAMAN: (In Chinese) Hello. LI GUNG: You are on time. I am expecting visitor
+                  whom I cannot trust. MAN: Police? LI GUNG: I need you for witnesses. Come. (Moves across room)
+                  FIRST CHINAMAN: (As he follows Li Gung across room) (In Chinese) I wonder what
+                  he wants? SECOND CHINAMAN: (Moving across room) (In Chinese) He will tell us.
+
+
+CUT TO INTERIOR STAIRS as Chan and Henry come up the stairs to the door - start in.  CUT TO FULL SHOT in the room
+                  as the door opens and Henry ushers Chan inside. 
+
+HENRY: (To Li Gung) Here's Mr. Chan. LI GUNG: Oh,
+                  hello.
+
+
+CUT TO CLOSE SHOT on Chan and Henry standing near door -
+CHAN: (To Li Gung) Hello - (Indicates Henry)
+Big Scout very full of rice - he find me.
+
+
+CUT TO FULL SHOT in room - by door - Li Gung indicates the arm chair he had previously arranged to face windows.
+LI GUNG: Please be seated. CHAN: Thank you. (Sits in chair) LI
+                  GUNG: (Going to Henry who stands at door) Oh, I have business to talk. HENRY: (Protesting)
+I have no place to go. LI GUNG: (Hustling Henry to door) Go - do good deed. (Henry
+                  exits - Li Gung closes door - moves back to Chan) CHAN: You have news of Li Gung? LI GUNG: Yes.
+(Looks out in direction front) My friends Po Ki and Loo Tom -
+
+
+CUT TO CLOSE SHOT on the two men whom Li Gung had admitted previously - voice of Li Gung continues through shot -
+- also friends of -
+CUT TO MEDIUM SHOT on Chan and Li Gung as Li Gung finishes:
+- Li Gung.  CHAN:   Really?  LI GUNG:   Let's have light. 
+Li Gung crosses the room to the window and raises the shade. CUT TO CLOSE SHOT on Chan watching, suspicion in his face.
+                   CUT TO MEDIUM SHOT on Li Gung by the window, very suave as he turns toward direction of Chan and speaks:
+
+LI GUNG:  The rays of the sun accomplish many desirable things in this world.
+CUT TO CLOSE SHOT Chan - makes bow.  CUT TO SHOT by Li - he moves over - camera with him and enters to Chan. 
+CHAN: (As Li Gung sits down) Where is Li Gung? LI
+                  GUNG: Patience -- 
+
+
+CUT TO FULL SHOT of the two in room seated together - Li Gung continues:  (Bowl seen in shot)
+- I have prepared startling surprise for you.  CHAN:   I shall be most happy - 
+CUT TO CLOSEUP on the gun placed in position by bowl.  Chan's voice continues through shot -
+- to receive it.
+CUT TO FULL SHOT on the two men.  Chan turns and glances toward the picture he had previously taken to be picture of Li Gung
+                  - continues:
+
+My old friend Li Gung looks well.
+CUT TO CLOSE SHOT on Li Gung, shakes his head and speaks grimly:
+LI GUNG:   That is not Li Gung.
+CUT TO CLOSE SHOT on Chan, manages to conceal his discomfiture at this news.
+CHAN:   No - long time since I've seen him.
+CUT TO CLOSE SHOT on Li Gung.
+LI GUNG:   You see him now - I am Li Gung!  What do you want?
+CUT TO CLOSE SHOT on Chan.
+CHAN:   I must be sure that you are -
+CUT TO CLOSEUP on the gun, the sun's rays striking it through bowl - Chan's voice finishes:
+- Li Gung.
+CUT TO A FULL SHOT on Chan and Li Gung.
+LI GUNG:   You want to know about Alan Raleigh?  CHAN:   Where is he?  LI GUNG:   In New York - I saw him
+                  recently.
+
+CUT TO CLOSE SHOT on Chan.  Li Gung's voice finishes:
+CHAN:   Perhaps at the death of Sir Lionel Grey?
+CUT TO CLOSE SHOT on Li Gung -
+LI GUNG:   You wish to know who killed him?
+CUT TO MEDIUM CLOSE SHOT on black cat walking around table by bowl.  CUT TO CLOSEUP on the cat's feet as they move
+                  the gun around to a different direction.  CUT TO MEDIUM CLOSE SHOT on the cat moving over table -- exits.  Through
+                  the above shots of the cat the voices of Chan and Li Gung are heard - 
+
+CHAN'S VOICE:  That would favor me too much.  LI GUNG'S VOICE:   I shall tell you all.  CHAN'S VOICE:   Go
+                  on.  LI GUNG'S VOICE:   But you will never use this information.  CHAN'S VOICE:  Why not? 
+
+CUT TO MEDIUM SHOT Chan and Li Gung -
+LI GUNG:   Because dead men tell no secrets.
+CUT TO CLOSE SHOT on the gun, the sun's rays striking it fully now, it goes off -  CUT TO MEDIUM CLOSE SHOT by Chan
+                  as he rises from his chair, alarmed.  CUT TO FULL SHOT in room - the two friends run forward from foreground. 
+Li Gung slumps forward from his chair to the floor.  CUT TO ANOTHER SHOT as the two men exit -   CUT TO
+                  MEDIUM SHOT by Chan as he moves to the table at window, stoops down and picks up something from floor.  CUT TO CLOSE
+                  SHOT on Chan as he straightens - examines the gun he holds in his hand.  Examines the gold fish bowl - putting hand before
+                  it.  CUT TO FULL SHOT in the room - through the door crowds a group of excited neighbors - Chinese - CHORUS of voices
+                  heard as they crowd in, looking at the body of Li Gung on the floor.
+
+VOICES: (In Chinese) What is it? What happened? Is he hurt?
+                  POLICEMAN: (Pushing his way in) Let me in here - what's going on here?
+
+
+CUT TO MEDIUM CLOSE SHOT Chan and Policeman - Chan holds up his official badge to policeman as he speaks:
+CHAN:   I am Inspector Chan of Honolulu Police - this man tried to commit murder - but made slight mistake in subject. 
+POLICEMAN:   Very well, Mr. Chan...I'll know where to find you. 
+
+DISSOLVE TO -  CUT TO CLOSEUP on a badge [tag] with the number 118 on it - it is held in man's hands.  CUT
+                  TO INTERIOR HEADQUARTERS.  CLOSE SHOT on bespectacled clerk as he examines mask to which badge [a little aluminum
+                  number tag showing serial number] is attached. 
+
+CLERK:   Yes sir, absolutely - that's the mask I sold.
+CAMERA MOVES back to take in Flannery.
+FLANNERY:   How many of these have you sold in the last week?  CLERK:   Oh just that one.  FLANNERY:   You
+                  couldn't be mistaken about who bought it?  CLERK:   Absolutely not, it was a Chinaman.  FLANNERY:   Are you
+                  sure you'd recognize this Chinaman if you saw him again?  CLERK:    Absolutely. 
+
+CUT TO MEDIUM SHOT by door as it opens and Chan comes in.   CUT TO MEDIUM SHOT by clerk, as he looks up and sees
+                  Chan (Off [scene]) recognition in his face.   CUT TO CLOSE SHOT on Chan moving along - clerk's voice continues through
+                  shot -  
+
+Why there he is -- that's the man!
+CUT TO SHOT of the group - watching Chan, as clerk watches him wide eyed.  CUT TO CLOSE SHOT on Chan - clerk's voice
+                  continues: 
+
+He's wearing different clothes but I'd know him anywhere.  FLANNERY'S VOICE:   What?  CLERK'S VOICE:   Absolutely
+                  -- 
+
+CUT TO CLOSE SHOT on Clerk and Flannery as Clerk continues:
+- that's the man that I sold the gas mask to.
+CUT TO MEDIUM WIDE SHOT on Chan, Flannery and clerk.
+FLANNERY:   That's where this blows up -- what do you think about it, Charlie?
+CUT TO CLOSE SHOT on Chan by door -
+CHAN:   Well I'm surprised to find out I myself man I was -
+CUT TO FULL SHOT on group - Chan finishes:
+- looking for.  FLANNERY:   Thanks.  We'll call you when we want you again.  Send this gentleman home.   
+(Clerk rises from his chair at desk) CUT TO MEDIUM SHOT by Chan and Flannery at
+                  desk - They sit down at it - Flannery continues:
+
+
+Well, Charlie, you were right.  Li Gung is the man we want.  I'll find him if I have to comb the whole town.  CHAN:
+                    Too late.  FLANNERY:   Why? 
+
+CUT TO CLOSE SHOT on Chan and Flannery.
+CHAN:   Even now Li Gung is preparing to attend his own unworthy funeral.
+CUT TO MEDIUM SHOT on Chan and Flannery as the later gets this.
+FLANNERY: Dead? CHAN: Dead as sardine in honorable tin can. He invited me
+                  into trap but caught wrong fox. FLANNERY: (Tapping Chan on chest) Did you kill him?
+
+
+CUT TO CLOSE SHOT of the two -
+CHAN:   No - he saved me trouble by politely killing himself.  FLANNERY:   Did you find out anything?  CHAN:
+                    Only that Alan Raleigh is in New York. 
+
+CUT TO MEDIUM SHOT of the two.
+FLANNERY:   Yes and Enderby is still missing.  I wonder if Fife could be right -
+CUT TO CLOSE SHOT on the two - Flannery finishes:
+- about him.  CHAN:   I don't know - sometimes hope becomes scarce as midnight rainbow. 
+CUT TO MEDIUM SHOT of the two.
+FLANNERY: Yes - and our only arrest is out on bail - (Rises from chair)
+Charlie we're on the spot -- even now the New York and London papers are after us.
+
+
+CUT TO CLOSE SHOT on Chan - distressed as he speaks -
+CHAN:   My stupidity overwhelms me -- perhaps all I've accomplished is to send unhappy girl back to England.
+CUT TO FULL SHOT on Chan and Flannery.
+FLANNERY: Yes and that's where Fife will take her - unless we find Raleigh. CHAN:
+                  I have only one miserable hope left. FLANNERY: What's that? CHAN: Could you introduce me to Cosmopolitan Club?
+                  FLANNERY: I can make arrangements. (Shakes his head dubiously) But there's nothing there,
+                  Charlie - I think we're all wet.
+CHAN: But man is not incurably drowned - if he still knows he is all wet.
+
+
+DISSOLVE TO -  INTERIOR COSMOPOLITAN CLUB -  MEDIUM SHOT in lobby - on Manager and Chan standing together
+                  -
+
+MANAGER: Certainly, Inspector -- right over here - (Starts toward check
+                  room) John, give this gentleman any information he wishes.
+
+
+CUT TO CLOSER SHOT by check room.
+CLERK: Yes sir. CHAN: (To Manager) Thank you so
+                  much. (Takes out membership card and examines it as he continues - to clerk) Do check numbers run
+                  as high as this? CLERK: (As he looks at card) Yes sir. CHAN: Something is checked
+                  on that number now? CLERK: (Looking around toward background of checkroom) Yes - a briefcase.
+(Turns back to Chan as he says this)
+CHAN: May I examine it? CLERK: Very well. (Exits
+                  from scene and re-enters with brief case)
+
+
+CUT TO MEDIUM SHOT on Manager and Chan - Chan with case.
+MANAGER:   Does that belong to some Chinese gentleman?  CHAN:   Why do you ask?
+CUT TO ANOTHER MEDIUM SHOT by the check room - as Manager continues:
+MANAGER: A Chinaman came here a few days ago trying to get it - we wouldn't give it
+                  to him because he wouldn't tell us who sent him. CHAN: If you will allow me please. (Exits) MANAGER:
+                  Certainly.
+
+
+CUT TO WIDER SHOT in hallway of club as Chan moves forward with the case and down to a table, lays case on table and opens
+                  it.  CUT TO CLOSE SHOT on Manager watching.  CUT TO CLOSEUP on Chan as he takes papers from case -- glances
+                  through them, smiles - puts them back in the case - locks the case and takes up membership book. 
+
+CHAN:   Are names of all members in this book?
+CUT TO MEDIUM CLOSE SHOT on Chan and Manager -
+MANAGER: Yes - alphabetically. CHAN: (Looking through the book)
+You have new applications? MANAGER: Yes - right here. (Starts away from the scene. Charlie follows
+                  him to the case, camera moving with them)
+
+
+CUT TO MEDIUM SHOT in hallway by a big board of numbers on the wall - Chan comes to the board, indicates a number and says:
+CHAN:   That one.  MANAGER:  A guest card was sent to him last night.  CHAN:   Is he in club now?  MANAGER:
+                    No - but he received his card this morning -- he may be here any minute.  CHAN:   May I use telephone?  MANAGER:
+                    Certainly. 
+
+CUT TO ANOTHER FULL SHOT of hall as Chan comes to the foreground sits down at phone.
+CHAN: (Speaking into phone) Hello - Spring 7-3100 - Inspector
+                  Flannery please...Quickly - hm? Charlie Chan.
+
+
+DISSOLVE TO -  FULL SHOT in the club hallway - Chan is in foreground.  Flannery enters from background to him - Chan
+                  rising as Flannery comes down. 
+
+FLANNERY:   Has he come yet?  CHAN:   Not yet - 
+Chan and Flannery move over - the camera with them to a position by wall where they stand together.
+- if he calls for the brief case we can see.  FLANNERY:   Are you sure it's Sir Lionel's brief case?  CHAN:
+                    Yes - it was checked here soon after the murder.  FLANNERY:   By whom?  CHAN:   Wait and see. 
+
+CUT TO FULL SHOT in club - as a page boy goes along, paging a number - calling out loudly as he walks toward background.
+PAGE BOY:   Mr. Garrick Enderby - Mr. Garrick Enderby ---
+CUT TO CLOSE SHOT on Chan and Flannery standing back to wall - voice of page heard through shot -
+Mr. Garrick Enderby --
+CUT TO FULL SHOT in lobby as the page catches sight of Chan and Flannery by wall - looks at them inquiringly and moves a step
+                  to them as he repeats:
+
+Mr. Enderby?
+CUT TO CLOSE SHOT on Chan and Flannery at wall.
+FLANNERY:   Do you think he'll put up a fight?   CHAN:   Don't know - got gun?   FLANNERY:   No - have you?
+                    CHAN:   Got gun -- but --   FLANNERY:   Well - Fife'll have the Marlowe girl at Kirk's - she'll identify
+                  him.  
+
+CUT TO FULL SHOT in lobby near check room as Kirk, and other men come along toward check room.  CUT TO MEDIUM SHOT
+                  by the group at check room as they start getting their belongings from clerk in check room.
+
+MAN: Well up to that time you had led a virtuous life - I suppose? KIRK: Well
+                  you're not suggesting it's not been that way all along - after all you're not ruining my reputation. SECOND MAN: (As
+                  he gets his coat) Well are you coming our way, Barry? KIRK: No thanks - I'm going down town. MAN:
+                  Well so long. KIRK: So long. (Moves up to the check room desk) MAN: Goodnight.
+
+
+CUT TO FULL SHOT in lobby -  Kirk at check room counter.  Kirk moves down the hallway to background.  CUT
+                  TO CLOSE SHOT on Chan and Flannery watching Kirk off scene.  CUT TO WIDE SHOT in hallway as Kirk turns back and moves
+                  toward the check room again.  CUT TO MEDIUM SHOT by check room as Kirk comes to the counter - says to clerk as he
+                  puts down check for brief case. 
+
+KIRK:   I almost forgot this.
+CUT TO INSERT of the check 1313 on counter.  CUT TO CLOSE SHOT Chan and Flannery watching.  CUT TO ANOTHER
+                  SHOT in hallway by check room as Chan and Flannery come in to where Kirk stands.
+
+CHAN: Oh, hello. KIRK: Oh hello, how are you? CHAN: (To
+                  clerk) My hat and coat please. (To Kirk) Is that your brief case? KIRK: No
+                  - it belongs to a friend of mine. FLANNERY: Really? KIRK: Yes -- he left it here at noon - he asked me to
+                  stop for it. FLANNERY: Where were you taking it? KIRK: Home. CHAN: Perhaps it good idea we all go
+                  home. KIRK: Yes of course. Come along.
+
+
+Chan takes up his coat from check room clerk, then turns back to where Manager stands.
+CHAN: Thank you so much. You make Charlie Chan look like slender Chinese boy. Good
+                  night. MANAGER: (Laughs) Goodnight.
+
+
+CUT TO INTERIOR APARTMENT -  MEDIUM SHOT by door as Shirley, John and Fife come into room. 
+FIFE: (Crossing the room as he speaks) I won't detain you
+                  long, Miss Marlowe - a man will be here in a moment whom I'd like you to take a good look at. (Rings bell)
+Just a moment please.
+
+
+CUT TO MEDIUM SHOT John and Shirley - anxious.  CUT TO FULL SHOT - as Paradise enters - says: 
+PARADISE: (Entering) Did you ring, sir? FIFE: Yes.
+
+
+CUT TO CLOSE SHOT on Fife as he continues:
+Have you ever seen this man before, Miss Marlowe?
+CUT TO CLOSE SHOT on Shirley and John, standing together as she looks toward direction of Paradise.  CUT TO CLOSE
+                  SHOT on Paradise.  CUT TO CLOSE SHOT on Shirley and John.
+
+SHIRLEY:   No I haven't.
+CUT TO MEDIUM CLOSE SHOT on Fife, Shirley and John.
+FIFE:   Are you quite sure?  SHIRLEY:   Yes.
+CUT TO FULL SHOT on the group in room - as Fife continues:
+I see - Would you mind stepping out in the garden?  JOHN:   Of course not.
+As he says this, John and Shirley move through the door in background.
+FIFE: (As they go out) Thank you. (To Paradise)
+                  Come here.
+
+
+Why did you steal that letter from Sir Lionel's mail? PARADISE: I - I didn't
+                  sir... FIFE: (Interrupting him) Now don't lie -- we found your thumb print on a blank sheet
+                  of paper in the Scotland Yard envelope. PARADISE: I was absolutely innocent of the charge, sir. FIFE: I know
+                  - you were acquitted - the Yard informed me.
+
+
+CUT TO REVERSE CLOSE SHOT of the two as Fife continues:
+But you were afraid of Sir Lionel.  PARADISE:   When I saw that letter was from Scotland Yard, I thought it was about
+                  me and I was panic stricken, sir.  Oh please, sir - you're - you're not going to tell Mr. Kirk.
+
+FIFE:   Hm.
+(Sound of ringing bell heard)
+CUT TO FULL SHOT in the room.  Fife continues:
+Perhaps you'd better see who that is, Paradise. PARADISE: Thank you sir -
+                  thank you sir. (Moves to the door - camera with him - he opens the door and Enderby enters - moves to Fife, camera
+                  traveling with him) ENDERBY: (As he goes along) What? (Moving
+                  over to Fife) Well, sir - you sent for me - here I am.
+
+
+CUT TO CLOSE SHOT on Fife and Enderby.
+FIFE:   So I see, Mr. Enderby.  ENDERBY:   Well now I'm here, what do you want of me?  Can't a man take a little jaunt
+                  without the police asking questions?   If I'm guilty of anything arrest me and I'll answer your -
+
+CUT TO ANOTHER CLOSE ANGLE of the two as Enderby finishes:
+- questions in court. FIFE: Just a moment. (Moves over toward
+                  door)
+
+
+CUT TO EXTERIOR ROOF OF PENTHOUSE APARTMENT - FULL SHOT - Shirley and John here. Fife
+                  enters scene through door in background - calls:
+
+
+Miss Marlowe - Mr. Douglas!
+CUT TO A MEDIUM CLOSE SHOT on Enderby, about to explode as he says:
+ENDERBY:   Miss Marlowe - Mr. Douglas - what's it all about?  What's it about?
+CUT TO MEDIUM SHOT by the door to roof garden as Shirley and John with Fife come in - pause there.
+FIFE:   Miss Marlowe, do you recognize this man?   SHIRLEY:   No.
+CUT TO CLOSE SHOT on Enderby, Fife's voice coming through shot --
+FIFE'S VOICE:   Are you quite sure he is not Alan Raleigh?
+CUT TO CLOSE SHOT on Shirley and John.
+SHIRLEY:   Of course.  I've never -
+CUT TO CLOSE SHOT on Enderby, as she finishes:
+- seen him before.  ENDERBY:   Is that why you brought me here? 
+CUT TO MEDIUM CLOSE SHOT on Fife, John and Shirley by door.
+FIFE:   I'm sorry - I hope we haven't inconvenienced you.
+CUT TO FULL SHOT in room - taking in the group there.
+ENDERBY: (Very much annoyed) Sorry, bah ---- bringing me
+                  here on a fool's errand. (Exits as he says this)
+
+
+CUT TO CLOSE SHOT on John, Fife and Shirley.
+JOHN:   Inspector, isn't it possible that if the British Home Secretary knew the facts of this case he would waive extradition?
+                   FIFE:   I doubt it.
+
+CUT TO CLOSE SHOT on John and Shirley - 
+JOHN:   But if he knew that Miss Marlowe was not guilty of this crime -- that she merely shielded a man through a human -
+CUT TO CLOSEUP on Fife - voice of John finishes through shot --
+JOHN'S VOICE:   - forgivable impulse?    FIFE:   I'm afraid I cannot predict what the Home Secretary would do. 
+CUT TO FULL SHOT in the room as the door opens and Chan, Kirk and Flannery enter room.  Fife's voice comes through shot -
+                   CUT TO ANOTHER SHOT by Shirley and John -
+
+FIFE'S VOICE: (As the two come into group) Good evening,
+                  Charlie. CHAN: Miss Marlowe, you have never seen Mr. Kirk before?
+
+
+CUT TO CLOSEUP on Shirley.
+SHIRLEY:   Why - why yes.
+CUT TO MEDIUM CLOSE SHOT on Chan, Kirk and Flannery.
+FLANNERY:   Where?
+CUT TO CLOSEUP on Shirley.
+SHIRLEY:   I don't know.
+CUT TO CLOSE SHOT on Chan, Shirley and John - by door -
+JOHN:   Shirley --   FLANNERY'S VOICE:  What do you mean, Miss Marlowe - you said   that --   CHAN:
+                    Just one moment - we wish to speak privately - if you do not mind please.
+
+CUT TO FULL SHOT by the door - Chan, Shirley and John here - Chan by them, shuts the door after John and Shirley make their
+                  exit.
+
+CHAN (Continued): Mr. Kirk - the brief case.
+
+
+CUT TO MEDIUM SHOT on Chan and Fife at door, Chan with the brief case.
+FIFE:   Sir Lionel's brief case...where did you get it?  CHAN:   We are indebted to Mr. Kirk.
+CUT TO MEDIUM SHOT of the group of four men - watching toward Chan and Fife.  CUT TO CLOSE SHOT on Fife and Chan.
+FIFE:   We'd better have a look at the contents.  CHAN:   Yes.
+CUT TO FULL SHOT in the room as Chan and Fife move down to table, where Chan opens the case.  CUT TO CLOSE SHOT on
+                  Flannery, Kirk and Fife - bell heard ringing.
+
+FLANNERY: (Stopping Chan and Fife) Fife - wait --
+(To Kirk) Mr. Kirk will you open that door and pretend you're alone? KIRK: (After a
+                  pause in which he studies the group) Why yes.
+
+
+CUT TO FULL SHOT of the group as they start to go away.  CUT TO FLANNERY -
+FLANNERY:   Leave the brief case here - and you two go in there, will you please?
+CUT TO FULL SHOT in room as Fife and Chan exit through a door.  CUT TO MEDIUM CLOSE SHOT on a door as Flannery exits,
+                  pausing a moment.  CUT TO FULL SHOT in the room - Kirk moves forward, takes off coat and scarf lays them on chair,
+                  goes toward door.  CUT TO CLOSE SHOT on Flannery as he looks through half closed door toward room.  CUT TO
+                  MEDIUM SHOT room as Kirk opens door to hallway, admitting Dunwood.
+
+DUNWOOD: Hello Barry! You alone? KIRK: Come in. DUNWOOD:
+(Moving over, taking off coat and scarf) Oh I've had a busy day.
+
+
+CUT TO CLOSE SHOT on Dunwood - smiles as he sees something off scene - continues:
+Oh, I see you got my case for me - thanks.
+CUT TO MEDIUM WIDE SHOT by the two - Dunwood moves to table in corner with case.
+KIRK:   When did you get your membership card?
+CUT TO CLOSE SHOT Kirk and Dunwood -
+DUNWOOD:  This morning - lunched at the club and forgot my case.
+CUT TO REVERSE CLOSE SHOT of the two as Dunwood finishes:
+Why do you ask?  KIRK:   Look here, Dunwood, you wouldn't cast suspicion on an old friend, would you?
+CUT TO REVERSE CLOSE SHOT of the two -
+KIRK:   I was told you hadn't been to the club today.
+CUT TO REVERSE CLOSE SHOT of the two -
+DUNWOOD:  You've been misinformed -
+CUT TO FULL SHOT in the room as Dunwood moves a few steps down - door in background opening as he says:
+- now if you'll excuse me I'll -- FLANNERY: (Entering) If
+                  you'll excuse me... DUNWOOD: What? FLANNERY: What are you doing with Sir Lionel Gray's papers?
+
+
+CUT TO ANOTHER SHOT as Dunwood moves forward.
+DUNWOOD: Oh there's been a frightful mistake. CHAN: (Holding
+                  gun to cover Dunwood) Yes - that was when you and your assistant Li Gung killed -
+
+
+CUT TO CLOSE SHOT on Dunwood - his face terrified - Chan's voice finishing through shot --
+- Sir Lionel Gray.   FIFE'S VOICE:   And another mistake you made was trying to murder the Masked Dancer.  
+FLANNERY:  Miss Marlowe, will you come in please?
+
+CUT TO MEDIUM SHOT by door as Shirley and John enter to group - Flannery continues:   (Indicating Dunwood - off [scene])
+                  Do you mean this man?   CUT TO CLOSEUP on Shirley - terrified as she recognizes Dunwood -
+
+SHIRLEY:   Alan Raleigh!
+CUT TO CLOSE SHOT on Dunwood - as he turns.
+DUNWOOD: (Speaking rapidly) Yes - I deny everything - I
+                  never saw this woman before --
+
+
+CUT TO CLOSE SHOT on Chan, gets sneezing fit, drops gun - Dunwood's voice continuing through shot --
+- she never saw me.
+CUT TO FULL SHOT by the group as Dunwood makes a grab for the fallen gun - others move quickly to prevent him from getting
+                  it.
+
+FLANNERY:   Watch out!
+Dunwood holds the gun, covering the group as he stands back to the windows.
+DUNWOOD: (Keeping the group covered) Thanks, Mr. Chan --
+                  I am Alan Raleigh --
+
+
+CUT TO CLOSE SHOT on Dunwood - holding the gun as he continues:
+- I did kill Sir Lionel - it was his life or mine.  You may keep the brief case - I don't need it - I'm leaving - now get
+                  over there.
+
+CUT TO CLOSE SHOT on Chan.
+CHAN:   Sorry - but no -- you are more -
+CUT TO FULL SHOT on the group around Dunwood as Chan moves forward, as he continues:
+- important than brief case. DUNWOOD: (Threateningly) I'll
+                  shoot -
+
+
+CUT TO FULL SHOT by the group as they struggle with Dunwood for the gun.
+FIFE:   Look out, Charlie - look out he'll kill you!  FLANNERY:   Got him Charlie.  CHAN:   Yes.
+CUT TO ANOTHER SHOT in the room by the group as handcuffs are put on Dunwood.  CUT TO CLOSE SHOT on the group as the
+                  handcuffs are made secure on Dunwood's wrists.
+
+FLANNERY:   That's it - got him - all right - put them on --  FIFE:   That's it, Charlie - he might have killed you.
+CUT TO CLOSE SHOT of Chan and Fife -
+CHAN: (Emptying gun) Oh no - old habit - wife never likes
+                  loaded gun, on account of children. FLANNERY'S VOICE: Clever trick, Charlie - now we've got his confession.
+
+
+CUT TO CLOSE SHOT on Dunwood and Flannery ---
+DUNWOOD:   Yes - you've got it.   Overlooked the essential clue - thirteen-thirteen - doubly bad luck.
+DISSOLVE TO -  SHOT BY THE DOOR leading to exterior as Chan - with others comes in.  Shirley and John have their arms
+                  around each other.
+
+CHAN:   I could be happy man if I had not been the cause of this young lady's return to England.  FIFE:   Well I think
+                  under the circumstances, Scotland Yard will call this case closed.
+
+Shirley turns around to face Fife, then turns to John - 
+JOHN: Shirley, that means you don't have to go back. SHIRLEY: (Turning
+                  toward Fife and Chan) Ah, thank you, Inspector. FLANNERY: (Moves down a little) Well,
+                  Charlie, I guess the honor goes to you.
+
+
+CUT TO CLOSER SHOT as Chan puts Fife's hand in Flannery's -
+CHAN:   Ah - no - the geese who laid the eggs deserve the credit.
+FADE OUT -------
+THE END
+
+
+ 
+ 
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

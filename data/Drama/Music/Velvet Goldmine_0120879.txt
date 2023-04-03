@@ -1,0 +1,6311 @@
+
+
+window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app13.us.archive.org';v.server_ms=901;archive_analytics.send_pageview({});});
+
+
+  __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://www.geocities.com:80/moulingoldmine4/VGscript.html","20050104095225","http://web.archive.org/","web","/_static/",
+	      "1104832345");
+
+
+
+
+
+
+
+
+Velvet Goldmine Script
+
+<!--
+ p.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0cm; margin-right:0cm; margin-top:0cm}
+-->
+
+
+
+
+<!-- Hide from older browsers
+// No right click script v.2.5
+// (c) 1998 barts1000.
+// barts1000@aol.com
+//http://fxcentral.webprovider.com
+// Don't delete this header!
+
+var message='I worked waaaay too long on this To find it on someone elses site would traumatise me That can mean aa very messy law suit these days So feel free to reference or copy this for your own use but DO NOT put it on another site '; 
+
+//Message for the alert box
+
+// Don't edit below!
+
+function click(e) {
+	if (document.all) {
+		if (event.button == 2) {
+			alert(message);
+			return false;
+			}
+		}
+	if (document.layers) {
+	if (e.which == 3) {
+		alert(message);
+		return false;
+		}
+	}
+}
+if (document.layers) {
+	document.captureEvents(Event.mousedown);
+	}
+document.onmousedown=click;
+// -->
+
+
+
+
+VELVET GOLDMINE
+Todd 
+Haynes 
+ 
+Story by
+Todd Haynes 
+and James Lyons
+
+Screenplay transcribed by KATE (AKA [RHPS] 
+Magenta) of Moulin 
+Goldmine
+~The lyrics 
+are not in the screenplay, but can be found
+here~
+ 
+
+* 
+Though a labour of love, this script took quite some time to painstakingly and 
+accurately transcribe for your benefit. You may use it for personal purposes,
+
+
+but DO NOT REPRODUCE it 
+anywhere else on the net 
+*
+ 
+ 
+
+* Although what you are about to 
+see is a work of fiction,
+
+it should nevertheless be played at 
+maximum volume *
+ 
+
+FEMALE NARRATOR
+
+(British)
+Histories, 
+like ancient ruins, are the fictions of empire. While everything forgotten hangs 
+in dark dreams of the past, ever threatening to return.
+ 
+Sad mists of music rise as we 
+FADE UP TO:
+ 
+EXT. A GALAXY OF STARS – NIGHT – 1854
+ 
+We descend, music building.
+ 
+A falling star soars across the sky 
+and explodes in lavender sparks. Purple mists clear to reveal the rooftops of a 
+storybook Dublin.
+ 
+EXT. OLD DUBLIN – NIGHT – 1854
+ 
+A luminous green spaceship is just 
+making its ascent, leaving a trail of pink smoke.
+ 
+In one grand synthetic 
+WHOOSH the spacecraft disappears into the sky.
+ 
+EXT- WILDE RESIDENCE – NIGHT – 1854
+ 
+We descend upon a lamp lit street of 
+Gregorian townhouses.. A light appears in the lower part of one building. Its 
+door opens and a Housemaid steps out. She discovers a small bundle at her feet. 
+It’s a baby.
+ 
+
+HOUSEMAID
+            Lord’n heaven-
+ 
+She lifts it into her arms and looks 
+up to the sky.
+ 
+The last green traces of the 
+spacecraft’s eerie glow can be seen through the clouds.
+ 
+            Madame Wilde! Richard! Come. 
+Quickly!
+ 
+A Male Servant appears with a 
+lantern, followed by Mrs Wilde, a lean, middle-aged woman in a robe. They 
+surround the Housemaid and her miraculous find.
+ 
+CLOSE ON the Baby. Mrs Wild opens the 
+blanket and reveals a luminous emerald pin, ornate and antique, clasped to the 
+infant’s pinafore. Music rises as we:
+ 
+            DISSOLVE TO:
+ 
+INT. CLASSROOM/IRISH BOY’S SCHOOL – DAY- 
+1862
+ 
+TRACK past the ruddy-cheeked faces of 
+eight year old school children standing and stating their future ambitions.
+ 
+
+SCHOOL CHILDREN
+I want to Be 
+a Farmer. I want to be a Barrister. I want to be a Truck Driver.
+ 
+Settle on the last child in the row, 
+a solemn tow-haired boy whose seriousness is betrayed only by the cherry-redness 
+of his lips.  A hand-made name card hanging from his neck reads ‘Oscar Wilde’.
+ 
+
+EIGHT YEAR OLD 
+OSCAR
+            I want to be a pop idol.
+ 
+He wears the emerald pin on his 
+lavender cravat. It sparkles.
+ 
+FAST CUT TO:
+EXT. ENGLISH 
+SCHOOLYARD -  DAY – 1955
+ 
+SUBTITLE- 
+‘One hundred years later...’
+ 
+The camera soars over the Schoolboys 
+fighting in a crowd. It isn’t immediately apparent that a century has passed, 
+and the child being beaten is not the young Oscar Wilde but a designated 
+ancestor.
+ 
+Seven year old dandy Jack Fairy is 
+being bashed to smithereens by fellow classmates, as others circle the massacre, 
+throwing in kicks for good measure. The school bell rings and the young ruffians 
+scurry off, leaving the boy face down in the yard.
+ 
+In 
+CLOSE UP Jack lifts his head and looks around. He examines his skinned 
+knuckles and notices something shiny between two flagstones. He digs between 
+them and loosens the small object. Rubbing off the dirt, he reveals Oscar’s pin.
+ 
+            
+CUT TO:
+ 
+EXT. COUNTRY ROAD – SUNSET – 1955
+ 
+Crane over little Jack walking home 
+over artificial cobblestones and a setting sun. Music swells as we hear:
+ 
+
+FEMALE
+
+(voice-over)
+Childhood, 
+adults always say, is the happiest time in life. But as long as he could 
+remember, Jack Fairy knew better.
+ 
+INT. JACK’S PARENTS’ BEDROOM – DUSK – 
+1955
+ 
+Very 
+CLOSE ON young Jack as he walks through the dark of his parent’s room to his 
+mother’s vanity. He clasps the emerald pin to his shirt, stops in front of the 
+mirror and looks up.
+ 
+CLOSE ON the mirror: Jack’s lip is 
+still bleeding. He touches it. Gently, he rubs the blood over his lips like 
+lipstick. There is music and faint sparkles in the air.
+ 
+
+FEMALE
+
+(voice-over)
+Until one 
+mysterious day, when Jack would discover that somewhere there were others quite 
+like him, singled out for a great gift. And one day...
+ 
+His eyes flash back to his 
+reflection.
+ 
+            ...the whole stinking world 
+would be theirs.
+ 
+Jubilant guitars (‘Needles in the 
+Camel’s Eye’/Brian Eno) as we swish to the mirror where young Jack, is laughing victoriously: ZOOM-IN.
+ 
+            MAD CUT TO:
+ 
+EXT. STREETS OF LONDON – TWILIGHT – 1974
+ 
+A cluster of feet, scrambling down 
+the streets of London, teetering on mountainous footwear. The boys and girls of 
+glitter rock are rushing excitedly over the Waterloo Bridge, across the Strand, 
+down Wellington Street, all to see their favourite glam star perform at the 
+Lyceum Theatre.
+ 
+OPENING CREDITS
+ 
+A Cluster of painted faces cram for 
+space in front of a chrome bank building doing last-minute make-up and hair; 
+they hurry off as we PAN UP to where someone 
+has scrawled in lipstick: LAST MIRROR BEFORE MAXWELL!
+ 
+The five skinny specimens scurry on, 
+passing other platformed-heeled skinnies as they go. Malcolm, Ray, Pearl and 
+Billy of the London trash-band The Flaming Creatures struggle to run in their 
+outfits and Arthur follows in the pack.
+ 
+A lean face watches them as they 
+pass. He turns away. It’s Jack Fairy, late twenties, gaunt, striking, with old 
+rouge hollowing his face. Arthur turns momentarily, recognizing Jack, then 
+continues.
+ 
+Some other  passing glitter
+kids spot him as the as they pass. Song continues as we:
+ 
+            CUT TO:
+ 
+EXT.  LYCEUM THEATRE – TWILIGHT – 1974 – 
+‘NEWSREEL FOOTAGE’
+ 
+Outside the theatre we ZOOM PAST a 
+long line of Glitter Boys and Girls; super-foxes and she-bitches, ziggies, 
+iggies, shags, queens, straight kids dressed up as queers, all anxiously 
+awaiting the first glimpse of flam-rock idol Brian Slade.
+ 
+But, looking closer, there is 
+something dark bruised beneath the flash. Some kids look into cameras we 
+TRACK UP, past their faces, to the name on the marquee.
+ 
+We hear:
+ 
+
+BBC VOICE:
+
+(off-screen)
+Tonight the 
+streets of London are ablaze in sparkle make-up and glittering frocks as the 
+boys and girls of the current glam-rock craze pay tribute to their patron saint, 
+pop-star Brian Slade and his space-age rock persona, Maxwell Demon.
+ 
+            CUT TO:
+ 
+INT. DRESSING ROOM – LYCEUM THEATRE – 
+NIGHT – 1974
+ 
+TV Monitor: BBC Reporter stands out 
+side the Lyceum Theatre.
+ 
+CLOSE ON Brian Slade (aged twenty 
+five), dressed as ‘Maxwell Demon’: his hair bright blue, his face an eerily 
+effeminate mask. He is looking up at the TV screen through the mirror (quiet 
+music beginning), before returning his attentions tot  a chessboard in front of 
+him.
+ 
+
+BBC VOICE
+
+(off-screen)
+A palpable 
+whir of anticipation can be felt outside London’s Lyceum Theatre as fans await 
+the final show of Slade’s smash world tour.
+ 
+A young woman with a Maxwell Demon 
+haircut, Shannon, is shaking a can of hairspray. Brian closes his eyes as she 
+sprays.
+ 
+CLOSE ON Brian’s hand moving a 
+knight.
+ 
+Security 
+around the performer has tightened following a recent BBC interview in which he 
+admitted to premonitions of being assassinated on-stage.
+ 
+Shannon’s spraying stops. Brian 
+glances up to her in the mirror.
+ 
+
+BRIAN
+Turn it off.
+ 
+Shannon flips off the set. There’s a 
+loud knock at the door.
+ 
+A Man’s head pops around the door, 
+the sound of the PA pours in.
+ 
+
+MAN
+Brian? Time.
+ 
+            CUT TO:
+ 
+INT. LYCEUM THEATRE – STAGE – NIGHT – 
+1974
+ 
+A HANDHELD shot follows Brian as he 
+is whisked to the stage, large ornamental feathers are attached to his outfit. 
+Another Assistant with a Maxwell Demon haircut hands him a lit cigarette and a 
+glass of red wine on the way. The PA bellows thunderously throughout the hall.
+ 
+
+ANNOUNCER
+Ladies and 
+gentlemen...The Lyceum Theatre in cooperation with Bijou Music is proud to 
+present...
+ 
+On-stage large fans are turned on, as 
+stage hands begin blowing white feathers into the air. The roar of the audience 
+builds.
+ 
+A crowd swarms in front of the stage. 
+Arthur is carried away from his friends in the surge. He looks back anxiously, 
+catching sight of someone in the aisle.
+ 
+A dark figure is slipping through the 
+darkness toward the stage.
+ 
+...straight 
+back from their fantastically successful European Tour...Maxwell Demon and The 
+Venus in Furs!
+ 
+Thunderous applause as the band 
+breaks into an intro to ‘The Ballad of Maxwell Demon’.
+ 
+On-Stage: Brian walks theatrically on 
+stages and faces the crowd, under blue lights and a storm of feathers.
+ 
+Brief shots in slow motion:
+Auditorium: Arthur catches sight 
+of...
+ 
+...a shiny object being pulled out of 
+someone’s coat and aimed at the stage. It’s a gun.
+ 
+Arthur’s eyes grow wide. It fires.
+ 
+Brian is catapulted into the air, his 
+chest exploding in blood. He slowly sails back to the stage.
+ 
+TRACE INTO Arthur, looking back to 
+the gunman.
+ 
+A dark figure vanishes amid the 
+sudden panic as a chorus of sights takes over all sounds.
+ 
+Very 
+CLOSE ON chessboard. A knight takes a queen.
+ 
+            DISSOLVE TO:
+ 
+Newspaper headline:
+ 
+
+SINGER BRIAN SLADE SHOT ON-STAGE
+ 
+            DISSOLVE TO: 
+
+ 
+EXT. LONDON STREET – MORNING – 1974
+ 
+Arthur stands at the door of his flat 
+reading the headline. He looks up to the grey skies over head. The sad, 
+plaintive introduction to ‘Hot One’ begins.
+ 
+            DISSOLVE TO:
+ 
+EXT. ROOFTOP – DAY – 1974
+ 
+Very 
+CLOSE ON a young Crew-cut Boy, gazing up to the clouds with tears in his 
+eyes. We hear his internal whisper:
+ 
+
+CREW-CUT BOY
+
+(voice-over)
+Put out the 
+torches!
+Hide the 
+moon!
+Hide the 
+stars! 
+ 
+            DISSOLVE TO:
+ 
+EXT. MONTAGE OF FACES – DAY – 1974
+ 
+TRACE past three young Punks, looking 
+ up to the skies with open mouths.
+ 
+New Your City Drag Queens, squinting 
+into the sun.
+ 
+Two teenage Girls in London, eyes 
+closed.
+ 
+As we hear:
+ 
+
+FEMALE NARRATOR
+
+(voice-over)
+For once 
+there was an unknown land, full of strange flowers and subtle perfumes, a land 
+of which it is joy of all joys to dream, a land where all things are perfect and 
+poisonous...
+ 
+            DISSOLVE TO:
+ 
+INT. LONDON CONCERT HALL – STAGE – NIGHT 
+– 1972
+ 
+As the song’s intro comes to an end 
+and we descend, landing on:
+ 
+A glistening 
+CLOSE-UP of Brian, electric skin-tight purple space suit and blonde/magenta 
+hair, as he starts to sing: ‘Hot One’.
+ 
+Promo film: Brian portrays Maxwell 
+Demon, the tragic space hero, while Trevor, his sexy lead guitarist, ablaze in 
+silver sequins, fronts the cosmic back-up band. The combination of camp 
+theatricality, melodic melancholy and searing guitar creates a strange mix: 
+erotic and violent but elegantly detached at the same time.
+ 
+Song continues as the screen suddenly 
+flares white.
+ 
+MONTAGE (ARCHIVAL FOOTAGE): GLITTER KIDS 
+– 1972
+ 
+The chorus resumes under a slightly 
+hokey Narrator, as we return to the promo film with a crude but hip montage of 
+seventies London: shots of young people sporting glitter clothes and hairstyles.
+ 
+
+NARRATOR
+...It 
+appears today’s youngsters have fashioned a whole new bent on the so-called 
+sexual liberation of the flower power set. The long hair and love-beads have 
+given way to glitter make-up and platform shoes and a whole new taste for 
+glamour, nostalgia and just plain outrageousness!
+ 
+CROSS FADE with following ‘on the 
+street interviews’.
+ 
+EXT. LONDON STREETS – DAY- 1972
+ 
+HANDHELD TRACK past the painted faces 
+of young Glitter Kids along the Carnaby Street, Sloan Street, Kings Road etc.
+ 
+EXT. LONDON STREETS – DAY – 1972
+ 
+An Old Woman and Middle Aged Man 
+stand in front of a church.
+ 
+
+REPORTER
+Is London 
+not shocked?
+ 
+
+OLD WOMAN
+
+London’s...improving.
+ 
+
+MIDDLE AGED MAN
+Well, I 
+think it’s a disgrace, parading around all ponced-up like a pack of bleeding 
+woofters. Bloody hell, what’ll they think up next?
+ 
+EXT. LONDON HUSTLER STREET – DAY – 1972
+ 
+TRACK with Brian dressed like a space 
+tart, sashaying down a street full of Hustlers and Drag Queens.
+ 
+Brian walks directly into the arms of 
+a Sailor in white and kisses him firmly on the mouth.
+
+ 
+
+NARRATOR
+
+(voice-over)
+And heading 
+up this flash stampede is none other than pop giant Brian Slade, who’s stylish 
+escapades have paved the way for a whole new breed of performing artists. From 
+Curt Wild and The Flaming Creatures, to Jack Fairy and Polly Small. Thanks to 
+Slade, today’s youngsters are singing a whole new tune.
+ 
+EXT. LONDON STREETS – DAY – 1972
+ 
+Now, a teenage glitter couple: the 
+Young Guy talks as his Girlfriend nods in agreement.
+ 
+
+REPORTER
+So you’re 
+saying you’re bisexual?
+ 
+
+YOUNG GUY
+Yeah, I like 
+boys, I like girls. They’re all great. There’s no difference is there? ...Mr BBC.
+ 
+EXT. CONCERT HALL – DAY – 1972 – PROMO 
+FILM
+ 
+Trevor, Brian’s lead guitarist, is 
+being interviewed in front of a small crowd of screaming fans.
+ 
+
+TREVOR
+
+(on screen, then voice over ‘Imaginary Theatre’, then on 
+screen)
+Rock music 
+has always been a reaction against accepted standards. And homosexuality has 
+been going on for centuries. At the moment having a ‘gay’ image is the ‘in’ 
+thing, just like a few years ago it was trendy to wear a long grey coat with a 
+Led Zeppelin record under your arm.
+ 
+INT. (IMAGINARY) THEATRE – 1974
+ 
+CLOSE ON a hand sliding onto Arthur’s 
+crotch. Swish up to Arthur, who sees a sleazy Old Man leaning over, smiling 
+faintly.
+ 
+Back to the promo film.
+ 
+EXT CONCERT HALL – DAY – 1972
+ 
+Curt is interviewed.
+ 
+
+CURT
+Everyone’s 
+into this scene because it’s supposedly the thing to do right now. But you just 
+can’t fake being gay. You know, if you’re gonna claim that you’re gay you’re 
+gonna have to make love in gay style, and most of these kids... just aren’t 
+going to make it. 
+That line, 
+‘Everybody’s bisexual’, that’s a very popular thing to say right now. 
+Personally, I think it’s meaningless.
+ 
+CARD:
+ 
+A decorative, bright pink card reads:
+            ‘Meaning is not in things but 
+in between them.’
+
+                                                            -Norman Brown
+ 
+ 
+INT. LONDON CONCERT HALL – STAGE – NIGHT 
+– 1972
+ 
+Brian completes the final chorus of 
+the song, ending in a crescendo. But, just as the house explodes in cheers, the 
+sound and image freeze.
+ 
+A beat of silence, before:
+ 
+NEWSPAPER:
+ 
+A newspaper flies into frame with a 
+blast of music. The headline reads:
+
+‘SLADE SHOOTING A HOAX’
+ 
+INT. LONDON CONCERT HALL – STAGE – NIGHT 
+– 1972
+ 
+CLOSE ON Brian confiding to camera.
+ 
+
+BRIAN
+
+(a thunderous whisper)
+I knew I 
+should create a sensation gasped the Rocket, and he went out.
+ 
+FREEZE FRAME:
+ 
+Image burns and is pulled from the 
+screen. White screen.
+ 
+INT. SCREENING ROOM. (NEW YORK HERALD) – 
+DAY – 1984
+ 
+CLOSE ON Arthur’s eyes, as he 
+listens to a conversation, still deep in thought, after watching the promo 
+newsreel  footage.
+ 
+
+MALE VOICE
+Alright, 
+Lionel. You can turn it off now.
+ 
+We hear other voices in the room; one 
+or two other figures stand.
+ 
+
+FEMALE VOICE
+I don’t get 
+it.
+ 
+
+MALE’S VOICE 2
+What don’t 
+you get? It was a stunt. The guy fakes his own murder.
+ 
+
+FEMALE VOICE
+Yeah, but 
+why?
+ 
+
+MALE VOICE 2
+Publicity
+
+ 
+
+LOU
+Arthur?
+ 
+SWISH PAN to Adult Arthur, a 
+journalist for the Herald. He looks up.
+ 
+            Any recollection?
+ 
+
+ARTHUR
+Of what?
+ 
+
+LOU
+This – Slade 
+fellow?
+ 
+
+ARTHUR
+
+(non-committal)
+What? He’s 
+a...early 70’s glam rock singer
+ 
+
+MURRAY
+Told you we 
+could count on Mr Old-Time Rock and Roll!
+ 
+He and Mary snicker.
+
+ 
+
+ARTHUR
+
+(tuning to Lou)
+Count on me 
+for what?
+
+(to Lou)
+I thought I 
+was on the Reynolds trip.
+ 
+
+LOU
+Well you are. 
+But the President isn’t due till the eighth and we need a piece for the 
+Weekender now.
+ 
+
+ARTHUR
+
+(quiet, facetious)
+Great.
+ 
+
+LOU
+Aw, now, 
+look. Next week is the tenth year anniversary of the whole shooting stunt 
+incident. I’d like you to find out what happened. Where he is today. ‘What Ever 
+Happened To Brian Slade?’ Okay?
+ 
+Arthur looks away, shaking his head.
+ 
+
+ARTHUR
+And naturally 
+you want me for this because I’m the resident Brit, right?
+ 
+
+LOU
+No.
+ 
+Arthur stops.
+ 
+I want you 
+because you remember.
+ 
+A smooth 
+ZOOM IN to Arthur’s face..
+ 
+            CUT TO:
+ 
+EXT. NEW YORK PANORAMA – DAY – 1984
+ 
+The burnt-out remains of New Your 
+City and the subtitle:
+
+NEW YORK CITY, 1984
+
+ 
+1984 New York is a decadent, 
+seventies vision of an apocalyptic future a bombed-out, expressionistic city 
+from which most people, wealthy or white, have already fled.
+ 
+Melancholy music.
+ 
+EXT. NEW YORK STREETS – DAY – 1984
+ 
+Arthur walks home through a blue-gel 
+twilight. Pulling out we reveal a grey industrial landscape, emptied of colour 
+and life. A small line of National Guards Patrol the Area.
+ 
+
+ARTHUR
+
+(voice-over)
+Some 
+meaningless prank, a decade old. Why was it suddenly up to me to figure out when 
+clearly there was something, something from the past spooking me back? I didn’t 
+realize at the time that it was you.
+ 
+Rising in the distance, we hear the 
+rumble of a crowd and the echoey bass of stadium rocker Tommy Stone’s song 
+‘People Rockin’ People’ over a loud speaker.  A Man’s voice follows, massive 
+with echo.
+ 
+
+MALE VOICE
+Thank you 
+Transelectric and CRA. Micro Atlanta and Dupree for their generous support.
+ 
+DISSOLVE TO:
+ 
+EXT. COURTHOUSE – NEW YORK – DAY – 1984
+ 
+TRACK OVER the heads of a crowd of 
+mostly kids, gathered around an enormous screen. Tommy Stone, a bleach-blonde 
+corporate superstar, is being simulcast from a distant stadium filled with 
+bleach-blonde fans.
+ 
+Music continues louder.
+ 
+
+TOMMY STONE
+
+(on large outdoor TV screen)
+Thanks to 
+President Reynolds’ Committee for Cultural Renewal for making this broadcast 
+possible and thanks to you, the three billion viewers tuning in right now on 
+global satellite...YEAH!
+ 
+CLOSE ON: Arthur as the booming 
+telecast fades and he descends the subway stairs.
+ 
+INT. SUBWAY STAIRS – NEW YORK – DAY – 
+1984
+ 
+A dark figure whisks by.
+ 
+The man passing, a sinewy character 
+in his late thirties, flashes a cool glance at Arthur before rushing out of 
+sight. (We don’t know it yet but this is Curt Wild.)
+ 
+Very 
+CLOSE ON Arthur, struck as the road of an oncoming train rises with the 
+music.
+ 
+            DISSOLVE TO:
+ 
+INT. SUBWAY – NEW YORK – DAY – 1984
+ 
+A packed subway car, gnarled with 
+damage and black with graffiti, flickers in and out of the darkness. 
+
+ 
+We hear:
+ 
+
+CHILD’S VOICE
+‘Yesterday 
+upon the stair
+I saw a man 
+that wasn’t there’
+ 
+A small Black Child in a Tommy Stone 
+mask, is reading to her mother from a book,
+ 
+
+BLACK CHILD
+‘He wasn’t 
+there again today
+How I wish 
+he’d go away.’
+ 
+CLOSE ON Arthur listening. He turns 
+and looks out his window.
+ 
+Arthur’s reflection through 
+flickering glimpses into passing trains and faces looking out.
+ 
+
+ARTHUR
+
+(voice-over)
+Ten years. 
+Ten years and the world had changed so completely that the life I led in England 
+seemed like someone else’s life. Someone else’s story. Anyone’s but mine.
+ 
+Out of the melancholy score, a song 
+from the past begins to rise. 
+(‘Avenging Annie’/Andy Pratt).
+ 
+            DISSOLVE TO:
+ 
+EXT. PASSING STREETS OF SUBURBAN 
+MANCHESTER – DAY – 1973
+ 
+
+MALE TEACHER
+
+(off-screen)
+‘There were 
+times when it appeared to Dorian Gray that the whole of history was merely a 
+record of his own life,’
+ 
+EXT. SCHOOLYARD – MANCHESTER SUBURBS – 
+DAY – 1973
+ 
+Three Kids in glitter-rock gear are 
+running late to class, laughing and tripping on their flashy footwear. One of 
+them is the Glitter Boy.
+ 
+
+MALE TEACHER
+
+(off-screen)
+‘not as he 
+had lived it in act and circumstance, but as his imagination had created it for 
+him, as it has been in his brain and in his passions.’
+ 
+INT. CLASSROOM – MANCHESTER – DAY – 1973
+ 
+Teenage Arthur watches the kids 
+through his classroom window. He returns his attention to his meticulous 
+rendering on an exercise book of Brian Slade as Maxwell Demon.
+ 
+The off-screen voice of the Teacher 
+continues with the music.
+ 
+
+TEACHER
+‘He felt that 
+he had know them all, those strange, terrible figures that had passed along the 
+stage of life, and made sin so marvellous and evil so full of subtlety.’
+ 
+Suddenly Arthur looks up. Music 
+stops. His Teacher is looking right at him. ‘Coz I love You’/Slade begins.
+ 
+‘It seemed 
+that in some mysterious way, their lives had been his own...’
+ 
+Music rises in volume with:
+ 
+CUT TO:
+ 
+INT. RECORD STORE- MANCHESTER – DAY – 
+1973
+ 
+We 
+TRACK past the display of recent releases: Spinners, Gilbert O’Sullivan, The 
+Carpenters, etc.
+ 
+Teenage Arthur searches pensively for 
+a certain release. Then he spots it.
+
+CLOSE ON the Brian Slade album, The Ballad of Maxwell Demon.
+He gingerly reaches for a copy.
+ 
+Arthur turns solemnly and begins 
+approaching his Brother, who is standing with two
+Friends by the cash register, arguing over boy bands.
+Arthur approaches his brother who 
+stands with a friend chatting to another behind the counter.
+Arthur Stands opposite his brother.
+ 
+
+ARTHUR
+Can you lend 
+us two quid? I got money at home.
+ 
+
+BROTHER
+You must be 
+mental.
+ 
+
+ARTHUR
+Please. I 
+swear I’ve got it.
+ 
+
+BROTHER
+Piss off!
+ 
+
+ARTHUR
+Thanks.
+ 
+
+BROTHER
+ ...what’s it 
+for?
+ 
+
+ARTHUR
+Nothing.
+ 
+
+BROTHER
+Give us it 
+here. Let’s have a look.
+ 
+Arthur’s brother grabs the album out 
+of his hands.
+ 
+Bloody Nora!
+ 
+Music rises as Arthur’s brother shows 
+the record to his friends.
+            Our kid’s one of them pansy 
+rockers!
+ 
+
+FRIEND 1
+Fuckin’ hell!
+ 
+
+FRIEND 2
+
+(pointing to the record)
+He’s a 
+fucking poof, that one there.
+ 
+Arthur is completely confused.
+ 
+
+ARTHUR
+No he’s not.
+ 
+
+FRIEND 1
+That’s naff!
+ 
+
+FRIEND 2
+That’s naff.
+ 
+
+BROTHER
+
+(to Arthur)
+You’re 
+disgustin’ -  you know that?
+ 
+CLOSE ON Arthur, cheeks flushed with 
+instinctive shame. Music rises.
+ 
+EXT. ARTHUR’S STREET – MANCHESTER – 
+AFTERNOON – 1973
+ 
+CLOSE UP TRACK with Arthur as he 
+lumbers home, deep in though, trying to figure it all out. Slow pan down reveals 
+the record under his arm.
+ 
+EXT. ARTHUR’S HOUSE – MANCHESTER – 
+AFTERNOON – 1973
+ 
+Continuous crane up as Arthur 
+approaches his house and hurries in, slamming the door behind him.
+ 
+            CUT TO:
+ 
+A series of brief, 
+CLOSE SHOTS:
+ 
+INT. ARTHUR’S BEDROOM – MANCHESTER – DAY 
+1973
+ 
+Arthur jams the door with a chair.
+ 
+Album cellophane is peeled and 
+crumpled.
+ 
+A shiny record is slid out of its 
+sleeve and placed on to a turntable.
+ 
+The needle drops and glides into its 
+groove, filling the room with a glorious, anticipatory hiss.
+ 
+‘Hot One’ begins.
+ 
+Arthur opens up his new copy of the 
+Melody Maker.
+ 
+CLOSE ON the newsprint pages. Arthur 
+turns to a fold-our spread on Brian Slade’s stage persona Maxwell Demon.
+ 
+TRACE along a wall covered in glam 
+posters and clippings, sketches and keepsakes. Arthur, dressed in a plaid 
+jacket, is just leaving.
+ 
+INT. ARTHUR’S LIVING ROOM – MANCHESTER- 
+DAY – 1972
+ 
+Arthur slips out of his room and down 
+the stairs of his house.
+ 
+His parents, Mr and Mrs Stuart, sit 
+frozen in front of the TV. They turn in unison as Arthur slips out the door.
+ 
+
+ARTHUR
+I’m just 
+going out for a minute.
+ 
+EXT. ARTHUR’S HOUSE – MANCHESTER – DAY – 
+1972
+ 
+Arthur stashes his jacket  in the 
+bushes and takes off down the road.
+EXT. MANCHESTER STREETS – DAY – 1972
+ 
+Arthur has a ‘cool day’ walking 
+downtown Manchester in his skin-tight chest hugging blue small t-shirt, with 
+cherry picture on front, and sparking buttons/badges attached.
+ 
+A small group of brightly clad 
+Glitter Kids stand around a bench smoking and ignoring everyone around them.
+ 
+The one boy in the group, previously 
+seen running late for class, glances over checking out Arthur.
+ 
+CLOSE ON Arthur:
+ 
+FAST CUT TO:
+ 
+INT. SUBWAY CAR – NEW YORK – DUSK – 1984
+ 
+Adult Arthur staring out of a subway 
+car, stopped at a station. Arthur looks out on to the station platform. The 
+doors begin to close. Suddenly Arthur realizes what stop it is and scrambles for 
+the door.
+ 
+Music rises (‘The Fat Lady of 
+Limbourg’/Brian Eno) with the sound of a seventies news broadcast:
+ 
+
+NEWSCAST
+
+(voice-over)
+Today in 
+London officials confirmed that the February 5th shooting of singer 
+Brian Slade at London’s Lyceum Theatre was a publicity stunt, mounted by the 
+singer’s company, Bijou Music Limited.
+ 
+NEWSPAPER ON MICROFILM
+ 
+A 1974 headline reads:
+
+‘BRIAN SLADE SHOOTING A DECLARED A HOAX’
+ 
+TRACK IN to story below, subtitled:
+
+‘BETRAYED FANS STRIKE OUT’
+ 
+INT. NEWSROOM LIBRARY – NIGHT – 1984
+ 
+Slow 
+TRACK IN to Arthur reading the story, colourless in the negative light.
+ 
+
+NEWSCAST
+
+(voice-over)
+Manager Jerry 
+Devine announced today that his company meant ‘no harm in their  escapades’, 
+that it was intended solely as ‘entertainment’....
+ 
+The sound of the newscast cross-fades 
+with that of Jerry Devin, Brian’s Manager.
+ 
+EXT. BIJOU OFFICES – DAY – 1974 – 
+NEWSREEL FOOTAGE: HANDHELD
+ 
+Devine speaks to a camera crew as he 
+walks from his car up the steps of his Chelsea office building.
+ 
+
+DEVINE
+Very 
+unfortunate and sad that, in this day and age, an artist’s quest for artistic 
+freedom should cost him his career.
+ 
+            CUT TO:
+ 
+INT. WEST BERLIN CAFÉ – DAY – 1974 
+NEWSREEL FOOTAGE
+ 
+Curt Wild is being interviewed by a 
+German television crew in a modern Kaffee Haus. Beside him sits Jack Fairy.
+ 
+
+INTERVIEWER
+
+(off-screen)
+Warum, denken 
+Sie? Warum – 
+ 
+
+TRANSLATOR
+
+(off-screen)
+Why do you 
+think?
+ 
+Subtitles read: 
+CURT WILD – JACK FAIRY – WEST BERLIN
+ 
+
+CURT
+
+(irritably)
+I dunno..I 
+dunno, it got too big I guess. It got too schizoid, you know? I mean...he 
+thought he fucking was Maxwell Demon in the end – you know? And Maxwell 
+Demon...he thought he was God.
+ 
+            BACK TO:
+ 
+INT. NEWSROOM LIBRARY – NIGHT – 1984
+ 
+Music continues as Arthur scans through 
+another roll of microfilm.
+ 
+A montage of headlines:
+
+‘BRIAN SLADE SALES PLUMMET’
+
+ 
+
+‘BRIAN SLADE UK TOUR CANCELLED’
+
+ 
+
+‘SINGER BRIAN SLADE SCHEDULED TO HOST TEEN POPSWOP AWARDS’
+
+ 
+
+‘SINGER BRIAN SLADE CHARGED WITH COCAINE POSSESSION’
+ 
+            DISSOLVE TO:
+ 
+Reference book:
+ 
+We follow Arthur’s finger as he 
+scrolls down a periodicals listing for Brian Slade. After 1974 references are 
+scarce. Arthur’s finger stops at the last date: September 1977.
+ 
+He looks up, pensive. Music is 
+suspicious.
+ 
+We hear:
+ 
+
+MALE VOICE
+
+(off-screen)
+Brian Slade? 
+Oh yes.
+ 
+Briefly:
+ 
+BEDROOM – DAY – 1969
+ 
+Grainy 
+image of two men having sex in morning light – one of them is Brian.
+ 
+FAST CUT TO:
+ 
+INT. CITY HOSPITAL, NEW YORK – DAY – 
+1984
+ 
+CLOSE ON the unshaven face of a 
+fifty-three-year-old Cecil Drake, Brian’s first manager, remembering.
+ 
+
+CECIL
+Quite well.
+
+ 
+Arthur stands opposite with a 
+notepad.
+ 
+...Once upon a 
+time.
+ 
+With that Ceil pivots around in his 
+wheelchair and takes off down the narrow corridor of the decrepit city hospital.
+ 
+Arthur scurries after, calling out as 
+he goes:
+ 
+
+ARTHUR
+So?
+ 
+
+CECIL
+Yes?
+ 
+
+ARTHUR
+What was he – 
+what was he like?
+ 
+
+CECIL
+Who’s that – 
+Brian?
+ 
+
+ARTHUR
+Yes –
+ 
+Cecil makes a sudden turn off near 
+the elevators. Arthur turns and follows.
+ 
+CLOSE ON Cecil facing a dirt window, 
+suddenly quite still.
+ 
+
+CECIL
+
+(quietly)
+Like nothing 
+I’d ever seen before.
+ 
+Arthur stands behind, watching him.
+ 
+And in the 
+end...like nothing appeared.
+ 
+A quiet draw of music pulls Arthur on 
+to a seat opposite.
+ 
+SLOW TRACK into Cecil, recalling a 
+quotation:
+ 
+He was 
+elegance, walking arm in arm with a lie.
+ 
+Music grows.
+ 
+            DISSOLVE TO:
+ 
+INT. BRIAN’S BEDROOM – BIRMINGHAM – DAY 
+– 1956
+ 
+Slow 
+TRACK past the face of an angelic seven-year-old boy, combing his hair in the 
+mirror with steely concentration. Brian Slade, immaculately dressed, puts down 
+the comb and stares at his perfect reflection.
+ 
+
+CECIL
+
+(voice-over)
+His real 
+name, in fact was Thomas, and his father owned a small tiling business in 
+suburban Birmingham. But Brian never cared much for the suburbs and, as a young 
+boy, had the rare fortune of spending a summer in London with his aunt –
+ 
+            CUT TO:
+ 
+INT. MUSIC HALL – LONDON – NIGHT – 1956
+ 
+TRACK along the floorboards of a 
+last-legs music-hall, where a smoky vaudeville act is glimpsed through fringed 
+curtains and footlights.
+ 
+Brian is creeping along the rim of 
+the orchestra pit, observing show and backstage antics alike.
+ 
+
+CECIL
+
+(voice-over)
+ - a figure 
+of some ill repute in the Slade family, after she married a cockney in the 
+‘entertainment field’ and followed him off to Deptford.
+ 
+Backstage, Brian spots his fat, 
+moustached Uncle, the director, ordering people around in a sweaty huff.
+ 
+Brian settles into a sliver of light 
+and watches the rest of the performance with intensity.
+ 
+The wiggly, over-painted Singer (a 
+man dressed as a dame stuffed into a bustier), is belting out a saucy number.
+ 
+            CUT TO:
+ 
+INT. BACKSTAGE – MUSIC HALL – NIGHT – 
+1956
+ 
+A comedian with zany-sound effects is 
+heard in the distance as Brian tiptoes up a dark stairway.
+ 
+At the top of the stairs he spots a 
+dressing-room door, partly open. From inside, he hears the sound of a woman in 
+distress.
+ 
+Cautiously, he approaches. He peers 
+in through the crack.
+ 
+All we see is a woman’s red-nailed 
+hand pushing against a large man.
+ 
+Brian inches the door open for a 
+better view.
+ 
+INT. DRESSING ROOM – MUSIC HALL – NIGHT 
+– 1956
+ 
+His fat Uncle, in 
+CLOSE UP, spots him and winks. Quick zoom out: revealing him seated on a 
+dressing room table, pants open, with the head of the Transvestite Singer 
+between his legs, in the throws of fellatio.
+ 
+Brian stares in shock.
+ 
+
+CECIL
+
+(voice-over)
+Brian’s 
+tender introduction to the theatrical underworld would leave a dramatic 
+impression.
+ 
+His Uncle blows the boy a little 
+kiss.
+ 
+Brian’s eyes bulge. We hear a 
+high-pitched, Little Richard squeal.
+ 
+            WILD SWISH PAN TO:
+ 
+INT. SLADE LIVING ROOM – EVENING – 1956
+ 
+With a musical bang, Brian (aged 
+seven) slides into frame, dressed in a black pompadour wig and make-up – as 
+Little Richard. He performs ‘Tutti Fruiti’ in his own piercing falsetto, singing 
+the song with its ‘original’ lyrics, and playing up each sexual innuendo with 
+broad, Little Richard gestures.
+ 
+
+BRIAN
+
+(sings)
+A wop bop a 
+lu bop a wop bam boom (etc)
+ 
+At the end of the song Little Brian 
+finished with a saucy bang (pelvic thrust).
+ 
+            FAST CUT TO:
+ 
+INT. STONE LIVING ROOM – EVENING – 1956
+ 
+Brian’s Parents, Gran and Brother sit 
+watching , dumbstruck, as ‘Do You Want To Touch Me (Oh Yeah)’/Garry Glitter 
+begins.
+ 
+            CUT TO:
+ 
+EXT. BIRMINGHAM STREET – DAY – 1965
+ 
+Brian Slade (aged sixteen), the 
+perfect, mod, is in the midst of deep-mouth kissing his perfect Mod Girlfriend. 
+He wears a tailored jacket, tight trousers, and has a puffed bouffant – dyed and 
+lacquered.
+ 
+As the finish, she asks:
+ 
+
+MOD GIRLFRIEND
+So what are 
+you, a mod or a rocker?
+ 
+
+BRIAN
+Six of one, 
+half a dozen of the other, really.
+ 
+Brian winks, pecks her on the cheek 
+and we pull out. The Mod Girlfriend gets on her bicycle and rides off. Brian 
+waves goodbye and turns, joining two 
+other Mod Boys, leaning against a wall, posing with cigarettes.
+ 
+A pack of uniformed Schoolboys are 
+passing.
+ 
+
+CECIL
+
+(voice-over)
+Taking their 
+cue from Little Richard, the swank London mods – short for modernists – were the 
+first to wear mascara and lacquer their hair, the first true dandies of pop – 
+and known to just about any indiscretion where a good suit was involved.
+ 
+One pretty Tow-haired Boy, busily 
+winding a bright gold watch, lags behind the rest.
+ 
+Brian notices him pass.
+ 
+The Tow-haired Boy stops and looks 
+over his shoulder at Brian.
+ 
+            CUT TO:
+ 
+INT. BRIAN’S BEDROOM – BIRMINGHAM – Day 
+– 1965
+ 
+CLOSE PAN UP Brian, slipping the gold 
+watch into his pocked and removing his tie. His eyes are fixed on something 
+below him.
+ 
+Full shot: Brian stands opposite the 
+Boy, spread out on his bed, face down and bare-bottomed.
+ 
+
+CECIL
+
+(voice-over)
+Style always 
+wins out in the end.
+ 
+Brian’s tie drops to the floor.
+ 
+Freda Payne/‘Band of Gold’.
+ 
+            CUT TO:
+ 
+INT. SOMBRERO CLUB – LONDON – NIGHT – 
+1971
+ 
+A Drag Singer lip-syncs with the 
+song, on a small club stage draped in gold spangles.
+ 
+
+CECIL
+
+(voice-over)
+For Brian, 
+the mods were a glamorous call to arms -  or at least, to London, where, three 
+years later, at the Sombrero Club in Kensington,
+ 
+Cecil sits with two middle-aged gay 
+friends at a table.
+ 
+I would hear 
+him sing for the very first time.
+ 
+The Singer finishes and the club 
+cheers. Packed to the gills; the streaming club swarms with the finest of 
+London trash and glamour.
+ 
+Everything, 
+it seemed, started at the Sombrero. No club in London had more notorious sway. 
+And there, at the centre of it was Brian’s American wife, Mandy, who’s dramatic 
+transformation to London party girl was a constant source of amusement to us 
+all.
+ 
+
+MANDY
+You all know 
+me – subtlety’s my middle name. It’s as subtle as the piece of skin between my 
+vagina and my anus – ooh la! la!
+
+(laughter)
+Now what’s 
+that called, I can never quite remember...No man’s land? Oh gosh – my 
+geesh, dah-ling! Now, ladies and gentlemen, boys and girls – and whomever 
+else may be in the house this evening...
+ 
+The club starts to clap and cheer.
+ 
+It is my 
+supreme pleasure to introduce all you lovely little minxes here tonight to the 
+Sombrero Club’s prettiest star – and my most shimmering hubby! –  I give you 
+Brian Slade!
+ 
+Brian walks out from the shimmer of 
+spangle drapes, swathed in satin and pearl like a pantomime damsel. His hair at 
+this point is long and reasonably straight.
+ 
+He and Mandy kiss and raise their 
+joint hands: the perfectly androgynous, bisexual couple of the seventies. Music 
+begins as Mandy walks off and Brian steps to the mike, performing ‘2HB’/Roxy 
+Music.
+ 
+Cecil stares in quiet, amorous shock 
+while his companions make the customary cracks.
+ 
+
+FRIEND 1
+Ooo, varda 
+Mistress Bona!
+
+(Subtitle reads: ‘Say have a look at “Miss Beautiful”!’)
+ 
+
+FRIEND 2
+Varda the 
+omie palome!
+
+(Subtitle: Have a look at the homosexual!’)
+ 
+
+FRIEND 1
+A tart, my 
+dears, a tart in gildy clobber!
+
+(Subtitle: ‘A slut, mates, a slut in fancy clothes!’)
+ 
+Cecil is captivated.         
+
+ 
+
+CECIL
+Who is he?
+ 
+Friend one is suddenly at one ear.
+ 
+
+FRIEND 1
+Some scrubber 
+my dear, I do assure you.
+ 
+With Friend 2 at the other.
+ 
+
+FRIEND 2
+But not that 
+scruffy, as I last recall.
+ 
+
+FRIEND 1
+Ooh, you’re 
+wicked.
+ 
+Cecil tosses a smirk at both of them 
+and stands. He straightens his blazer and heads off towards the stage for a 
+better view.
+ 
+Cecil’s friends watch him go, 
+incredulous.
+ 
+
+FRIEND 1
+She won’t be 
+home tonight.
+
+(Subtitle: ‘He won’t be home tonight.’)
+ 
+
+CECIL
+
+(voice-over)
+So I 
+introduced myself. Told him I was developing my own management company, and on 
+the look-out for new talent. He introduced me to his wife, asked me what sign I 
+was, and before the week was out – we were signing contracts.
+ 
+Brian catches sight of Cecil and 
+gives him a little smile.
+ 
+You see, 
+Brian believed in the future.
+ 
+Music rises over:
+ 
+            CUT TO:
+MONTAGE (ARCHIVAL FOOTAGE): LONDON 
+HIPPIES
+ 
+We see footage of late sixties hippie 
+culture.
+ 
+
+CECIL
+
+(voice-over)
+He despised 
+the hypocrisy of the peace and love generation and felt his music spoke far more 
+to its orphans and its outcasts. His revolution, he used to say, will be a 
+sexual one.
+ 
+DISSOLVE TO:
+ 
+EXT. OUTDOOR CONCERT – SOUTH-WEST 
+ENGLAND – DAY – 1971
+ 
+We 
+TRACK over a mass of grungy hippies, gathered for an all-day concert, staring 
+at the stage with perplexed expressions.
+ 
+ 
+
+CECIL
+
+(voice-over)
+But in 1970, 
+rock audiences bred on Credence Clearwater and the Beatles were not entirely 
+sure what to make of this particular brand of revolt.
+ 
+On-stage, under a large red canopy, 
+Brian performs a song (‘Sebastian’/Cockney Rebel) on acoustic guitar, in a scarf 
+and with a white face, still with long hair. Wearing a long purple velvet dress 
+and matching sueded boots, he sings with far greater affectation than before. 
+For a moment it appears as if he’s become Jack Fairy.
+ 
+CUT TO:
+ 
+INT. HOSPITAL – NEW YORK – DAY – 1984
+ 
+
+CECIL
+Somehow he 
+got it into his head that he had to perform in a frock – Don’t ask me why. I 
+mean, I thought it was a bit naughty, a bit of a giggle, but...
+ 
+            RETURN TO:
+ 
+EXT. OUT DOOR CONCERT – DAY – 1971
+ 
+Cecil and Mandy watch from the 
+audience. In front of them a Hippie is joined by his Hippie Friend.
+ 
+
+HIPPIE FRIEND
+Who’s this 
+geezer, then?
+
+ 
+
+HIPPIE
+Some 
+shirt-lifter from Birmingh’m.
+ 
+Hisses from the audience, followed by 
+a few shouts.
+ 
+
+AUDIENCE
+Get the fuck 
+off! Cut the shite! Bugger off, you woofter!
+ 
+Brian struggles to finish, glancing 
+over to Cecil in the audience.
+ 
+BACKSTAGE – OUTDOOR CONCERT – LAST DAY – 
+1971
+ 
+Mandy is a gush of enthusiasm as she 
+and Cecil trail Brian, who quickly collects his belongings. Hard rock on the PA 
+billows from the stage.
+ 
+
+MANDY
+Darling, 
+darling you were faaabulous! Every bit! I was beaming- truly – like 
+someone’s mum. And they adored you! The whole lot – transported!
+ 
+
+BRIAN
+
+(to Cecil)
+Transported! 
+– We went down like a fuckin’ knackered lift!
+ 
+
+CECIL
+Brian, I tell 
+you, I think it’s simply a matter of presentation, and with the proper back up-
+
+ 
+
+BRIAN
+Back-up! What 
+happened to Judy Garland!? What happened to all your bloody torch song rubbish!?
+ 
+
+CECIL
+I know, I 
+know, in a cabaret, but in the context of a rock show, I can see now it’s a bit 
+more dodgy. But the act is there. The act was there, wasn’t it? 
+All it needs – 
+ 
+Blaring from the stage, the 
+Announcer’s voice on the PA:
+ 
+
+ANNOUNCER
+
+(off-screen)
+Next up, all 
+the way from New York City-
+
+ 
+
+CECIL
+
+(as Brian storms from the backstage tent with his things)
+Brian!?
+ 
+
+ANNOUNCER
+
+(off-screen)
+    
+- lead singer and founder of the greatest  garage band know to mankind...– CURT 
+WILD!
+ 
+CUT TO:
+ 
+EXT. OUTDOOR CONCERT –  NIGHT – 1971
+ 
+Brian, Mandy and Cecil are walking 
+out as a deep, brooding guitar begins and a man's singing scream from on stage is heard.
+ 
+Brian can’t help but look.
+ 
+On-stage, a dark figure appears. 
+Track in music rising
+ 
+Briefly:
+ 
+INT. HOSPITAL – NEW YORK – DAY – 1984
+ 
+Arthur looks up at Cecil, 
+CLOSE.
+ 
+
+CECIL
+
+(to camera)
+Curt Wild.
+ 
+            FAST RETURN:
+ 
+EXT. OUTDOOR CONCERT – STAGE – NIGHT – 
+1971
+ 
+Lights and a bold of guitars ignite 
+the stage (‘TV Eye’/The Stooges.) Curt Wild, aged twenty-five, clad in no more 
+than black leather pants, lifts a can of oil into the air and starts covering 
+himself with it’s contents.
+ 
+Brian has stopped, stricken by what 
+he sees. Slow TRACK IN.
+ 
+Curt throws the oil away and begins 
+rubbing his glistening body and groin along to the words.
+ 
+
+CECIL
+
+(voice-over)
+Curt Wild, 
+Founder of the influential garage band, The Rats – 
+ 
+            DISSOLVE TO:
+ 
+EXT. WOODS – MICHIGAN – NIGHT – 1946
+ 
+Dark hand-held glimpses of wolves 
+moving in a pack, close to camera.
+ 
+
+CECIL
+
+(voice-over)
+- came from 
+the aluminium trailer parks of Michigan -  though rock folklore claims far more 
+primitive origins.
+ 
+EXT. OUTDOOR CONCERT – STAGE – NIGHT – 
+1971
+ 
+CLOSE ON Curt as he lifts a huge jar 
+of gold glitter into the air and begins to slowly shower himself, top to bottom, 
+with the sparkling substance.
+ 
+Intercut between Curt’s glitter 
+raining and the following shots.
+ 
+Brian, his attention rapt. Rack to 
+Cecil, behind him, noticing.
+ 
+TRACKING over the audience, 
+tightening in waves. They runt restless and noisy, fighting amongst themselves, 
+throwing things.
+ 
+Curt responds by giving them the 
+finger.
+ 
+
+CECIL
+
+(voice-over)
+According to 
+legend, when Curt was thirteen – 
+ 
+Briefly:
+ 
+EXT. TRAILER HOME – MICHIGAN – DAY – 
+1960
+ 
+Curt’s half naked Brother and Sister 
+play in the backyard, spraying each other with water, causing their clothes to 
+cling tightly – and all for the benefit of thirteen -year-old Curt, who sits 
+watching.
+ 
+
+CECIL
+
+(voice-over)
+- he was 
+discovered by his mother in the family loo, at the ‘service’ of his older 
+brother - 
+ 
+            FAST RETURN TO:
+ 
+EXT. OUTDOOR CONCERT – STAGE – NIGHT – 
+1971
+ 
+- and 
+promptly shipped off for eighteen months of electric shock treatment.
+ 
+The audience roars through.
+ 
+Curt unzips his tight leather pants 
+thrusting his pelvis to the crowd, he jumps around to face the band, letting the 
+pants fall to his ankles, revealing everything.
+He bends over and moons the crowd, 
+then looks through the gap between his legs.
+Standing back up, he faces the crowd 
+giving them a front on view of his glistening and glitter covered naked body. 
+Grinning and laughing at their varied shouts, he gives them the finger with 
+both hands, while proudly thrusting forward his pelvis, then beckons them with a 
+‘bring it on’ gesture of his hands.
+Finally he jumps to the ground, and 
+then stands, deliciously sliding his leather pants over his rear, back to rest 
+on his hips.
+ 
+            CUT TO:
+ 
+INT. WAYNE COUNTRY SANITARIUM – MICHIGAN 
+– DAY – 1960
+ 
+Doors swing open to the psych ward 
+and we whisk through.
+ 
+Curt, strapped down to the travelling 
+gurney, hooked up with electrodes, comes to a sudden halt. He looks up at:
+ 
+His family (Ma, Pa, Brother and 
+Sister), all looking down at him.
+ 
+
+CECIL
+
+(voice-over)
+The doctors 
+guaranteed the treatment would fry the fairy clean out of him.
+ 
+Curt’s brother gives him a wink.
+ 
+But all it 
+did was make him bonkers –
+ 
+EXT. OUTDOOR CONCERT – STAGE – NIGHT – 
+1971
+ 
+
+CECIL
+
+(voice-over)
+- every time 
+he heard electric guitar.
+ 
+A guitar amp is turned up full 
+volume, making a sound mimicking that of a doctor turning on a electro shock 
+device.
+The audience roars in delirium. 
+Someone throws a paper torch on to the stage and all the oil goes up.
+ 
+Surrounded in flames, Curt shrieks 
+victoriously, glaring at the audience. 
+Brian stands in complete awe of the 
+spectacle before him.
+All at once he goes running off the 
+edge of the stage, leaping into the swarm of spectators (and crowd surfs).
+ 
+            SUDDEN CUT TO:
+ 
+EXT. PARK HILLSIDE – SUNRISE – 1971
+ 
+Quiet. Brian looks out at the dawn.
+ 
+He sits with Mandy on a grassy hill, 
+near the concert grounds.
+ 
+
+BRIAN
+
+(quietly)
+They despised 
+him.
+ 
+Cecil’s eyes open from half-sleep, 
+leaning against a nearby tree.
+ 
+
+MANDY
+
+(also quietly)
+Yeah. But 
+when you’re abused like that...you know you’ve touched the stars.
+ 
+CLOSE ON Brian against early morning 
+skies.
+ 
+
+BRIAN
+I know. I 
+just –
+ 
+Mandy looks at him.
+
+(softly, as if to himself)
+- just wish 
+it’d been me. Wish I’d thought of it.
+ 
+Quiet waves of music: Mandy is 
+touched by his confession.
+ 
+
+MANDY
+
+(tenderly)
+            You will, luv. You will.
+ 
+ZOOM IN as Brian turns. He looks at 
+her as an upbeat glam song begins (‘The Ballad of Maxwell Demon’/Shudder to 
+Think), the first to tell the story of a tragic space hero named Maxwell Demon.
+ 
+           
+CUT TO:
+  
+LONDON ROOFTOPS – DUSK - PAINTING
+ 
+In a Disney 
+CLOSE-UP Curt Wild winks to camera, and turns. ZOOM 
+OUT as he leaps into a chimney-stack against a painted backdrop.
+ 
+The 
+ZOOM continues, revealing the rooftop vista in a gilded frame and hanging in 
+an empty white space.
+ 
+INT. WHITE SET
+ 
+The 
+ZOOM OUT is joined by a TRACK which reveals Brian, dressed as a pink 
+and blue nineteenth-century dandy, viewing the painting behind a red velvet 
+rope. When revealed, he turns to camera and starts to sing.
+ 
+In 
+CLOSE UP he plucks the pink rosebud from off screen and sings a verse of the 
+song to it. It blooms in his hands.
+ 
+He steps back from the painting and 
+begins to ‘mime-walk’ on, staying in place while the view in the painting 
+passes.
+ 
+Swish to:
+ 
+EXTREME CLOSE-UP a tiny Victorian 
+dollhouse on a white pedestal. Fast ZOOM OUT reveals Brian standing 
+beside the pedestal, now full-size.
+ 
+INT. DOLL HOUSE DRAWING ROOM
+ 
+Through a veil of sequined gauze, a 
+shimmering creature looks up. It’s Brian, dressed as the green alien. We follow 
+as he creeps past the mist of gauze into the light of the room. Suddenly he 
+jolts.
+ 
+One enormous Brian glares through the 
+window.
+ 
+Brian the alien slithers across the 
+black and white check floors of the elegant drawing room and disappears behind a 
+door.
+ 
+INT. DOLLHOUSE BEDROOM
+ 
+Brian the alien surprises and 
+inflatable doll husband and wife in bed whose arms fly up when they see him.
+ 
+EXTREME CLOSE-UP: he gives a look to 
+camera.
+ 
+In a hi-speed master (á la Clockwork 
+Orange) Brian rapes the wife doll and then the husband.
+ 
+CLOSE ON: Brian’s eyes, blinking 
+through the bedroom, window.
+ 
+As the song describes Maxwell Demon’s 
+rise to stardom we intercut Brian’s eye blinking through the window with the 
+following vignettes in COLLAGE ANIMATION:
+ 
+INT. WHITE SET
+ 
+EXTREME CLOSE-UP of a long match 
+being struck and lighting a cigarette. Fast ZOOM OUT reveals life-size 
+Brian inhaling from an enormous cigarette holder as he tosses the matchstick on 
+to the dollhouse. It goes up in smoke.
+ 
+INT. DOLLHOUSE
+ 
+Through the flames, Brian the alien 
+is grinning, jamming on his guitar.
+ 
+            FAST CUT TO:
+ 
+INT. RECORD STUDIO – CONFERENCE ARENA – 
+DAY – 1972
+ 
+Music holds on a row of faceless 
+Execs (seen previously in the ‘Imaginary Theatre’) facing camera in smoky 
+darkness. (One of them we now recognize as Arthur’s boss, Lou.) We hear the 
+sound of one person clapping. Everyone looks over. Swish pan to:
+ 
+Jerry Divine (mid-thirties), seated 
+alone with a cigar. He wears an Italian ‘fro’ with fat mutton chops.
+ 
+
+DEVINE
+
+(extending his hand)
+            Nice stuff.
+ 
+Brian’s gloved hand shakes it. 
+Zoom-out reveals him in a three-piece business suit.
+ 
+
+BRIAN
+            Thanks
+ 
+
+DEVINE
+            Devine. Jerry Devine. 
+Personal management. I’m interested.
+ 
+
+BRIAN
+            Oh, well – thank you – but 
+I’m afraid I already have management. He’s – 
+ 
+
+DEVINE
+            Not in my opinion.
+ 
+Cecil smiles and waves from his seat.
+ 
+The truth is 
+you have talent. That’s plain. But it doesn’t really matter what a man does in 
+his life. All that really matters in the end is the legend that grows up around 
+him. Now today you’re a talented singer. That’s alright. But I could make you a 
+star.
+ 
+Cecil’s eyes bulge.  A quiet swell of 
+music begins beneath (the intro to ‘The Whole Shebang’/Grant Lee Philips).
+
+ 
+
+CECIL
+
+(standing, angrily)
+            And just how do you propose 
+to do that?
+ 
+
+DEVINE
+            I will tell you, sir...
+ 
+Devine pushes up a shirt sleeve and 
+places his elbow on the railing before him, his other hand joustingly on his 
+hips.
+ 
+            When you pin me.
+ 
+Murmurs from the crowd as Cecil bolts 
+up from his chair.
+ 
+
+CECIL
+            Well I have never in all my 
+life – 
+ 
+Cecil looks around helplessly for 
+defence.
+ 
+Everyone just stares at him, music 
+rising softly. Zoom in to Brian, furthest away, who looks down.
+ 
+CLOSE ON Cecil, his heart broken. 
+Fast track to Devin, poised in the spotlight behind him.
+ 
+
+DEVINE
+            May the best man win?
+ 
+We punch into the chorus of ‘The 
+Whole Shebang’.
+ 
+            CUT TO:
+ 
+INT. TV STUDIO – NIGHT – 1972
+ 
+Brian performs the song on Top of the 
+Pops, his entire band dressed in sparkling outfits.
+ 
+
+BBC VOICE
+
+(off-screen)
+Earlier 
+tonight on the popular chart show Top of the Pops, newcomer Brian Slade 
+performed his hit single ‘The Whole Shebang’ – 
+ 
+            PULL OUT TO REVEAL:
+ 
+INT. LONDON PUB – EVENING – 1972
+ 
+TRACK along the line of blokes at the 
+bar, staring up at the telly.
+ 
+
+BBC VOICE
+-dressed in 
+platform boots and wearing glitter eye make-up. A spokesman for the show, known 
+for showcasing pop’s brightest stars, says they’ve been deluged with calls all 
+evening.
+ 
+TRACK ends on Cecil, sitting over a 
+cocktail in the corner. He watches the broadcast solemnly.
+ 
+
+CECIL
+
+(*pre-lap  *dialogue from the ensuing scene heard before 
+the cut)
+The next day 
+every schoolgirl in London was wearing glitter eye make-up. And I was out of a 
+bleeding job.
+ 
+            CUT TO:
+ 
+INT. CITY HOSPITAL – NEW YORK – DAY – 
+1984
+ 
+Cecil shakes his head with a distant 
+smile.
+ 
+
+CECIL
+And that, as 
+they say, was that. I would not hear another word from Brian – or any of them 
+for that matter – ever again.
+ 
+
+ARTHUR
+Have you got 
+any idea what ultimately happened to him? Where is he today?
+ 
+Cecil just shrugs.
+ 
+
+CECIL
+Last I heard 
+he’d returned to Birmingham, but this was – three years ago? Four? No, I’m 
+afraid I can’t help you there. Looks as if it may be unavoidable.
+ 
+
+ARTHUR
+            What’s that?
+ 
+
+CECIL
+The ex. I’m 
+afraid. But then ever story needs a contrary opinion, and with Mandy you’re 
+guaranteed excess of both.
+ 
+            FAST CUT TO:
+ 
+INT. DIVE CLUB – NEW YORK – LATE DAY – 
+1984
+ 
+A bolt of music strikes a dirty  
+marquee: ‘APPEARING NITELY – THE DIVINE MISS MANDY SLADE’
+Arthur walks past the bartender, 
+approaching a lone figure bent over a table, the only person in sight.
+
+
+ARTHUR
+            Miss Slade?
+ 
+Mandy slowly lifts her head and 
+squints at him.
+
+ 
+
+MANDY
+Yeah?
+ 
+
+ARTHUR
+I’m Arthur 
+Stuart – from the Herald? We spoke on the phone?
+ 
+She looks at him blankly.
+ 
+I really just 
+have a few questions I wanted to ask. It shouldn’t take long.
+ 
+Nothing.
+ 
+Do you mind 
+if I – sit down?
+ 
+
+MANDY
+            It’s a free country. Sort 
+of.
+ 
+Arthur sits.
+ 
+The Bartender stands staring at 
+Arthur as Mandy sits staring into her drink.
+ 
+
+ARTHUR
+What’re you 
+having?
+ 
+She looks up at him.
+ 
+
+MANDY
+Scotch. 
+Rocks.
+ 
+
+ARTHUR
+
+(to Bartender)
+Make that 
+two.
+ 
+The bartender drags off, mumbling.
+ 
+
+MANDY
+Gee. You must 
+be after some damn exclusive copy.
+ 
+
+ARTHUR
+It’s a piece 
+on Brian Slade?
+ 
+
+MANDY
+
+(dryly-sarcastic)
+No kidding. 
+What- sort of a memory jog kind of thing?
+ 
+
+ARTHUR
+Yeah...Well 
+it’s been, um,  ten years since the whole false shooting incident.
+ 
+
+MANDY
+Oh And what a 
+fake it was! Tricking us all in the end with such an authentic demise.
+ 
+
+ARTHUR
+His career, 
+you mean? I mean, do you have any idea what happened to him, where he is today?
+ 
+
+MANDY
+Can’t you 
+just, you know, run him through the files? Punch in the name?
+ 
+
+ARTHUR
+Not exactly.
+ 
+Mandy starts opening up a fresh pack 
+of cigarettes.
+ 
+
+MANDY
+Because, 
+honestly darling, I haven’t spoken with Mr Slade in – seven years, at least.
+ 
+
+ARTHUR
+            Seven years. Wow.
+ 
+
+MANDY
+Wow, yeah. At 
+least – Smoke?
+ 
+
+ARTHUR
+No. Thanks.
+ 
+
+MANDY
+No, right 
+after everything crashed we- we split...And Brian, he just – 
+ 
+Se lights a cigarette and takes a 
+drag.
+ 
+            -became someone else.
+ 
+She turns to Arthur and exhales.
+ 
+
+(a distant smile)
+            But then he always was.
+ 
+The opulent strains of Mahler’s Sixth 
+Symphony begin over
+ 
+            DISSOLVE TO:
+ 
+EXT. SOMBRERO CLUB – NEW YEAR’S EVE – 
+NIGHT – 1969
+ 
+We follow an elegantly dressed couple 
+through a boisterous wind as they approach the doors of the club. Leaves swirl 
+through the air and the man’s cape billows as the doors of the club swing open. 
+The teenage doorman, Cooper, greets the couple and they enter.
+ 
+Then Cooper, the doorman, turns to 
+camera:
+ 
+
+COOPER
+That’ll be 
+ten bob to you, mate.
+ 
+REVERSE ANGLE reveals Brian, aged 
+twenty-one, looking every inch the London hippie with a mass of blond curls and 
+jewellery. He gives Cooper the money and a quick once-over before stepping into 
+the club. We follow as ‘Get in the Groove’ by the Mighty Hannibal rises.
+ 
+INT. SOMBRERO CLUB – NEW YEAR’S EVE – 
+NIGHT – 1969
+ 
+Brian descends through pink and 
+purple light, taking it all in. A swirl of colour as we pan across the room to 
+Mandy, close, laughing and smoking with friends.
+ 
+In the corner, glowing in coloured 
+lights, a light-up dance floor is pumping with dance.
+ 
+Mandy glows in a sparkling silver 
+dress. Then all at once she spots him.
+ 
+Brian, scanning the club catches 
+sight of her.
+ 
+Mandy quickly returns to her friends, 
+laughing, smoking,.
+ 
+Brian watches.
+ 
+
+MANDY
+
+(voice over)
+It was New 
+Year’s Eve 1969: the start of a new decade, - 
+ 
+Brian watches Mandy amid a flood of 
+hugs and kisses.
+ 
+-and 
+everywhere you went there was this sense of the future, the feeling in the air 
+that anything was possible.
+ 
+A sudden crash of symbols and dimming 
+of lights directs everyone’s attention to the club’s entrance upstairs.
+ 
+A spotlight is spun around, followed 
+by a luxurious swish pan to:
+ 
+The top of the curving staircase. 
+There, aglow in shimmering silver, Jack Fairy, the Sombrero’s reigning star, is 
+making his entrance. He nods regally and begins to descend, flanked by and 
+equally studded entourage: Micki, a pretty boy with afro and fur trimmed jacket, 
+Angel, playful dyed red head with silver angel wings, and Cooper previously seen 
+at the door. A quiet swirl of music accompanies.
+ 
+            See, Jack Fairy had also 
+come to London in the swinging sixties.
+ 
+            DISSOLVE TO:
+ 
+INT. POSH HOTEL LOBBY – EVENING – 1967
+ 
+A black silk scarf falling to the 
+floor (music continuing)
+ 
+A delicate hand with nails of black 
+enamel and a menagerie of rings reaches for the scarf. We follow it up past the 
+lithe, velvety figure of Jack Fairy, who wraps the scarf elegantly around his 
+neck and fastens it with the emerald pin.
+ 
+
+MANDY
+
+(voice-over)
+And on 
+winding roads, in crowded clubs or hotel bars -  this shipwreck of the streets, 
+rehearsed his future glory. A cigarette tracing a ladder to the stars.
+ 
+EXTREME CLOSE-UP of Jack opening a 
+small compact. 
+Zoom out from mirror, Jack looks up, 
+closing his compact and standing.
+ 
+Everyone in the lavishly decorated 
+nineteenth-century hotel lobby stares as Jack walks proudly across the room.
+Three Waiters appear watching him 
+from the distance.
+ 
+
+WAITERS
+Maricon, 
+épicčne, sexe douteux...
+ 
+Suddenly Jack glances up.
+ 
+A Gentleman in the foreground turns 
+to camera and confides:
+
+ 
+
+GENTLEMAN
+Le Vice 
+Anglais...
+ 
+            FAST CUT TO:
+ 
+INT. SOMBRERO CLUB – NEW YEAR’S EVE – 
+NIGHT – 1969
+ 
+CLOSE ON someone kissing Jack’s hand. 
+Fast ZOOM OUT to:
+ 
+Jack, soft and slightly 
+SLOW MOTION, engulfed at the foot of the stairs. A sexy hustler, dressed as a 
+1930s sailor, finishes kissing his hand and Cooper presents him with a 
+long-stemmed rose. But there is an undertow: the eerie intro to ‘Ladytron’/Roxy 
+Music begins to rise.
+ 
+
+MANDY
+
+(voice-over)
+I needn’t 
+mention how essential dreaming is to the character of the rock star.
+ 
+Brian, very 
+CLOSE. Suddenly someone shrieks, breaking the spell. Mandy bursts through 
+bodies with open arms.
+ 
+Jack, 
+darling!
+ 
+            FAST CUT TO:
+ 
+INT. DIVE CLUB – NEW YORK – DAY – 1984
+ 
+Mandy, 
+CLOSE.
+ 
+
+MANDY
+Jack was 
+truly the first of his kind. A true original, everyone stole from Jack.
+ 
+            FAST RETURN.
+ 
+INT. SOMBRERO CLUB – NEW YEAR’S EVE – 
+NIGHT – 1969
+ 
+Mandy has her arms around Jack and 
+her tongue down his throat. He pulls away and she laughs, pulling him into the 
+club. As she turns, she spots:
+ 
+Brian – 
+FAST ZOOM IN – still staring through the crowds. Closer on Mandy, as Jack 
+looks over as well, also seeing him.
+ 
+Brian, 
+CLOSE, music building. He spots the emerald pin, dangling from Jack’s ear. We 
+hear
+ 
+
+MANDY
+
+(voice-over)
+But from the 
+moment Brian Slade stepped into our lives, nothing would ever be the same.
+ 
+            DISSOLVE TO:
+ 
+INT. SOMBRERO CLUB – NEW YEAR’S EVE – 
+NIGHT – 1969
+ 
+Brian’s face slowly approaching, 
+through the crowds.
+ 
+
+MANDY
+
+(voice-over)
+It was his 
+nature.
+ 
+Brian’s voice is heard singing with 
+the music:
+ 
+
+BRIAN
+
+(singing; off screen)
+You’ve got me 
+girl on the runaround,
+runaround/Got 
+me all around town
+You’ve got me 
+girl on the runaround
+And it’s 
+getting me down, getting me down
+ 
+We 
+TRACK (slight SLOW MOTION) through bodies to where Mandy stands 
+dancing/chatting with Jack and company. Suddenly she turns and sees:
+ 
+Brian approaching. The lights and set 
+begin to change: the dancing slows and everything but Mandy and Brian dim and 
+recede.
+ 
+Brian takes Mandy’s hand and 
+instantly they are surrounded by a cool midnight snowfall. The club has vanished 
+into the surrounding darkness, and as he begins to sing to her, we begin a slow 
+TRACK around them.
+ 
+
+BRIAN
+
+(singing)
+Lady/If you 
+want to find a lover
+Then you look 
+no further
+For I’m gonna 
+be your only
+Searching/At 
+the start of the season
+And my only 
+reason/Is that I’ll get you
+ 
+The song breaks into a driving bridge 
+as we:
+ 
+            CUT TO:
+ 
+INT. SOMBRERO CLUB – NEW YEAR’S EVER – 
+LATER – 1969
+ 
+Mandy, in the midst of the teaming 
+dance floor, turns to Brian, standing opposite (lights and action having 
+returned to normal).
+ 
+
+BRIAN
+
+(shouting over the music)
+            Do you jive?
+ 
+Mandy nods, smiling, and they start 
+to dance.
+ 
+            FAST DISSOLVE TO:
+ 
+EXT. FOREST – NIGHT – 1970
+ 
+CLOSE ON a raven, blinking in the 
+cool moonlight. We descend through a snarl of black branches to a moonlight 
+forest where Brian resumes his tender serenade.
+ 
+
+BRIAN
+
+(singing)
+I’ll find 
+some way of connection
+Hiding my 
+intention
+Then I’ll 
+move up close to you
+ 
+TRACK continues into Brian’s face.
+ 
+I’ll use you 
+and I’ll confuse you
+And then I’ll 
+lose you
+But still you 
+won’t suspect me
+ 
+He kisses her.
+Mandy closes her eyes.
+ 
+ 
+
+MANDY
+
+(voice-over)
+So I married 
+him.
+ 
+FADE TO:
+ 
+INT. MANDY’S BEDROOM – NIGHT – 1970
+ 
+Music continues through a brief 
+sixties style montage (much double exposure, focus racking, etc). Mandy and 
+Brian make love like two androgynous creatures in Mandy’s candle-lit room.
+ 
+            FAST CUT TO:
+ 
+INT. SOMBRERO CLUB – MEN’S LAVATORY – 
+NEW YEAR’S EVE – 1969
+ 
+The flutter of an eyelash (Jack’s) 
+thick with mascara.
+ 
+We hear a door open, sounds pouring 
+in. Jack’s eyes flash over.
+ 
+Fast rack to Brian, standing near the 
+door, reflected in the mirror. Quiet music begins.
+ 
+A series of 
+CLOSE, DISSOLVING SHOTS:
+ 
+Jack resumes touching up his face in 
+the mirror as Brian slowly approaches.
+ 
+Jack’s eyes meet Brian’s in the 
+mirror.
+ 
+Brian stops as the mirror, turning 
+from Jack’s reflection to Jack. He kisses him hotly on the mouth and withdraws.
+ 
+Jack stares into Brian’s eyes. He 
+returns the kiss. Brian presses into him.
+ 
+Suddenly -  the door opens.
+ 
+Jack turns.
+ 
+Brian is gone.
+ 
+FADE TO BLACK
+ 
+T-Rex’s ‘Cosmic Dancer’ begins in 
+darkness
+ 
+INT. MANDY’S BEDROOM – NIGHT – 1972
+ 
+Slow circle around Mandy and Brian as 
+she finishes painting his face: the lids of his eyes are blue, his cheeks pink 
+with blush, his lips a frosty magenta, hair neatly cropped.
+ 
+
+MANDY
+Times, 
+places, people. They’re all speeding up. So to cope with this evolutionary 
+paranoia strange people are chosen who through their art can move progress more 
+quickly.
+ 
+Brian looks up.
+ 
+Mandy holds his glance.
+ 
+
+(voice-over)
+It was the 
+most stimulating and reflective period of our marriage.
+ 
+WIDE SHOT of Brian and Mandy kissing 
+on the bed.
+ 
+RACK/DISSOLVE TO:
+ 
+INT. SOMBRERO CLUB – MEN’S ROOM – NEW 
+YEAR’S EVE – 1969
+ 
+Jack in the mirror feels for his 
+earring and realizes the emerald pin is gone. 
+ 
+Through rising music (‘We Are the 
+Boys’/Pulp) we hear:
+ 
+
+BBC
+
+(pre-lap)
+Thank you and 
+welcome, pop pickers, to Pick of the Pops. I’m Davy Rocket and we have a 
+very special show for you today, dedicated to one of pop’s blazing new talents, 
+and one who’s been holding a virtual reign over the British charts for a 
+startling record breaking, eighteen-month-span. Ladies and gentlemen, I give you 
+the incomparable Brian Slade – or should I say, Maxwell Demon?
+ 
+Cheers spill over.
+ 
+            FAST CUT TO:
+INT. GALA RECEPTION HALL – LONDON – 
+NIGHT – 1972
+ 
+And explosion of flash bulbs over a 
+sweep of music.
+ 
+Brian Appears through the shimmer, 
+ablaze in white light. He wears the emerald pin on a black velvet choker/scarf. 
+Below, a small ocean of press (Reporters, Photographers) are shouting ‘Brian! 
+Brian!’
+
+JERRY
+Yeah, the, 
+uh, bloke at the front.
+ 
+
+REPORTER 1
+Brian! Why 
+the make-up?
+ 
+
+BRIAN
+Why? Because 
+rock and roll’s a prostitute! It should be tarted up! Performed! The music is 
+the mask, while I, in my chiffon and taff – well – 
+
+(quite camp)
+- varda the 
+message!
+ 
+INT. STUART LIVING ROOM – SUBURBAN 
+MANCHESTER – EVENING – 1972
+ 
+Teenage Arthur sits on the floor 
+glued to the telly.
+ 
+His Mother and Father sit behind him 
+(exactly as we last saw them), watching without expression.
+ 
+
+REPORTER 2
+
+(on TV)
+What about 
+your fans? Aren’t they likely to – get the wrong impression?
+ 
+
+BRIAN
+
+(on TV)
+And which 
+wrong impression is that?
+ 
+
+REPORTER 2
+
+(on TV)
+Well, that 
+you’re a blinking fruit!
+ 
+On-screen there is uneasy laughter 
+and a SHAKY PAN to the press gallery.
+ 
+VERY CLOSE ON Arthur, breathing in 
+the electronic waves.
+ 
+
+BRIAN
+
+(on TV)
+Well thank 
+you, sir, and no, it doesn’t concern me in the least.
+ 
+Arthur tries to peek at his parents 
+without moving his head. Their faces are stony.
+ 
+I should 
+think that if people were to get that impression of me, the one to which you so 
+eloquently refer...
+ 
+SLOW TRACK into Brian on monitor.
+ 
+...it would 
+not be a wrong impression in the slightest.
+ 
+Suddenly Arthur leaps in front of the 
+set, shrieking at the top of his lungs like a lunatic.
+ 
+
+ARTHUR
+That is me! 
+That is me! That that that is me!
+ 
+CLOSE ON TV.
+ 
+
+BRIAN
+
+(on TV)
+I mean, 
+everyone knows most people are bisexual.
+ 
+Arthur’s Mother and Father are 
+blank-faced, frozen solid.
+ 
+Arthur looks back at them, back in 
+front of the TV set (where he has actually remained the whole time).
+ 
+
+REPORTER
+
+(off-screen)
+I was –
+ 
+            BACK TO:
+ 
+INT. GALA RECEPTION HALL – LONDON – 
+EVENING – 1972
+ 
+Shaky 
+PAN to another Reporter
+ 
+
+REPORTER
+
+(off-screen)
+- I was under 
+the impression that you were married and living with your wife in North London –
+ 
+Mandy looks around, anxiously.
+ 
+Brian continues in the glare of the 
+lights.
+ 
+
+BRIAN
+I am married, 
+quite happily, in fact. I just happen to like boys as much as I like girls. And 
+since my wife feels pretty much the same about such things...
+ 
+Lights and TV cameras flash to Mandy, 
+who wiggles her tongue at Brian.
+ 
+...I should 
+think we’ve been able to make a fairly decent go of it so far.
+ 
+Brian winks at Mandy before – 
+complete pandemonium.
+The audience, frozen in utter 
+perplexity. One reporter gets up and  leaves.
+ 
+
+JERRY
+Alright, any 
+more questions? Okay, thank you very much.
+ 
+Mandy looks up at Brian, as the 
+distant piano opening to ‘Virginia Plain’/Roxy Music is heard.
+ 
+[NOTE: the several scenes 
+following which accompany ‘Virginia Plain’ should be played with tremendous 
+speed and energy.]
+
+ 
+
+MANDY
+
+(voice-over)
+For the first 
+time in Brian’s life, he was simply telling it like it was. Did he realize what 
+he’d actually done? How could he have? I mean today, there’d be fighting in the 
+streets. But in 1972...it was more like dancing.
+ 
+VERY CLOSE ON Brian as we:
+ 
+            DISSOLVE TO:
+ 
+Fame montage:
+ 
+INT. NEWSPAPERS (IN BLACK AND WHITE) – 
+SET – 1972
+ 
+Dropped into frame, their headlines 
+read:
+ 
+
+A STAR IS BORN – AND HE TWINKLES!
+
+GAY STUNT AT SLADE SHOW
+
+ALL THAT GLITTERS – IS GAY!
+ 
+INT. RECORD STUDIO – CONFERENCE ARENA – 
+DAY – 1972
+ 
+Camera speeds past a Busby 
+Berkley-style row of proffered contracts and lands on the final one – the most 
+elegantly drawn.
+ 
+Swoop out from Jerry Divine and Cecil 
+Drake arm-wrestling it ends as Devine wins and stands, the champion. His free 
+arm in a fist, held in the air. 
+ 
+EXT. HIGHWAY – ENGLAND – DAY – 1972
+ 
+Brian and his flashy entourage soar 
+along the countryside in tow convertible limousines, scarves sailing in the 
+wind.
+ 
+EXT. AIRPORT RUNWAY – DAY – 1972
+ 
+Brian and company scramble on to the 
+stairway of a charted plane.
+ 
+EXT. ENGLISH GARDEN – DAY – 1972
+ 
+Brian and Mandy lounge in sunglasses.
+ 
+We hear:
+ 
+
+DEVINE
+
+(off-screen)
+That man out 
+there in the white suit is the biggest thing to come out of England since sliced 
+Beatles. Outside this country – no one knows who the hell he is. You people, 
+you’re going to change all that.
+ 
+FAST ZOOM OUT reveals Devine in the 
+foreground. He faces camera, addressing his newly formed staff.
+ 
+TRACE past faces we’ve seen before – 
+Jack Fairy’s old entourage: Angel, Micki, Freddi, and Sombrero doorboy Cooper.
+ 
+You guys, 
+you’re actors. It’s up to you to change Brian Slade pop singer, into Maxwell 
+Demon, space-age fuckin’ superstar! Nothing fantastic about it. Why? Because the 
+secret of becoming a star is knowing how to behave like one.
+ 
+
+COOPER
+
+(a distorted Mickey Rooney voice)
+Hey kids, 
+let’s put on a show!
+ 
+Disturbingly 
+CLOSE ON Devine:
+ 
+
+DEVINE
+Precisely.
+ 
+EXT. ENGLISH GARDEN – DAY – 1972
+ 
+TRACK OUT from CLOSE-UP of 
+Brian aggressively made up, sprayed and varnished by Freddi and company. Brian 
+is dressed in a white satin three-piece, posing for photos with his band in the 
+eighteenth-century statue garden. The sequence has the feel of a silent screen 
+comedy, with Devine as directors in jodhpurs and boots, commanding the company 
+of Photographers and crew. Equipment and dress is strictly twenties.
+ 
+When Devine shouts ‘action’, the 
+klatch of Photographers explode into shots, their cameras flashing like machine 
+guns.
+ 
+Brian is riddled with tiny wounds.
+
+ 
+
+DEVINE
+
+( yells)
+ ‘Cut! 
+Cut! Cut! Sort him out’.
+ 
+His crew inch closer now trying to 
+conceal the pain and blood stains, with make up. Brian looks pained and scared 
+as they approach.
+ 
+Fast 
+ZOOM OUT reveals the photo hanging on a wall in the brand-new Bijou Music 
+offices. End on a final, classic shot.
+ 
+INT. BIJOU OFFICES – DAY – 1972
+ 
+Camera continues through the Bijou 
+offices as the newly assembled staff perform their respective roles with musical 
+comedy flair (song continuing throughout).
+ 
+We sail past Micki, the glamorous 
+receptionist, rehearsing various company greetings.
+ 
+
+MICKI
+Bijou Music 
+and Associates, good afternoon...Bijou, may I help you?...Bijou, hello?...
+ 
+We pass Angel, press attaché , 
+dressed in red. Her walls 
+are covered with glamour magazines from the thirties and forties, and everything 
+on her desk is cherry red: phone, typewriter, telexes, etc.
+ 
+
+ANGEL
+Slade...Brian 
+Slade...Well, darling only the biggest thing to hit rock since the pilgrims!
+ 
+Next, they pass Devine in his 
+elevated office.
+ 
+Manager Jerry Devine is perched 
+behind his desk in wide lapels and clashing patterns, operatic on the phone.
+ 
+
+DEVINE
+I know 
+it’s unprecedented, I know it’s unorthodox, but, sir, if you want Brian Slade, 
+those are the terms, you may take them or leave them – 
+ 
+Freddi suddenly pops out, addressing 
+the camera.
+ 
+
+FREDDI
+Yes?
+ 
+SWISH 360-degrees to Shannon 
+Hazelbourne, a dowdy teenager, who responds automatically.
+ 
+
+SHANNON
+I’m Shannon 
+Hazelbourne.
+ 
+
+FREDDI
+Who?
+ 
+
+SHANNON
+I rang up 
+about the position?
+ 
+
+FREDDI
+The what?
+ 
+
+SHANNON
+The 
+position.
+
+(holding up a clipping)
+Assistant 
+Clerical Aid?
+ 
+
+FREDDI
+Oh right! 
+The position! Brilliant! Follow me.
+ 
+Shannon tries to keep up with Freddi 
+who whizzes into the wardrobe room.
+ 
+INT. WARDROBE – DAY – 1972
+ 
+Brian’s (all-hetero) band – Trevor, 
+Reg and Harley – stand frozen in the mirror.
+ 
+
+MANDY
+Crash! 
+Zounds.
+ 
+FAST ZOOM OUT reveals them in their 
+new, wildly effeminate stage costumes. Mandy beams as Freddi whizzes by.
+ 
+We hear:
+ 
+
+FREDDI
+
+(off-screen)
+Now, Shannon 
+– I realize, of course, your expertise is in the clerical arts, but I was 
+wondering if by any chance you’ve ever worked in wardrobe?
+ 
+SWISH to Shannon, standing 
+dumbstruck.
+ 
+...either 
+professionally or –
+ 
+
+SHANNON
+Umm, no, 
+never.
+ 
+
+FREDDI
+Fantastic. I 
+think that’s everything.
+
+(extends his hand)
+ 
+
+SHANNON
+
+(shaking it, absently)
+But, no I – I 
+said I didn’t –
+ 
+Freddi walks into the main office.
+ 
+INT. BIJOU OFFICES – DAY – 1972
+ 
+
+FREDDI
+
+(announcing to the room)
+Everybody?
+ 
+Everyone looks over.
+ 
+I’d like to 
+introduce you to our lovely new Wardrobe Mistress – umm...
+ 
+Song finishes with ‘What’s her name? 
+Virginia Plain.’
+ 
+
+SHANNON
+Shannon.
+ 
+
+FREDDI
+Shannon.
+ 
+Everyone smiles, claps or says: 
+‘Hello Shannon’. Mandy suddenly looks toward Devine’s office.
+ 
+We hear:
+
+
+DEVINE
+
+(off-screen)
+Excellent! 
+Yes, Mr Weinberg! Thank you very much indeed. Cheers!
+ 
+Mighty 
+SWISH to:
+ 
+Devine slams down phone. Fast pan up 
+to his face, standing victoriously.
+ 
+
+Extraordinary!
+ 
+Everyone turns.
+ 
+
+MANDY
+What, Jerry –
+what?
+ 
+
+DEVINE
+So! Tell me, 
+Master Demon...
+ 
+Brian walks in from another section 
+of the office.
+ 
+Who is it you 
+most fancy meeting – in America?
+ 
+Everyone bursts into cheers. 
+TRACK OUT as Mandy and Cooper linger in the lounge area in front of Devine’s 
+desk, revealing the Bijou office to be a network of adjoining offices, art deco 
+style. Brian remains alone to the side.
+ 
+
+MICKI
+Yipes.
+ 
+
+COOPER
+
+(with a broad American accent)
+American?
+ 
+
+ANGEL
+Bravo, Jerry!
+ 
+
+MANDY
+Garbo, Brian 
+– pleeeease!
+ 
+
+ANGEL
+Brando for 
+me.
+ 
+
+MICKI
+Einstein.
+ 
+
+COOPER
+Sorry, 
+chickee, he’s dead.
+ 
+
+MICKI
+Jerry said 
+anyone!
+ 
+Brian turns to the group. Mandy spots 
+him.
+ 
+
+MANDY
+Brian...Brian 
+– who?
+ 
+Silence on Brian.
+ 
+
+BRIAN
+
+(awkward ,for the first time yet)
+Curt Wild.
+
+(now with confidence)
+Curt Wild. I 
+want to meet Curt Wild.
+ 
+CLOSE ON. Mandy, looking at him.
+ 
+Slam into Guitar intro (‘Personality 
+Crisis’/New York Dolls).
+ 
+
+MANDY
+
+(voice-over)
+And meet Curt 
+Wild we did.
+ 
+CUT TO:
+ 
+INT. MAX’S KANSAS CITY – NEW YORK – 
+NIGHT – 1973
+ 
+Brian and Mandy are walking into the 
+dark, narrow club, followed by Devine, Angel, Freddi and Trevor.
+ 
+On stage, Polly Small, a tough girl 
+singer, belts out a gendy-bendy Beatles cover. She’s backed by a gloriously 
+trashy, New York style glam band.
+ 
+Rodney, a British rep for the label, 
+leads them to a table in the back.
+ 
+Brian looks around as well, expectant 
+and anxious, taking it all in. Mandy leans over, pointing out someone.
+ 
+Andy Warhol seated at the back of the 
+room, accompanied by, James Dean, and Marilyn Monroe.
+ 
+
+RODNEY
+
+(off-screen)
+There he is.
+ 
+Brian looks over to Rodney who 
+points, music shimmering.
+ 
+Dark figures clear frame as we track 
+in to the darkest corner of the club. Reveal a shadowy figure slumped over a 
+table.
+ 
+CLOSE ON Brian, following Rodney, 
+arriving. Somewhere behind the music we hear.
+ 
+Mr Wild...Mr
+Wild?
+ 
+Curt lifts up his head, squinting up 
+at Rodney. He sits between a beautiful pair of boy and girl Teenage Twins.
+ 
+
+CURT
+Yeah?
+ 
+
+RODNEY
+I’m Rodney – 
+from Electra? I have Brian Slade here from England who just wanted to pop over, 
+say hello –
+ 
+
+BRIAN
+I just wanted 
+to say...I think your music is tops – really, smashing – best of the lot.
+ 
+Curt looks up at him in a junkie 
+blur.
+ 
+
+CURT
+Smashing, top 
+hole, jolly old – 
+ 
+Curt’s eyes roll up into his head and 
+he passes out with his head against the wall behind him.
+ 
+Brian in diffused 
+CLOSE-UP. He has fallen in love.
+ 
+            CUT TO:
+ 
+INT. HOTEL MEZZANINE- AFTERNOON – 1973
+ 
+Pan over guests seated for tea at 
+posh New York hotel.
+ 
+
+MANDY
+
+(voice-over)
+Now at that 
+time, Curt Wild was between management and Brian knew this, of course, and urged 
+Devine to pursue the situation.
+ 
+We settle on a corner table where 
+Brian and Devine sit with Curt, a black smudge against the crimson and gold 
+interior.
+ 
+
+DEVINE
+And so if, in 
+that probability, an interest arose in which Brian would serve in some projects 
+– possibly, though not exclusively– as...we’re taking our lead from you here, 
+Curt... possibly as producer on that project – how might that scenario – purely 
+hypothetically– how might that scenario appeal to you at this juncture?
+ 
+Silence as Curt looks back at them 
+with the innocence of a drowned rat.
+ 
+
+BRIAN
+What Jerry’s 
+trying to say is do you want to come to London and cut a record?
+ 
+
+CURT
+Oh yeah – 
+cool.
+ 
+
+DEVINE
+Very good.
+ 
+
+BRIAN
+But how can 
+we help you. You must tell us. What do you need?
+ 
+Underneath the table Devine kicks 
+Brian in the shin. Curt thinks for a moment, then smiles:
+ 
+
+CURT
+Everything.
+ 
+Brian smiles.
+ 
+See, heroin 
+was my mainman. But now I’m on the methadone and I’m getting my act together. 
+You come here and say you wanna help and I say, ‘hey, far out.’
+
+(to Brian, softly)
+You could be 
+my mainman.
+ 
+CLOSE ON Brian through diffusion, 
+watching Curt. There are tiny hearts in his eyes.
+ 
+
+MANDY
+
+(voice-over)
+It was pretty 
+clear what was happening. It happens every day. But for the world to think it 
+was happening, well...
+ 
+Pan to Devine, in foreground, tiny 
+dollar signs in his eyes.
+ 
+That was 
+Jerry’s particular genius.
+ 
+‘Satellite of Love’/Lou Reed begins:
+ 
+CUT TO:
+
+ 
+Montage of newsreel-style footage 
+begins:
+ 
+EXT. MOVIE PALACE – NIGHT – 1973
+ 
+Limousine doors open and Brian and 
+Curt, dressed to the nines, pile out. They are instantly obliterated by 
+floodlights and camera flashes as they stumble up the red carpet, waving to fans 
+like a pair of drunken screen stars.
+ 
+
+MANDY
+
+(voice-over)
+Right away he 
+started promoting the two of them like a pair of forties starlets on the swoon – 
+a Tracy and Hepburn for the seventies.
+ 
+Song continues.
+ 
+ 
+            CUT TO:
+ 
+EXT. CARNIVAL – SET – DUSK – 1973
+ 
+Curt and Brian ride in neighbouring 
+rockets on the Space Spinner ride, reeling over the candy-coloured lights of a 
+travelling carnival. TRACK-IN as Curt lip-syncs 
+to the song and Brian sings the backing arpeggios, his rocket passing Curt’s.
+ 
+Behind them, the lights of the 
+carnival recede. They are flying away. Pan up to the starry sky.
+ 
+            
+CUT TO:
+ 
+EXT. BRIAN’S GARDEN – DAY – 1973
+ 
+HAND HELD TELEPHOTO shots into 
+Brian’s back garden: Brian and Curt stroll with champagne, eventually catching 
+sight of the camera. Upon doing so, both begin laughing as Curt jumps up and 
+down wildly, and then throws his glass toward the photographer.
+ 
+The music now becomes tender 
+(‘Diamond Meadows/T-Rex)
+ 
+            DREAMY DISSOLVE TO:
+ 
+INT. LITTLE GIRL’S ROOM – NIGHT – 1973
+ 
+PAN PAST a forty-five spinning on a 
+plastic turntable, and come to rest on the soft, lamp-lit CLOSE-UP of a 
+Brian Slade Doll.
+ 
+Opposite, a Curt Wild Doll stands. A 
+gentle love scene is being played out by the hands and off-screen voices of two 
+young English Girls. The scene is shot romantically, with soft lighting and 
+heavy diffusion.
+ 
+
+CURT DOLL
+My career was 
+on the skids, mate. And you fished me out o’the muck. You got me back on my 
+feet, you did.
+ 
+
+BRIAN DOLL
+It was 
+nothing, chum. I wanted to help you make more of that far out sound. I love your 
+music, my son, and I love – 
+ 
+The Brian doll turns away. The Curt 
+doll walks up to him from behind.
+ 
+
+CURT DOLL
+
+(softly)
+You don’t 
+have to say it, mate.
+ 
+The dolls turn toward each other and 
+embrace. They slowly, tenderly go down to the floor.
+ 
+            CUT TO:
+ 
+INT. ST FRANCIS HOTEL – NEW YORK – LATE 
+AFTERNOON – 1973
+ 
+Thirties-style Singer crooning to 
+camera, pink-cheeked with patent-leather style hair. (‘Bitters End’/Roxy Music):
+ 
+Three pencil-moustached back-ups, the 
+Champagne Chorus, lean in and sing.
+ 
+TRACK OUT to reveal the singers amid 
+Bijou’s deliriously posh press soirée. Dressed for a fancy ball, Brian and 
+company lounge and pose for reporters, all elegantly assembled in a gilded 
+banquet room.
+ 
+The princely Brian holds court on a 
+gold settee, supported by a den of beautiful Bisexuals. We see Curt Wild, Jerry 
+Divine, Micki, Angel, Cooper, Freddi, Shannon, Trevor – and Mandy playing 
+hostess. Everyone is dressed in cream and gold velvet, satin, and sparkling 
+material. Some of the men are in breeches and white stockings. A touch of Louis 
+XIV permeates the room. Reporters, on the other hand, are a dark cluster of 
+black suits.
+ 
+The song continues as each ‘actor’ 
+answers questions in quoted texts, punctuated by slightly bruising 
+CAMERA FLASHES.
+ 
+
+DEVINE
+Every great 
+century that produces art is, so far, an artificial century, and the work that 
+seems the most natural and simple of its time is always the result of the most 
+self-conscious effort.
+ 
+Micki, 
+dressed like Marilyn Monroe as Marie Antoinette.
+ 
+
+MICKI
+
+(doing his best Marilyn)
+I am not 
+really myself except in the midst of elegant crowds, at the heart of rich 
+districts, or amid the sumptuous ornamentation of palace hotels, an army of 
+servants and a plush carpet underfoot...
+ 
+Mandy, luminous in platinum curls, 
+puffs from a long cigarette holder.
+ 
+
+MANDY
+What is true 
+about music is true about life: that beauty reveals everything because it 
+expresses nothing.
+ 
+
+FREDDI
+The first 
+duty in life is to assume a post. What the second duty is no one has yet found 
+out.
+ 
+A sudden fanfare and dimming of 
+lights reveals the projected backdrop of a stylized big top. A spotlight flashes 
+on Brian, who catches a whip and top hat thrown to him from the wings. Fast 
+ZOOM OUT reveals Angel in the foreground, reading from a large placard 
+on a stand.
+ 
+
+ANGEL
+
+(dressed quite like Columbia from Rocky Horror, she theatrically recites)
+The Aesthete 
+Gives Characteristically
+Cynical 
+Evidence, Replete with Pointed
+Epigram and 
+Startling Paradox, while
+Explaining 
+His Views on Morality in Art.
+ 
+SWISH PAN to the klatch of Reporters, 
+now perched in the rafters, shouting out their questions to Brian. He answers in 
+the style of a circus MC.
+ 
+
+REPORTER 1
+Brian! 
+Maxwell Demon is the story of a space creature who becomes a rock and roll 
+messiah, only to be destroyed by his own success. Are you saying this is your 
+destiny? Are you Maxwell Demon?
+ 
+
+BRIAN
+Man is least 
+himself when he talks in his own person! Give him a mask and he’ll tell you the 
+truth!
+ 
+We see Shannon holding up cue cards 
+for Brian. SWISH PAN to Reporter 2, shouting out:
+ 
+
+REPORTER 2
+Is it your 
+belief that all dandies are homosexuals?
+ 
+TILT DOWN to Cooper, holding up cue 
+cards for the press.
+ 
+
+BRIAN
+Ha! Nothing 
+makes one so vain as being told on is a sinner!
+ 
+The stadium roars with laughter and 
+applause.
+ 
+
+CURT
+
+(off-screen)
+Coming 
+through! Coming through!
+ 
+A spotlight spins around, 
+illuminating.
+ 
+Curt, squeezing through a throng of 
+fans/reporters, balancing two glasses of champagne on a tray.
+ 
+
+REPORTER 3
+Tell us, 
+Brian! Are the rumours true that you and Curt Wild have some sort of plan up 
+your sleeve?
+ 
+
+BRIAN
+Oh, yes. 
+Quite soon actually we plan to take over the world.
+ 
+Hilarious laughter from the crowds – 
+LOW ANGLE.
+ 
+CLOSE ON Brian: he wasn’t joking. But 
+to the rescue.
+ 
+Curt arrives, miraculously unspilled.
+ 
+
+CURT
+Excuse me, 
+fellas, while I raise my glass to the loveliest man in Europe!
+ 
+The crowd ‘Ahhhs’ and Curt and Brian 
+smiling broadly, link arms for a toast, cameras flashing.
+ 
+
+BRIAN
+And they tell 
+you it’s not natural!
+ 
+Violent laughter from the crowds 
+quickly darkens and distorts. Lights dim as a shimmer of music rises.
+ 
+            FAST DISSOLVE TO:
+ 
+Curt and Brian, eyelash close.
+ 
+
+CURT
+
+(a whisper)
+The world is 
+changed because you are made of ivory and gold. The curves of your lips rewrite 
+history.
+ 
+Curt kisses Brian hotly on the mouth. 
+For several seconds all sound stops. Then:
+ 
+Bang as camera flashes ignite the 
+screen.
+ 
+            FAST DISSOLVE TO:
+BLACK AND WHITE PHOTO – 1973
+ 
+Curt kissing Brian – under the first 
+slams of ‘Baby’s on Fire’/Brian Eno ~ Sung by Jonathan Rhys Meyers.
+ 
+            CUT TO:
+ 
+INT. CONCERT HALL – LONDON – NIGHT – 
+1973
+ 
+Brian sings on-stage, in Ziggy Stardust-esque 
+space age outfit.
+ 
+CLOSE:
+Brian turns as Curt Wild bounds on to 
+stage in a rush of energy. He is jumping up and down in true Iggy Pop style He 
+is dressed in tight silver pants and a black top. He hooks up his guitar and 
+gets ready to play. The song continues through the brief montage.
+ 
+INT. MAGAZINE PRESS – DAY – 1973
+ 
+We see editions of the ‘kiss photo’ 
+being printed, cut and bound on machines. We see magazines boxed and loaded into 
+trucks.
+ 
+EXT. NEWSSTAND – DAY – 1973
+ 
+Boxes are opened by vendors and put 
+on display. Money is handed to vendors and magazines are handed back in 
+exchange.
+ 
+            FAST DISSOLVE TO:
+ 
+ARTHUR’S BEDROOM – SUBURBAN MANCHESTER – 
+NIGHT - 1973
+ 
+TRACK OUT from the ‘kiss photo’ in 
+Teenage Arthur’s Melody Maker magazine.
+ 
+CLOSE ON Arthur, lips moist, 
+entranced.
+ 
+            DISSOLVE TO:
+ 
+INT. HOTEL SUITE – NEW YORK – 1973
+ 
+A man’s hand takes that of a woman’s 
+leading her past flowing curtains to a moonlit. 
+TRACK OUT to reveal Shannon being led by Devine. She stops.
+ 
+The dark, richly decorated suite is 
+filled with bodies.
+ 
+Devine smiles faintly, persuading her 
+in.
+ 
+            CUT BACK TO:
+ 
+INT. ARTHUR’S BEDROOM – SUBURBAN 
+MANCHESTER – NIGHT – 1973
+ 
+Arthur turns the page.
+ 
+            FAST CUT TO:
+ 
+INT. CONCERT HALL – LONDON – 1973
+ 
+Curt pours over a particularly 
+wrenching guitar solo. He half-smiles when he sees:
+ 
+Brian, slinking down on his haunches, 
+approaching. When he arrives, he drops to his knees and ‘goes down’ on Curt’s 
+guitar, grabbing on to his ass as he plays the instrument with his teeth..
+ 
+The audience goes wild, as do the 
+photographers.
+ 
+            DISSOLVE TO:
+ 
+INT. ARTHUR’S BEDROOM –NIGHT – 1973
+ 
+Arthur’s face, breath 
+CLOSE, staring at the photo of the preceding stage stunt, softly grinding.
+ 
+VERY CLOSE on his open hand, circling 
+slowly over stretching underwear.
+ 
+INT. STUART LIVING ROOM – SUBURBAN 
+MANCHESTER – NIGHT – 1973
+ 
+Mr Stuart looks up angrily from the 
+TV toward the pounding music from Arthur’s room. He glares at Mrs Stuart sitting 
+beside him.
+ 
+He throws down the newspaper and 
+starts up the stairs.
+ 
+INT. HOTEL SUITE – NEW YORK – NIGHT – 
+1973
+ 
+Two Glam Girls are leading Curt to a 
+corner couch, bringing us to Trevor and Harley, who stand opposite each other 
+shirtless. Angel is going down on Trevor while a Girl Groupie caresses Harley. A 
+Boy Groupie sits beside her watching as Trevor and Harley stare at one another’s 
+bodies, stone drunk.
+ 
+Mandy is lying in a through of Skinny 
+Boys, her tongue down Cooper’s throat. A Nude Woman with large breasts pulls her 
+away.
+ 
+
+MANDY
+Thank God – a
+woman!
+ 
+Passing over a large red velvet sofa 
+we discover a beautiful Asian Woman in bright-blue feathers undressing a man. 
+She is accompanied by a nude Black Boy who kisses the man while pulling off his 
+tie. The TRACK ENDS on a CLOSE UP of the 
+man. It’s Brian.
+ 
+All of a sudden he glances up.
+ 
+Curt stands near a doorway, his eyes 
+on Brian. He has broken away from his captors.
+ 
+Brian stares back, frozen. The Asian 
+woman tries to kiss him.
+ 
+Curt just turns, disappearing down 
+the hall.
+ 
+Brian stares after.
+ 
+Shannon observes the exchange, 
+standing against a wall with Devine’s head in her breasts.
+ 
+            CUT TO:
+ 
+INT. STUART LIVING ROOM – MANCHESTER – 
+NIGHT – 1973
+ 
+Mrs Stuart stands as Mr Stuart pounds 
+on Arthur’s door – off-screen.
+ 
+
+MR STUART
+
+(off-screen)
+Could you 
+conceivably turn down that blasted....Arthur! Arthur, open this door!
+ 
+We hear him forcing it open and 
+storming in, shouting.
+Suddenly there’s a crash, followed by 
+the screech of a phonograph needle. Mrs Stuart jolts, hurries upstairs.
+ 
+We follow as she rushes down the hall 
+to Arthur’s door where she stops, looking in.
+ 
+INT. ARTHUR’S BEDROOM – SUBURBAN 
+MANCHESTER – NIGHT – 1973
+ 
+Slow 
+ZOOM OUT from Mrs Stuart standing at the door as we hear Mr Stuart growl in 
+low, threatening tones.
+ 
+
+MR STUART
+
+(off-screen)
+You bring 
+shame to this house. You bring shame to your mother and me. It’s a shameful, 
+filthy thing you’re doing – 
+
+(suddenly at the top of his lungs)
+DO YOU HEAR 
+ME?!
+ 
+Mrs Stuart jumps.
+ 
+Stand up!
+ 
+Mr Stuart is standing behind Arthur, 
+who slowly stands into frame. 
+ZOOM ends, revealing a reflection in the dresser 
+mirror Arthur is standing before. His nose is bleeding.
+ 
+            DISSOLVE TO:
+ 
+INT. HOTEL SUITE – NEW YORK – NIGHT – 
+1973
+ 
+VERY CLOSE on Brian disengaging from 
+his partners, their eyes opening, their faces looking up. PAN UP with 
+Brian, standing, his eyes fixed on the hallway.
+ 
+CLOSE ON Mandy, her eyes 
+opening, sensing something. She spots Brian.
+ 
+Shannon continues staring as Devine’s 
+head comes up and looks over as well.
+ 
+
+MANDY
+
+(voice-over)
+It’s funny 
+how beautiful people look – 
+ 
+Brian, slightly 
+SLOW MOTION, approaching the hall. He glances back a beat before slipping 
+into the shadows.
+ 
+- when 
+they’re walking out the door.
+ 
+            FAST CUT TO:
+ 
+Brief silent shot:
+ 
+EXT. BUS – MANCHESTER – DAY – 1973.
+ 
+Arthur boards the bus to London with 
+a single suitcase. 
+ 
+He sits in the back as the bus takes 
+off.
+ 
+Through the windows he sees his 
+mother running out and stopping diminishing as we pass. Finally, she raises a 
+hand goodbye.
+ 
+            CUT TO:
+ 
+INT. HOTEL SUITE – NEW YORK – DAY – 1973
+ 
+In a corner of the room Mandy 
+consoles Shannon who is weeping.
+ 
+
+MANDY
+Really 
+Shannon, it’s no problem, honestly. I’m not fussed about it, I’m quite open 
+about it. I was having a fabulous time last night myself. Really luv, you 
+shouldn’t upset you so. Brian is a grown man and fully capable of shagging 
+whatever he fancies and exceedingly partial to the practice.
+ 
+
+MANDY
+
+(voice-over)
+Now: just 
+because someone sees, you know –
+ 
+            FAST RETURN TO:
+ 
+INT. DIVE BAR – NEW YORK – DAY – 1984
+ 
+Arthur, jolted back to the present.
+ 
+
+MANDY
+
+(facetious)
+- two 
+naked people asleep in bed together...it doesn’t 
+necessarily prove sex was involved.
+ 
+            FAST CUT TO:
+ 
+INT. BEDROOM SUITE – NEW YORK – DAY – 
+1973
+ 
+Brian and Curt in bed, tangled and 
+naked, dead asleep.
+ 
+Shannon looks through a crack in the 
+door.
+ 
+            
+CUT TO:
+ 
+INT. DIVE BAR – NEW YORK – DAY – 1984
+ 
+
+MANDY
+It does, 
+however, make for a very strong case.
+ 
+            FAST CUT TO:
+ 
+INT. BEDROOM SUITE – NEW YORK – DAY – 
+1973
+ 
+Shannon closes the door and Brian’s 
+eyes open.
+ 
+
+MANDY
+But you’re a 
+sweet, sensitive darling to be so broken up about it. Brian would be absolutely 
+chuffed to know that you – 
+ 
+Shannon suddenly grabs Mandy’s arm, 
+glaring.
+ 
+
+SHANNON
+Don’t you 
+ever dare tell Brian – Swear to me you’ll never say a word– ever.
+ 
+Mandy  yanks free. She gets up, 
+rubbing her wrist.
+ 
+
+MANDY
+I swear. 
+Jesus.
+ 
+Mandy walks off, confused and a 
+little spooked.
+ 
+INT. HOTEL CORRIDOR – NEW YORK – DAY – 
+1973
+ 
+Mandy stops outside Brian’s door. She 
+takes a breath before quietly turning the knob.
+ 
+INT. BEDROOM SUITE – NEW YORK – 
+AFTERNOON – 1973
+ 
+CLOSE ON Mandy peeking in. FAST 
+ZOOM OUT: the room is empty. Mandy sees  a note left on the table with her 
+name on it. She opens it.
+ 
+
+MANDY
+
+(voice-over, of letter)
+‘Sudden 
+change in plans.
+Brief 
+holiday, much needed. 
+Back by 
+Hammersmith.
+
+-B’
+ 
+            FAST CUT TO:
+ 
+INT. DIVE CLUB – NEW YORK – LATE DAY – 
+1984
+ 
+
+MANDY
+That was it. 
+And I knew...my time with Brian, for all practical purposes, as up.
+Look I’m 
+sorry. I just wish I could help you more. You seem like a nice guy. I just ahh –
+ 
+The Bartender glances up. 
+FAST ZOOM/BACK OUT to Mandy in foreground.
+ 
+-don’t think 
+I have what you’re looking for.
+ 
+Arthur smiles, looking down.
+ 
+
+ARTHUR
+See...I think 
+you do actually.
+ 
+
+MANDY
+
+(a sly smile)
+Oh yeah? And 
+what makes you think so?
+ 
+
+ARTHUR
+Well that 
+smile, for one thing.
+ 
+
+MANDY
+Well. Smiles 
+lie.
+ 
+
+ARTHUR
+Exactly.
+ 
+Mandy sighs.
+ 
+
+MANDY
+Listen, once 
+– of course – there was a gorgeous gorgeous time. And we were living our dreams. 
+But you see all that went away – all of it – 
+
+(quietly)
+- with Curt.
+ 
+A faint melody rises. Music builds to 
+‘My Unclean’/Wylde Rattz as slow ZOOMS begin on each of them.
+ 
+And not even 
+the real Curt. It was the idea of Curt more than anything, this – image. Which, 
+of course, no one could ever possibly live up to. I mean Maxwell Demon, Curt 
+Wild – they were fictions! Somewhere along the way, Brian seemed to get 
+lost in the lie.
+ 
+            DISSOLVE TO:
+ 
+INT. RECORDING STUDIO – LONDON – NIGHT – 
+1974
+ 
+ 
+TRACK OUT from Curt at the mic in 
+the soundproof booth. He starts to sing, eyes closed.
+ 
+In the foreground, Brian is revealed 
+watching through the glass, his back to the camera. When Curt doesn’t come in on 
+the next verse, Brian twitches angrily.
+ 
+
+BRIAN
+Shit!
+ 
+
+DEVINE
+Cut it!
+ 
+
+MIXER
+Should I stop 
+it?
+ 
+Brian turns around, facing Devine and 
+the Mixer who sits behind him at the board.
+ 
+Curt continues singing.
+ 
+Brian watches, biting his thumb.
+ 
+He’s gonna 
+hit the bridge a half-verse early.
+ 
+
+DEVINE
+Now you’re 
+simply wasting tape.
+ 
+
+BRIAN
+Alright. Cut 
+it.
+ 
+The music stops.
+ 
+Behind Brian, Curt looks up. He 
+starts hollering through the glass but we can’t hear him. Brian is frozen, his 
+back to the booth. The Mixer switches Curt on.
+ 
+
+CURT
+
+(on intercom)
+What?
+ 
+Brian turns around to face him.
+ 
+
+CURT
+What? What, 
+is there a problem?
+ 
+INSIDE BOOTH:
+From Curt’s
+POV we see Brian. Brian’s response is monitored for Curt but barely 
+heard. Through the glass we can read his lips-
+ 
+
+BRIAN
+Because you 
+missed your cue.
+
+(looks down, quiet, but now audible)
+Again.
+ 
+
+CURT
+What? 
+What?
+ 
+CONTROL ROOM
+ 
+Devine leans into the intercom and 
+chimes in, tersely.
+ 
+
+DEVINE
+We’re sorry, 
+Curt, but it appears as if you –
+ 
+
+
+CURT
+
+(Curt glares at him through the glass, points to Brian 
+awaiting an answer from HIM.)
+What?!!
+ 
+Brian leans in.
+ 
+
+BRIAN
+
+(smoothly)
+Curt, we only 
+ask that when you decide to make a change you simply inform us in advance 
+so Eton here is properly prepared, otherwise –
+ 
+Curt turns violently, thrusting his 
+arm as he curses.
+ 
+
+CURT
+
+(on intercom)
+What the fuck 
+are you talking about man? – I didn’t make any fucking changes!
+ 
+Brain walks up to the glass silently.
+ 
+            Brian?-
+
+(jerking away in frustration, throws his head set to the 
+ground)
+Fucking mother fucker! Mother 
+fucker, you’re a mother fucker! Fuck you! Fuck you, mother fucker! Fuck you!!
+ 
+
+DEVINE
+Eton 
+....Eton, please.
+ 
+The Mixer switches Curt off. We watch 
+him continue to rave in silence as Brian listens to Devine.
+ 
+Brian, I’m 
+sort to be the one to tell you this, but what started off as an interesting 
+experiment has quite frankly descended into demeaning wast of your time and 
+mine. I mean you’ve already spent– forty hours studio time –
+ 
+
+BRIAN
+Thirty-six.
+ 
+
+DEVINE
+Whatever! 
+Thirty-six hours – on two, three bloody cuts! Brian, you seem to forget, but 
+you’re a very big star now and your time is worth a great deal more than this –
+
+ 
+Jerry  switches on the intercom and 
+Curt’s shrieks come searing on.
+ 
+
+CURT
+-fucking 
+space-queen on your fucking high horse! And all your fucking henchmen! –  fuck 
+you, fuck you!
+ 
+Brian switches it off and responds 
+quickly and quietly.
+
+ 
+
+BRIAN
+Perhaps it’s 
+time for another little break. Hey fellas? Give us a stretch.
+
+(a wan smile)
+Jerry?
+ 
+Devine stands, coolly.
+ 
+
+DEVINE
+I can’t risk 
+extending his contract, Brian. I think it’s quite clear why. I’ll talk to you 
+tomorrow.
+ 
+He turns and begins filing out with 
+the others. RACK to Brian in the foreground, 
+watching Curt.
+ 
+He has begun throwing chairs around 
+the booth. Brian turns away, black in shadows. Everyone has gone but Mandy, who 
+watches Brian from a dark corner.
+ 
+For a split second his sadness shows. 
+Then his eyes flash up and he sees her.
+ 
+She looks him in the eye. Then she 
+turns and leaves the room. We follow. As the door shuts behind her, and the 
+sound of Curt’s shouts resume in the distance, a tender instrumental of the 
+previous song rises.
+ 
+Mandy passes through the shadows, 
+into moonlight.
+ 
+EXT. RECORDING STUDIO – NIGHT – 1974
+ 
+Mandy looks up.
+ 
+The sky is full of stars. Then – 
+suddenly – there’s a crash of doors.
+ 
+In a massive 
+LONG SHOT Mandy watches Curt come tearing out of a rear door. The third-story 
+window bangs open and Brian’s head sticks out, shouting after him.
+ 
+
+BRIAN
+Piss off, 
+then! Go on! Back to your wolves! Your junkie twerps! Your bloody shock 
+treatment! And fuck you too!
+ 
+Mandy watches
+Brian watching Curt vanish
+ 
+
+MANDY
+
+(voice-over)
+When it all 
+came crashing down, I just stood on the sidelines and watched, just like 
+everybody else.
+ 
+CUT TO:
+ 
+INT. BRIAN’S OFFICE – DAY – 1974
+ 
+Curtain parts, revealing Curt below 
+on the street.
+ 
+He looks up and sees Brian.
+ 
+EXT. BIJOU OFFICE – DAY – 1974
+ 
+Brian looks through the window then 
+withdraws. Curt gets into the limo and takes off.
+ 
+INT. BRIAN’S OFFICE – DAY – 1974
+ 
+A phone receiver is lifted up. 
+CLOSE ON Brian’s finger dialling a number.
+ 
+INT. LIMO – MOMENTS LATER – DAY – 1974
+ 
+The streets of London passing from a 
+car.
+Signs for Heathrow Airport approach.
+ 
+Curt looks out. He squints from the 
+sun.
+Flashback to a time Brian and Curt 
+shared together, on the beach. Perhaps when they went on the ‘much needed 
+holiday’ and left Mandy.
+ 
+            CUT TO:
+ 
+INT. BRIAN’S OFFICE  - DAY – LATER – 
+1974
+ 
+CLOSE ON Brian’s tight mouth against 
+a phone receiver.
+ 
+
+BRIAN
+Out. O-U-T.
+ 
+            CUT TO:
+ 
+INT. BIJOU OFFICES – DEVINE’S OFFICE – 
+DAY – 1974
+ 
+CLOSE ON Devine’s nose, the phone 
+against his face. Speedy ZOOM OUT.
+ 
+
+DEVINE
+Well, Brian. 
+I’m afraid that is completely out of the question. You are contractually bound 
+to finish the Maxwell Demon tour as Maxwell Demon –
+ 
+Mandy stands at the door of his 
+office holding a stack of papers. CLOSE ON 
+Devine.
+ 
+
+BRIAN
+
+(off-screen; faintly through receiver)
+Jerry, I’m 
+telling you, is just getting far too out of hand – I really don’t think I’ll be 
+able to – 
+ 
+
+DEVINE
+
+(looking at Mandy)
+Brian –Brian 
+– I realize you’re under tremendous strain, but you’ve jut gotta hang on in 
+there and finish...
+ 
+Mandy slowly turns to go.
+ 
+- the bloody 
+tour. You hang on in there. I’ll hang on here.
+ 
+            CUT TO:
+ 
+INT. BRIAN’S OFFICE – DAY
+ 
+Brian is in total distress. He is not 
+paying attention to what Devine is saying.
+ 
+
+DEVINE
+
+(off screen)
+And then you 
+can do what you want, OK?
+ 
+            CUT TO:
+ 
+EXT. STREETS OF KREUZBERG – BERLIN – 
+NIGHT – 1974
+ 
+Curt walks through an industrial 
+neighbourhood in West Berlin. He lights a cigarette as an elevated train passes 
+in the distance, blinking red and green. Suddenly he looks up, spotting 
+something on the street.
+ 
+An individual looking remarkably like 
+Brian, dressed as Maxwell Demon, stands with two other flashly dressed 
+individuals.
+ 
+Curt squints at the spectre, taking a 
+few vague steps in the direction.
+ 
+The figure turns, revealing himself 
+to be a teenage fan.
+ 
+Curt, 
+CLOSE, spooked by the misrecognition.
+ 
+            CUT TO:
+ 
+Shots of the people: men in trench 
+coats, teenagers sitting on the stairs of Piccadilly fountain, Japanese 
+tourists.
+ 
+Arthur sees a group of Glam Girls 
+stumble into a dark club. He follows.
+ 
+            CUT TO:
+ 
+INT. LAST RESORT CLUB – NIGHT – 1973
+ 
+In a cramped London club, Malcolm, 
+Ray, Pearl and Billy of The Flaming Creatures (a cross between Roxy Music and 
+The New York Dolls) perform the current section of ‘Bittersweet’ with raucous 
+intensity.
+ 
+Arthur watches. He likes what he 
+hears.
+ 
+Ray spots him and blows him a trampy 
+kiss.
+ 
+Arthur blushes.
+ 
+            CUT TO:
+ 
+EXT. BRIAN SLADE PROTESTS – LONDON – DAY 
+– 1974 VIDEO NEWSREELS
+ 
+CLOSE ON grainy shot of a Brian Slade 
+poster in flames over the song’s tender finish.
+ 
+We see albums being burned and thrown 
+into a charred pile. Others burn songbooks, magazines, forty-fives.
+ 
+INT. BIJOU OFFICES – DAY – 1974
+ 
+Brian’s face, starring at the 
+monitor, a ghost of his former self.
+ 
+CLOSE ON his hand rewinding the tape.
+ 
+DISSOLVE TO:
+ 
+EXT. KREUZBERG – BERLIN – NIGHT – 1974
+
+ 
+Curt has inadvertently joined a 
+hustler/cruising strip, full of young specimens on the street corners and 
+pulled-over cars. As Curt walks he notices one car beginning to follow.
+ 
+He smiles to himself, thinking it’s a 
+proposition, and turns the next corner.
+ 
+The car does the same.
+ 
+As Curt crosses the street, he slows, 
+trying to get a look at the driver.
+ 
+Tentatively he approaches it, 
+spooked.
+ 
+CLOSE ON a car window rolling down 
+and revealing Jack Fairy.
+ 
+            CUT TO:
+ 
+INT. LAST RESORT CLUB – LATER – 1973
+ 
+TRACK through the slowed-down remains 
+of the club, most of the clientele subdued with drink. Off-screen, The Flaming 
+Creatures’ late-night banter is heard:
+ 
+
+MALCOLM
+I don’t 
+believe that there is much of a future to speak of –
+ 
+
+PEARL
+We’re in a 
+bit of a decadent spiral, aren’t we?
+ 
+We pass one half-undressed Weimar 
+Woman, evoking thirties Berlin, spread across the tables.
+ 
+
+BILLY
+Sinking fast.
+ 
+
+RAY
+Big Brother, 
+baby. All the way.
+ 
+Reveal Arthur and the Creatures 
+sprawled around a table teaming with empty pints.
+ 
+Quick 
+SINGLES on each of them:
+ 
+
+MALCOLM
+Which is why 
+we prefer impressions to ideas – 
+ 
+
+PEARL
+Brief flights 
+to sustained ones –
+ 
+
+RAY
+Exceptions to 
+types –
+ 
+
+BILLY
+Situations to 
+subjects –
+
+
+PEARL
+And yourself?
+ 
+Arthur looks at them a moment.
+ 
+
+ARTHUR
+Well I’m – 
+I’m just looking for a room at the moment.
+ 
+CUT TO:
+ 
+INT. RECORDING STUDIO – LATER THAT NIGHT 
+– 1974
+ 
+We see Brian’s  singing 
+‘Bittesweet’/Roxy Music.
+Brian records his version of the song 
+alone in the darkened studio. He returns to its tender refrain with eyes closed, 
+heart clenched.
+ 
+In the hallway Mandy moves through 
+the shadows toward the studio, drawn by the music.
+ 
+Inside a 
+CLOSE TRACK curls around Brian, revealing a perfect tear 
+glittering on his cheek.
+ 
+            CUT TO:
+ 
+INT. DIVE CLUB – NEW YORK – LATE DAY – 
+1984
+ 
+CLOSE ON Mandy.
+ 
+
+MANDY
+So for one 
+entire day I actually think Brian’s been shot. That the whole thing is real, all 
+his paranoias proven horribly true – 
+ 
+
+ARTHUR
+You mean – no 
+one told you –
+ 
+
+MANDY
+Nope.
+ 
+
+ARTHUR
+Why?
+ 
+
+MANDY
+Forgot.
+ 
+
+ARTHUR
+Jesus.
+ 
+
+MANDY
+I mean...I 
+knew it was over. I just didn’t know it was up to me to make it stop.
+ 
+            FADE TO:
+ 
+INT. BIJOU TOWN HOUSE ENTRANCE – DAY – 
+1975
+ 
+We follow Mandy along the hallway 
+leading to the old offices.
+ 
+At the end of the hall way, we reach 
+the main door. Mandy pushes it open and enters.
+ 
+INT. BIJOU OFFICES – DAY – 1975
+ 
+Inside, the office’s musical comedy 
+ambience has turned film noir: shadows engulf the cavernous space where desks 
+are piled with boxes and chairs stacked, overturned or covered in sheets.
+ 
+She walks through the deserted 
+‘cubicles’, passing shady remnants of the past.
+ 
+Against a far wall, the TV monitor is 
+playing more silent footage from the Slade protests.
+ 
+Mandy looks down.
+ 
+There, in the far corner of the room 
+on a large mattress sits Brian. Shirtless, he is snorting cocaine off the ass of 
+a nude black girl (Coco), who is dead asleep. On a lone coffee table – the only 
+other uncovered furniture in sight – a mountain of cocaine has spilled over paraphernalia 
+and hundred-dollar bills.
+ 
+
+BRIAN
+
+(weak)
+Mandy.
+ 
+
+MANDY
+Hello, Brian.
+ 
+Brian just stares for a few 
+dumbfounded seconds before offering her the straw.
+ 
+
+MANDY
+
+(barely maintaining)
+No, thanks.
+ 
+Mandy stares at him, almost smiling.
+Slow 
+TRACK IN begins as she shuffles through her belongings. She produces a folder 
+and holds it out to him.
+ 
+She remains frozen, arm outstretched.
+ 
+These are the 
+papers. I believe they’re in order. All you need to do is sign.
+ 
+Brian watches as she turns and walks 
+across the room to the coffee table.
+ 
+Mandy sticks the folder into the pile 
+of coke.
+ 
+So you won’t 
+forget.
+ 
+Brian stares, his face suddenly open 
+like a child’s.
+ 
+
+BRIAN
+I already 
+have.
+ 
+Coco squirms in her sleep, tightening 
+her grip around Brian.
+ 
+
+MANDY
+Evidently!
+ 
+With that, Mandy turns and starts out 
+the door. Then all at once she stops and turns to face him.
+ 
+Fuck 
+you, Brian! Did you ever – for one bloody second in your life want 
+anything more –
+
+(suddenly quiet)
+-than 
+this?
+ 
+Brief pause.
+ 
+
+BRIAN
+
+(suddenly lucid)
+No.
+ 
+Mandy looks at him, her eyes filling, 
+with a sad smile.
+ 
+
+MANDY
+
+(softly)
+Your problem 
+is: ‘You get what you want and do what you will.’
+ 
+
+BRIAN
+
+(matching her in a sudden game of quotation)
+‘Worlds,’ 
+Mandy, ‘are built out of suffering. There is suffering at the birth of a child 
+as at the birth of a star.’
+ 
+
+MANDY
+‘You live in 
+terror of not being misunderstood.’
+ 
+
+BRIAN
+‘Women defend 
+themselves by attacking, just as they attack by sudden and strange surrenders.’
+ 
+CLOSE ON Mandy, her eyes moist.
+ 
+
+MANDY
+
+(more to herself)
+‘I lost my 
+girlhood, true. But it was for you.’
+ 
+Suddenly a rear door bangs open, 
+startling Mandy and waking Coco.
+ 
+Shannon stands at the doorway, 
+staring at Mandy. Now Brian’s personal secretary, Shannon’s force has grown 
+considerably. Coco opens her eyes and lifts her head.
+ 
+
+SHANNON
+
+(professionally irate)
+What in God’s 
+name is going on up here? How the fuck did you get up here? Brian, I’m really 
+sorry about that.
+ 
+
+BRIAN
+It’s alright, 
+Shannon. Mandy was just leaving.
+ 
+
+SHANNON
+Mandy, if 
+you’d be so kind as to follow me – 
+ 
+Shannon takes Mandy firmly in hand 
+and Mandy recoils, furiously.
+ 
+
+MANDY
+Let go of me. 
+I’m perfectly capable of making my own –
+ 
+Mandy goes to leave through a locked 
+door.
+ 
+
+SHANNON
+I really 
+don’t want to have to call someone – 
+ 
+Brian giggles.
+ 
+
+MANDY
+Call 
+someone? I’m his wife, for fuck’s sake!
+ 
+Brian start’s laughing loudly and 
+obnoxiously.
+ 
+Mandy’s eyes fill with tears. 
+Enraged, she turns and sweeps the pile of cocaine into the air.
+ 
+Fuck the lot 
+of you!
+ 
+Briefly 
+SLOW MOTION: Brian, laughing through the white cloud, divorce papers  and 
+money that Mandy has just sent sailing through the air.
+ 
+            CUT TO:
+ 
+EXT. CHELSEA STREET – LATE AFTERNOON – 
+1975
+ 
+High aerial view of Mandy streaming 
+from the building and across the street.
+ 
+Quiet music holds under.
+ 
+            CUT TO:
+ 
+INT. DIVE CLUB – NEW YORK – LATE DAY – 
+1984
+ 
+
+ARTHUR
+
+(off-screen)
+Was that the 
+last time you saw him?
+ 
+A distant trace of music begins as 
+Arthur looks up from his notes. A slow TRACK IN 
+begins.
+ 
+Mandy stands, passing Arthur on her 
+way to the bar.
+ 
+No, but it 
+was the last time we actually ah...spoke. 
+I saw him 
+again – briefly – a few weeks later. At a concert.
+ 
+
+ARTHUR
+He was 
+performing?
+ 
+TRACE IN behind Mandy as the 
+cigarette machine.
+ 
+
+MANDY
+No. Curt was 
+actually performing. He and Jack Fairy had just finished their Berlin record and 
+Curt was in London playing some gigs. And Brian was there – for a second. I 
+don’t think anyone even saw him.
+ 
+Music and 
+TRACK coverage as Mandy pushes the button. Her cigarettes 
+drop.
+
+CLOSE ON Arthur.
+ 
+
+ARTHUR
+Which 
+concert?
+ 
+Mandy turns to him
+ 
+            SUDDEN CUT TO:
+ 
+INT. RAINBOW THEATRE – LONDON – NIGHT – 
+1975
+ 
+An ominous crash of Organ announces 
+the majesty of the old hall; red velvet curtains curling up beneath its opulent 
+proscenium, framing the stage like a golden crown.
+ 
+INT. DIVE CLUB – NEW YORK – LATE DAY – 
+1984
+ 
+
+MANDY
+It was like a 
+tribute- sort of a farewell concert to glam rock.
+ 
+INT. RAINBOW THEATRE – NIGHT- 1975
+ 
+On-stage, through the final 
+projections of glam icons, the silhouette of a looming coffin is revealed 
+against deep purple lights with its lid slowly opening. A beam of golden light 
+rises from the coffin, illuminating a slow cascade of glitter.
+ 
+The scrim is lifted just as a caped 
+figure emerges, waling into opal light. It’s Jack Fairy, looking as tall and 
+radiant as ever.
+ 
+Jack resumes begins narration over a 
+rousing applause.
+ 
+
+JACK
+To save your 
+wild, wild lives
+To ne’er your 
+fans embitter
+To cease your 
+sad demise tonight
+We toast –
+
+ 
+SWOOPING IN on Arthur, his face amid 
+the sea of spectators. There’s a panic in his eyes.
+ 
+            FAST RETURN:
+ 
+INT. RAINBOW THEATRE – ON STAGE – NIGHT 
+– 9175
+ 
+Music peaks as an enormous banner 
+unfurls like a flame. Its gilded script reads: THE 
+DEATH OF GLITTER SHOW!
+ 
+A rockin’ Flaming Creature’s song 
+(‘20th Century Boy’/T-Rex) begins.        
+ 
+INT. CREATURES’ FLAT – NIGHT- 1975
+ 
+Teenage Arthur, 
+CLOSE in the mirror, is making himself up as Maxwell Demon.
+ 
+The table is strewn with a mess of 
+make-up and magic mushrooms.
+The room is filled with pre concert 
+excitement and banter as they all get ready.
+ 
+
+ARTHUR
+Is this 
+working? Cos I want it blue-er.
+I don’t think 
+you should bother I think I should go on stage tonight, instead of you.
+ 
+
+FLAMING CREATURE
+
+(hand stuck in the end of his jacket, can’t get it out)
+Arthur, come 
+give us a hand with this.
+ 
+Another band member is trying to 
+help, they fall on the bed.
+ 
+
+ARTHUR
+Stop moving 
+about...I’m doing me eyeliner.
+ 
+            CUT TO:
+ 
+INT. WINGS – RAINBOW THEATRE – LATER – 
+1975
+ 
+Fast 
+ZOOM OUT from Arthur, dancing wildly in the wings.
+ 
+In the wings a Roadie puts his hand 
+on Arthur’s shoulder to settle him down.
+ 
+Arthur turns, embarrassed. He catches 
+sight of:
+ 
+Three people approaching from 
+backstage: a Musician, a Hip Woman with a clipboard – and Curt Wild. 
+ZOOM IN.
+ 
+Arthur stares in disbelief.
+ 
+We hear:
+ 
+
+ADULT ARTHUR
+
+(voice-over)
+Yeah, I’m 
+trying to reach Curt Wild. I’m a journalist from the Herald.
+ 
+Swirling music over.
+ 
+            CUT TO:
+ 
+EXT. NEW YORK ALLEY – TELEPHONE BOOTH – 
+DAY – 1984
+ 
+TRACK around Arthur in a payphone.
+ 
+
+ARTHUR
+Yeah – Hi, 
+yeah, I’m...my name’s Arthur Stuart from the Herald. Umm, I was, I was 
+given this number, I was told I could reach Curt Wild, ah, here.
+ 
+INT. OFFICE – NEW YORK – LATE DAY – 1984
+ 
+MATCH TRACK around the back of Curt’s 
+head, on the phone to Arthur. He sits at the desk of a small, ratty office.
+ 
+
+CURT
+Listen... (muttering 
+in background to someone else) 
+ 
+
+ARTHUR
+Yeah? 
+...Hello? Hello!?
+ 
+
+CURT
+Listen, I 
+don’t know who the hell gave you this number – but Curt Wild is not available 
+and not interested in granting you or anyone else an interview on this subject – 
+you got it?
+ 
+
+ARTHUR
+I’m sorry – I 
+was told –
+ 
+Curt slams down the phone. He looks 
+over to two suits with Government insignias sitting opposite on a tattered 
+couch.
+ 
+‘Dead Finks Don’t Talk’/Brian Eno 
+begins.
+ 
+            CUT TO:
+ 
+INT. ARTHUR’S APARTMENT – NEW YORK – 
+LATE AFTERNOON – 1984
+ 
+CLOSE UP Arthur, standing and looking 
+in the mirror of his apartment. For a few beats he is still. Then, suddenly, we 
+hear the clatter of electronics. Arthur turns.
+ 
+ZOOM IN to his desk where he is 
+receiving a telex (fax).
+ 
+HIGH ANGLE: Arthur walks across the 
+room to his desk. His apartment is a crooked, looming container, twice as tall 
+as it is wide. Its few bunker-style windows are strangely high.
+ 
+EXTREME CLOSE-UP: telex
+ 
+It reads:
+
+‘NAME CHANGE SEARCH: BRIAN SLADE – REQUEST DENIED’
+ 
+Arthur pulls out the chair to his 
+desk.
+ 
+            CUT TO:
+ 
+LATER
+ 
+Computer screen. Words flash by:
+
+‘FILE REQUEST FOR NAME CHANGE SEARCH:
+
+SLADE, BRIAN’
+ 
+Arthur’s face as he searches, blue in 
+the glow of his computer. The TV blares in the background. 
+
+ 
+On computer screen: Brian Slade’s 
+real name and birthplace appear:
+ 
+BRIAN SLADE, born: Thomas Brian 
+Stoningham Slade, 2 January 1948, in Birmingham, Great Britain.
+ 
+Name change:  16 March 1971 [Brian 
+Slade],
+
+ 23 January 1979 [ACCESS 
+DENIED].
+ 
+Arthur glances up from his computer.
+ 
+TV SCREEN
+ 
+Shannon, brittle for her age, speaks 
+into a mike. Beside her sits Tommy Stone.
+ 
+
+SHANNON
+
+(on TV)
+...Due to the 
+overwhelming demand, additional shows are being added whenever and wherever 
+possible.
+ 
+TRACK IN to Arthur who is stuck, 
+watching.
+Suddenly he races back to his 
+computer.
+ 
+On computer screen, 
+CLOSE UP across Slade’s birth-name:
+
+THOMAS BRIAN PATRICE STONIGNHAM SLADE.
+ 
+TRACK INTO the names ‘THOMAS ... 
+STONINGHAM’
+ 
+Arthur stares at the screen.
+ 
+He looks back at the TV set. 
+FAST PAN/ZOOM INTO TV screen.
+ 
+
+SHANNON
+
+(on TV)
+Regrettably, 
+Mr Stone only has time for a few brief questions this morning as he is scheduled 
+to catch a plane to Zurich –
+ 
+
+REPORTERS
+
+(on TV)
+Tommy! Tommy! 
+Tommy!
+ 
+TRACK INTO screen, as music flares. 
+Tommy Stone bears a marked resemblance to Brian Slade.
+ 
+            CUT TO:
+ 
+EXT. NEW YORK STREETS – SUNSET – 1984
+ 
+Music continues as Arthur runs 
+through the rush hour crowds of New York.
+ 
+INT. NEWS ROOM CORRIDOR – NIGHT – 1984
+ 
+Arthur races down the shadow hallway 
+to Lou’s office. He knocks.
+
+ 
+
+ARTHUR
+Lou? Lou?
+ 
+He opens the door. It’s dark inside. 
+He hears a sound and looks back to the elevators.
+ 
+The doors are opening and Lou is 
+getting in.
+ 
+Lou!
+ 
+Arthur goes running down the hall.
+ 
+Lou! LOU!
+ 
+
+LOU
+I’m sorry, 
+Arthur. I’m late.
+ 
+
+ARTHUR
+Lou ! I think 
+I’m on to something.
+ 
+Lou presses a button and the doors 
+open.
+ 
+
+LOU
+What?
+ 
+
+ARTHUR
+Something 
+quite big. I think I know who Brian Slade is.
+ 
+
+LOU
+That story’s 
+been dropped.
+ 
+
+ARTHUR
+What? Why?
+ 
+The elevator doors are closing.
+ 
+
+LOU
+I need you on 
+the Stone show.
+ 
+
+ARTHUR
+But that’s 
+it–
+ 
+The doors close.
+ 
+
+ARTHUR
+What did they 
+say to you? Lou!
+ 
+A slow build of music begins.
+ 
+            RETURN TO:
+ 
+EXT. NEW YORK STREET – LATE DAY – 1984
+ 
+Arthur stares at a poster of Tommy 
+Stone on a bus stop.
+ 
+CLOSE ON Arthur, staring sadly. 
+Cheerless music begins rising ‘Gimme Danger’/Iggy and the Stooges.
+ 
+Music builds as we follow Arthur in 
+CLOSE UP, fighting back memories. Finally, he shuts his eyes.
+ 
+            DISSOLVE TO:
+ 
+INT. RAINBOW THEATRE – ON STAGE – NIGHT 
+– 1975
+ 
+Dark, golden glimpses of a sinewy 
+body, moving to the music.  The music heard is Curt performing his last song to 
+Brian, a mournful plea for submission. He is dressed only in tight fitting, 
+silver pants and throughout the song he cowers and crawls:
+ 
+CLOSE TRACK in to Arthur, watching 
+from the wings, surrounded by The Creatures.
+ 
+Curt sings with tender, ominous 
+restraint, letting loose only at the end.
+ 
+Mandy, also watches, by herself, from 
+the wings.
+ 
+On-stage Curt sings with seething 
+intensity.
+ 
+When the song finally erupts into a 
+swarm of guitars, Curt breaks into desperate thrashes across the stage.
+ 
+In the wings Arthur sneaks another 
+glance at:
+ 
+Mandy, watching Curt with a furrowed 
+brow. Suddenly she turns and looks out to the rear of the auditorium.
+ 
+Arthur follows her gaze.
+ 
+From the back of the house a figure 
+steps into view, silhouetted against the light of an exit door.
+ 
+Arthur squints to make it out.
+ 
+CLOSE, we see that it’s Brian.
+ 
+On-stage Curt’s thrashing continues. 
+Curt claws at himself and thrashes with desperate emotion, feeling and re-living 
+his pain. The song reaches a peak as the deep blue lights slowly fade to black. 
+Finally he huddles/collapses face down on stage. There is a split second of 
+silence before the crowd explodes.
+ 
+CLOSE ON Brian, who slips away.
+ 
+            CUT:
+ 
+INT. RAINBOW THEATRE – BACKSTAGE - 
+MOMENTS LATER – 1975
+ 
+In relative darkness, the Roadie is 
+clearing a path for the band to exit the stage, cornering Arthur. Dark, wet 
+bodies crash past.
+ 
+As Curt comes darting by, Mandy 
+suddenly bolts past the Roadie and grabs him.
+ 
+CLOSE ON Arthur, cornered by their 
+hug. He hears:
+ 
+
+MANDY
+That was 
+really beautiful
+ 
+
+CURT
+Yeah? Thanks.
+ 
+Houselights come up and Mandy and 
+Curt disengage, speaking quietly to one another.
+ 
+Arthur looks down, trying to listen 
+inconspicuously.
+ 
+
+(quietly)
+Did you...?
+ 
+
+MANDY
+
+(also quietly)
+No I didn’t 
+see him.
+ 
+Then she turns, catching sight of 
+Arthur.
+ 
+Curt looks up as well.
+ 
+Arthur stands caught, a doe-eyed 
+Maxwell Demon.
+ 
+For a moment, Curt is taken aback by 
+Arthur’s youthful homage.
+ 
+ 
+
+ARTHUR
+
+(voice-over)
+It’s only 
+now, looking back, that I see –
+ 
+            DISSOLVE TO:
+ 
+INT. RAINBOW THEATRE – LOBBY – NIGHT – 
+1975
+ 
+SLOW MOTION TRACK in to Curt, 
+surrounded by colourful figures and painted faces at a packed, post-show 
+reception. Everyone is laughing, drinking and grabbing one another, but the 
+colours have faded, the glitter worn, and a dark, Berlin-style decadence has set 
+in. TRACK ends as Curt looks up, spotting someone from across the room.
+ 
+MATCH TRACK in to Arthur, squeezed 
+into the corner of the lobby, trapped by Curt’s glance.
+ 
+
+ARTHUR
+
+(voice-over)
+-how you 
+patched through my walls and entered my life...in waves.
+ 
+Arthur looks down shyly and back up 
+again.
+ 
+Curt’s eyes are fixed.
+ 
+            FAST DISSOLVE TO:
+
+EXT. RAINBOW THEATRE ROOF – 4 A.M. – 1975
+ 
+CLOSE BACK-TRACK with Arthur as he 
+walks across the dark rooftop. Shadows pass over his face like a ghost.
+ 
+The music yields to Curt’s deep, 
+internal whisper.
+ 
+
+CURT
+
+(voice-over; slow, thoughtful)
+Come closer. 
+Don’t be frightened. What’s your name? Your favourite colour? Song. Movie. Don’t 
+be nervous. Are you high?
+ 
+Arthur whispers his response aloud, 
+half to himself:
+ 
+
+ARTHUR
+I’m on a 
+button.
+ 
+FAST DISSOLVE TO EARLIER:
+ 
+EXT. RAINBOW THEATRE – ROOF – EARLIER – 
+1975
+ 
+Wide 
+TRACK IN on Curt, who sits at the far end of the roof watching our 
+approach (Arthur’s POV during his previous walk).
+ 
+A voice returns but it’s Adult Arthur 
+we hear:
+ 
+
+ADULT ARTHUR
+
+(voice-over)
+He was 
+waiting for me. I’d followed his signals and slipped away and now – 
+suddenly –
+ 
+            FAST DISSOLVE TO:
+ 
+EXT. RAINBOW THEATRE – ROOFTOP – LATER – 
+1975
+ 
+Curt bursts up laughing, opening a 
+can of beer that sprays all over himself. He sits with Arthur at the far corner 
+of the roof, blushing with giggles.
+ 
+CLOSE ON Arthur’s face, speckled with 
+beer. Curt looks up.
+ 
+
+CURT
+Hey –
+ 
+Arthur follows, just catching sight 
+of:
+A falling star.
+ 
+ZOOM IN ON 
+CURT:
+ 
+Make a wish.
+ 
+            CUT TO:
+ 
+EXT. RAINBOW THEATRE – ROOF – LATER – 
+1975
+ 
+Music continues as we follow Curt’s 
+hand as it travels to Arthur and lands tenderly on his cheek.
+ 
+Arthur is pulling off his shirt, 
+standing over Curt who is also shirtless.
+ 
+            FAST DISSOLVE:
+ 
+EXT. RAINBOW THEATRE – ROOF – LATER – 
+1975
+ 
+EXTREME CLOSE-UP of Curt’s hand on 
+Arthur’s bare back, his cool white skin filling the screen. We follow it down.
+ 
+FAST CUT TO:
+ 
+EXT. RAINBOW THEATRE – ROOF – MORNING – 
+1975
+ 
+Curt laughing as someone (Arthur) 
+watches him pee.
+ 
+            FAST RETURN TO:
+ 
+EXT. RAINBOW THEATRE – ROOF – NIGHT – 
+1975
+ 
+In sweaty 
+CLOSE-UP, Curt sees something in the sky.
+ 
+
+CURT
+Hey –
+ 
+Arthur’s eye darts up. He sees:
+ 
+A luminous spacecraft, like the one 
+that passed over Old Dublin. It swirls over London with a thunderous boom – and vanishes.
+ 
+All that remains is a sky full of 
+glitterdust.
+ 
+CLOSE ON Curt’s lips, whispering 
+through the cascade.
+  
+A WIDE SHOT of the roof, now awash in 
+stardust, as the white bodies of Curt and Arthur are seen through the sparkles; 
+Curt behind Arthur, gently fucking. A long, slow CRANE Out begins, as music and 
+voices peak.
+ 
+And see 
+yourself, on-stage, inside-out. A tangle of garlands in your hair. Of course you 
+were pleasantly surprised.
+ 
+
+TEEN ARTHUR
+
+(voice-over)
+Softly, he 
+said...
+ 
+
+ALL THREE VOICES
+
+(whispering- Curt, Teen/Adult Arthur)
+I will mangle 
+your mind.
+ 
+We withdraw as the bodies of Curt and 
+Arthur are engulfed and the artificiality of the set intensifies, warping 
+perspective in the style of Caligari.
+ 
+INT. STAGE – GRAND BALLROOM SET – NIGHT
+ 
+The 
+TRACK continues, revealing the bombed-out remains of a grand ballroom, and 
+Brian, turning to the camera, dressed as a bejewelled Maxwell Demon. He begins 
+to sing (‘Tumbling Down’/Steve Harley Cockney Rebel), slowly descending a 
+gnarled staircase as we PULL OUT.
+ 
+He stops at a half-blown landing just 
+as a tattered chandelier is raised into frame. He mounts the shimmering beast, 
+and finds a wreath of flowers around its cable. As he ascends, he throws flowers 
+out to the ‘audience’ below.
+Maxwell Demon, is gone.
+ 
+            
+FAST CUT TO:
+ 
+INT. STADIUM SHOW – NEW YORK – NIGHT – 
+1984
+ 
+CLOSE ON Arthur’s closed eyes, 
+imagining the previous Maxwell Demon show.
+Arthur is in the audience of a Tommy 
+Stone concert, applauding, coming out of his reverie.
+ 
+Briefly:
+ 
+INT. STADIUM SHOW – ON-STAGE _ NIGHT – 
+1984
+ 
+We see the actual Show: Tommy Stone 
+in glitzy white garb, arms open, receiving applause and bouquets of flowers.
+ 
+            CUT TO:
+ 
+EXT. MADISON SQUARE GARDEN – NIGHT – 
+1984
+ 
+Arthur walks out of the theatre to 
+‘Dead Finks Don’t Talk’/Brian Eno. Fans are rushing past. Up ahead, a small 
+crowd has gathered around the stage door.
+ 
+There are cheers as Tommy Stone 
+appears.
+ 
+A huge spotlight is turned on to the 
+door.
+ 
+Arthur stops and watches.
+ 
+
+REPORTERS
+Tommy! Tommy! 
+Where did you get the idea for such a spectacular stadium show?
+ 
+
+TOMMY
+Tell you the 
+truth – it’s a bloody pain in the ass! The whole thing takes six full size rigs 
+or three chartered planes to transport. What can I say? I think big!
+ 
+Arthur approaches the crowd.
+ 
+
+REPORTERS
+Tommy! What’s 
+your opinion on the work of President Reynolds has been doing-
+ 
+
+TOMMY
+Excellent. 
+Excellent. I think he’s doing brilliant work. He’s a – tremendous leader, a 
+tremendous spokesperson for the needs of the nation today –
+ 
+Suddenly Arthur yells out over the 
+others:
+ 
+
+ARTHUR
+Tommy! What 
+is your response to the recent allegations connecting you to bisexual pop singer 
+Brian Slade, who staged his own assassination ten years ago this week in London?
+ 
+Tommy is white.
+ 
+Reporters swarm as Arthur watches.
+ 
+Tommy, devoured by Security Men, 
+whisked away. Shannon is suddenly at the mike.
+ 
+
+SHANNON
+I’m sorry, 
+ladies and gentlemen, that’s all the questions Mr Stone has time for this 
+evening. Thank you very much – 
+ 
+Arthur, still behind the chaos of 
+Reporters.
+ 
+CUT TO:
+ 
+INT. TOMMY’S DRESSING ROOM – NEW YORK – 
+NIGHT – 1984
+ 
+Music as we follow Shannon and 
+various Assistants escorting Tommy back to his dressing room.
+ 
+In the background TV news is heard:
+ 
+
+TV
+Tonight, the 
+Tri-State Area pulls out all the stops in welcoming pop superstar Tommy Stone to 
+Madison Square Garden. Stone is promoting his Grammy-winning release, ‘People 
+Rockin’ People’, to sold-out arenas worldwide...
+ 
+Tommy is silent then in the midst of 
+a cool panic.
+ 
+
+SHANNON
+
+(to everyone in the room, but Brian)
+Get Out! Now! 
+Shut the door!
+ 
+CLOSE ON Shannon, eyes shut, as 
+people clear. When the door closes we hear a squeal like Little Richard’s coming 
+from the TV.
+ 
+Tommy looks over.
+ 
+TV SCREEN
+ 
+The news broadcast of the Tommy Stone 
+concert cuts to a clip. Suddenly Tommy Stone in white tuxedo turns to camera: 
+the younger ‘Brian Slade’ dressed as stone turns back, glaring almost 
+sinisterly, taunting him through the airwaves.
+ 
+MATCH TRACK into Tommy, looking 
+precisely as if he’s seen a ghost.
+ 
+Rising music suddenly ends:
+ 
+            CUT TO:
+ 
+INT. MIDTOWN BAR – NEW YORK – NIGHT – 
+1984
+ 
+The door shuts behind Arthur in a 
+dark mid-town bar.
+ 
+Everyone looks up. There is a strange 
+between-songs silence.
+ 
+Arthur proceeds, self consciously.
+ 
+A Tommy Stone song beings on the 
+jukebox. (‘People Rockin’ People’/Shudder To Think) but people in the bar 
+continue staring at Arthur.
+ 
+He approaches the bar.
+ 
+
+ARTHUR
+Beer, please.
+ 
+Arthur notices a group of mostly 
+black Teenagers, decked out in Tommy Stone gear. They whisper to each other. One 
+Teenage Girl starts walking over.
+ 
+The Bartender hands Arthur his beer, 
+staring all the while at Arthur’s jacket.
+ 
+Arthur realizes he’s still wearing 
+his press pass and starts taking it off.
+ 
+
+TEENAGE GIRL
+Excuse me, 
+sir. Are you with the Tommy Stone Tour?
+ 
+
+ARTHUR
+No. I’m just 
+a journalist. Perhaps you’d like my press pass as a souvenir?
+ 
+Her eyes widen. Arthur hands her the 
+pass.
+ 
+
+TEENAGE GIRL
+Thanks, 
+Mister.
+ 
+She squeals and runs back to show her 
+friends as Arthur turns and walks deeper into the long, narrow bar.
+ 
+He passes the jukebox, and discovers 
+a second bar in the back: smaller and moodier. A man in a leather jacket is 
+drinking along.
+ 
+Arthur stops. He can’t believe his 
+eyes.
+ 
+It’s Curt Wild, folding a Tommy Stone 
+guest pass into origami.
+ 
+Arthur smiles and starts advancing 
+before even deciding to.
+ 
+Curt looks up. He just glares.
+ 
+
+ARTHUR
+You’re Curt 
+Wild.
+ 
+
+CURT
+
+(irritable)
+Yeah? Who the 
+hell are you?
+ 
+Brief silence.
+ 
+
+ARTHUR
+I’m a 
+journalist. From the Herald. You were at the concert?
+ 
+Curt just stares at him.
+ 
+It’s just 
+funny because...well, I was just trying to contact you actually. For a story I 
+was doing –
+ 
+Curt has now turned away.
+ 
+-about an old 
+friend of yours? Brian Slade?
+ 
+Curt looks up for a moment, hiding 
+his interest.
+ 
+Was trying to 
+find out...what actually happened to him.
+ 
+
+CURT
+Look –
+ 
+
+ARTHUR
+I mean, 
+before he became –
+ 
+Curt stops.
+ 
+Tight on Arthur, peeking up at him.
+ 
+-such a 
+mystery.
+ 
+Curt snorts out a sudden guffaw.
+ 
+
+CURT
+Look, man, I 
+don’t know who you’ve been talking to or what you’re after here, but...
+
+(trails off)
+ 
+
+ARTHUR
+What?
+ 
+Curt looks away again..
+ 
+What?
+ 
+
+CURT
+Listen – a 
+real artist creates beautiful things and...puts nothing of his won life into 
+them. Okay?
+ 
+
+ARTHUR
+Is that what 
+you did?
+ 
+
+CURT
+No.
+
+(brief silence)
+We set out to 
+change the world and ended up...just changing ourselves.
+ 
+
+ARTHUR
+What’s wrong 
+with that?
+ 
+
+CURT
+Nothing.
+
+(silence)
+If you don’t 
+look at the world.
+ 
+Quiet music under slow 
+PAN past kids gathered at the jukebox, cliques of Tommy Stone fans, 
+conservative, bored. One gay Latino Boy sits braiding a girls hair. End on a 
+huge Tommy Stone poster.
+ 
+
+(off-screen)
+Well, I guess 
+in the end he got what he wanted.
+ 
+Curt stands in though another beat 
+before slipping on his jacket and downing his beer.
+ 
+CLOSE ON Arthur looking up at him 
+with a distant smile.
+ 
+
+ARTHUR
+That’s quite 
+a – pin you got there.
+ 
+CLOSE ON Curt’s jacket: the antique 
+emerald pin sparkles green.
+ 
+
+CURT
+Oh yeah.
+ 
+
+ARTHUR
+Is it old?
+ 
+
+CURT
+
+(examining it)
+Possibly. It 
+belonged to Oscar Wilde. Or so I was told by the person who gave it to me.
+ 
+Arthur’s eyes flash up. The shimmer 
+swells. 
+ 
+This friend 
+of mine who kinda...disappeared...some years back.
+
+ 
+Extreme 
+CLOSE-UP of Curt.
+
+(very far-away)
+I forget 
+where we were. On a trip. But he says to me, ‘Curt...
+ 
+            FLASH TO:
+EXT. BEACH – DAY – 1973
+ 
+A bleached-out image of Brian and 
+Curt on some beach.
+ 
+From a great distance, Brian is 
+pinning something on Curt’s shirt.
+ 
+
+CURT
+
+(voice-over)
+...A man’s 
+life is his image.’
+ 
+            CUT TO:
+ 
+Brief silent shots:
+ 
+EXT. RAINBOW THEATRE – ROOF – MORNING – 
+1975
+ 
+Urine streaming in a puddle.
+ 
+CLOSE ON Teenage Arthur watching Curt 
+from behind. The remains of his Maxwell Demon make-up sully his face.
+ 
+Curt, standing peeing, turns.
+ 
+            BACK TO:
+ 
+INT. MID-TOWN BAR – NEW YORK – NIGHT – 
+1984
+ 
+The emerald pin, rolling loose in the 
+palm of Curt’s hand.
+ 
+
+CURT
+Here. Why 
+don’t you hang on to it?
+ 
+FLASH UP to Arthur’s face.
+ 
+
+ARTHUR
+Me?
+ 
+
+CURT
+Why not? I’ve 
+had it too long anyway. Go ahead.
+ 
+Curt puts it in Arthur’s hand. Arthur 
+looks down at it, speechless.
+ 
+
+(tenderly)
+For your 
+image.
+ 
+Curt stands up, getting ready to go.
+ 
+Arthur looks up at him, shaking his 
+head.
+ 
+Briefly: coins are pushed through 
+slots, jukebox buttons pressed.
+ 
+
+ARTHUR
+Really. I 
+couldn’t. But thanks.
+ 
+Arthur returns the pin with a polite 
+smile.
+ 
+Briefly: a jukebox forty-five drops 
+into place.
+ 
+Curt takes the pin, pockets it.
+ 
+The introduction to ‘2HB’/Roxy Music 
+begins on the jukebox.
+ 
+BACK TO Arthur, CLOSE, who 
+turns toward the jukebox.
+The gay Latino Boy Teen recognizes 
+the song.
+ 
+
+LATINO BOY
+Oh God, I 
+love this song. Do you know this song?
+ 
+
+GIRL
+I don’t think 
+so.
+ 
+Arthur turns back to Curt.
+ 
+
+CURT
+Anyway.
+ 
+
+ARTHUR
+Yeah.
+ 
+
+CURT
+See ya 
+around.
+ 
+
+ARTHUR
+Cheers.
+ 
+Curt nods with a strange smile and 
+turns. Arthur watches him go. He reaches for his beer and finishes it off – and 
+nearly gags. He spits something out in his hand.
+ 
+CLOSE ON the palm of his hand: the 
+emerald pin lies covered in beer spittle.
+ 
+Arthur smiles, looking up in Curt’s 
+direction.
+ 
+EXTREME CLOSE-UP of Arthur.
+ 
+
+ARTHUR
+
+(voice-over)
+He called it 
+freedom.
+ 
+Briefly: Silent shots.
+ 
+EXT. RAINBOW THEATRE – ROOF – MORNING – 
+1975
+ 
+Curt, turning to camera while taking 
+a piss (as before) Arthur, stretched out on the mattress, laughs.
+ 
+            RETURN TO:
+ 
+INT. MID-TOWN BAR – NEW YORK – NIGHT – 
+1984
+ 
+Slow 
+EXTREME CLOSE UP around Arthur’s face, starring into the past.
+ 
+
+ARTHUR
+
+(voice-over)
+A freedom you 
+can allow yourself.
+ 
+Arthur glances into the main bar.
+ 
+Or not.
+ 
+The first 
+verse begins (sung by Jack Fairy), as Arthur closes the pin in his hand.
+ 
+
+JACK
+
+(singing)
+Oh, I was 
+moved by a screen dream...
+ 
+            DISSOLVE TO:
+ 
+INT. RAINBOW THEATRE – NIGHT – 1975
+ 
+Jack Fairy performs the glam-rock 
+anthem with regal pathos, at the Death of Glitter Show.
+ 
+Jack stands  at the edge of the stage 
+under a single spot.
+ 
+Arthur stands crushed in a corner, 
+swaying to the music with Ray, Pearl and Billy.
+ 
+Slow 
+TRACK IN on Mandy, watching from the wings.
+ 
+We ascend, rising up from the stage, 
+as a mist of glitter begins to fall. We pass the faces of glitter legends, 
+projected onstage: Maxwell, Brian, Curt, Jack, Polly. We continue, rising into 
+the darkness.
+ 
+            DISSOLVE TO:
+ 
+EXT. RAINBOW THEATRE – ROOF – DAWN – 
+1975
+ 
+We pass through to the roof where it 
+is dawn and snowing. Curt and Arthur are there, hanging out after sex. They turn 
+in our direction but we continue our ascent.
+
+ 
+            DISSOLVE THROUGH:
+
+A series of shots:
+ 
+EXT. LONDON STREETS – DAY – 1974
+ 
+Shots of busy Londoners on their way 
+to work.
+ 
+MONTAGE OF FACES (FROM BEGINNING)
+ 
+The three Young Punks, singing along 
+to the chorus.
+ 
+Two London Girls, arm in arm, 
+singing.
+ 
+The faces of New York Street Kids, 
+looking up, some sadly, some angrily.
+ 
+Boy with Crew Cut, eyes closed sings 
+a held note to the skies
+ 
+LONDON PUB – NIGHT – 1974
+ 
+The song’s chorus continues through a 
+small transistor radio from which we TRACK, 
+revealing a candle-lit pub during the 1974 miners’ strikes.
+ 
+TRACK past the warm, flickering faces 
+of Patrons, pints in hand, gazing solemnly toward the music.
+ 
+HARD CUT TO BLACK:
+‘Make Me Smile’/Steve Harley Cockney 
+Rebel over closing credits.
+ 
+ 
+ 
+ BACK 
+TO MOULIN GOLDMINE!
+
+*If you enjoyed reading this, 
+please sign the guestbook and let us know!*
+ 
+
+geovisit();
+
+
