@@ -27,35 +27,6 @@ class Appearance:
         return str(self.__dict__)
 
 
-class Database:
-    """
-    In memory database representing the already indexed documents.
-    """
-
-    def __init__(self):
-        self.db = dict()
-
-    def __repr__(self):
-        """
-        String representation of the Database object
-        """
-        return str(self.__dict__)
-
-    def get(self, id):
-        return self.db.get(id, None)
-
-    def add(self, document):
-        """
-        Adds a document to the DB.
-        """
-        return self.db.update({document['id']: document})
-
-    def remove(self, document):
-        """
-        Removes document from DB.
-        """
-        return self.db.pop(document['id'], None)
-
 
 def from_doc_to_terms(doc):
     """
@@ -71,9 +42,8 @@ class InvertedIndex:
     Inverted Index class.
     """
 
-    def __init__(self, db, preprocess=False):
+    def __init__(self, preprocess=False):
         self.index = dict()
-        self.db = db
         self.preprocess = preprocess
 
     def __repr__(self):
@@ -121,6 +91,17 @@ class InvertedIndex:
             return {term: self.index[term] for term in from_doc_to_terms(query) if term in self.index}
         else:
             return {term: self.index[term] for term in query.split(' ') if term in self.index}
+    
+
+def combine_indices(index1, index2):
+    new_index = InvertedIndex(preprocess=False)
+    new_index.index = index1.index
+    for key in index2.index.keys():
+        if key in new_index.index:
+            new_index.index.append(index2.index[key])
+        else:
+            new_index[key] = index2.index[key]
+    return new_index
 
 
 def highlight_term(id, term, text):
@@ -144,8 +125,7 @@ def load_documents():
 
 if __name__ == '__main__':
     print('Hello World!')
-    db = Database()
-    index = InvertedIndex(db, False)
+    index = InvertedIndex(preprocess=False)
     documents = load_documents()
     for document in documents:
         index.index_document(document)
@@ -157,9 +137,10 @@ if __name__ == '__main__':
         search_term = input("Enter term(s) to search: ")
         result = index.lookup_query(search_term)
 
-        for term in result.keys():
-            for appearance in result[term]:
-                # Belgium: { doc_id: 1, frequency: 1}
-                document = db.get(appearance.doc_id)
-                print(highlight_term(appearance.doc_id, term, document['text']))
-            print("-----------------------------")
+        # TODO: Print out text from found documents
+        #for term in result.keys():
+        #    for appearance in result[term]:
+        #        # Belgium: { doc_id: 1, frequency: 1}
+        #        document = db.get(appearance.doc_id)
+        #        print(highlight_term(appearance.doc_id, term, document['text']))
+        #    print("-----------------------------")
