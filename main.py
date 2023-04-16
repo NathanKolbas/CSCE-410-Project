@@ -100,7 +100,7 @@ def combine_indices(index1, index2):
         if key in new_index.index:
             new_index.index.append(index2.index[key])
         else:
-            new_index[key] = index2.index[key]
+            new_index.index[key] = index2.index[key]
     return new_index
 
 
