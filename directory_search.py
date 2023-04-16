@@ -1,9 +1,16 @@
 import glob
 import os
 
+from inverted_index import InvertedIndex
+
 
 def get_movie_list(root):
     movies = glob.glob('**/*.txt', root_dir=root, recursive=True)
+    return movies
+
+
+def get_index_files(root):
+    movies = glob.glob(f'**/*{InvertedIndex.extension}', root_dir=root, recursive=True)
     return movies
 
 
