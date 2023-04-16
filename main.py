@@ -1,107 +1,24 @@
-import re
+import argparse
 import os
 
-import nltk
-from nltk.corpus import stopwords
-
-nltk.download('stopwords')
-nltk.download('punkt')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
+from directory_search import get_movie_list
+from inverted_index import InvertedIndex
 
 
-class Appearance:
-    """
-    Represents the appearance of a term in a given document, along with the
-    frequency of appearances in the same one.
-    """
+# Setup commandline args
+parser = argparse.ArgumentParser(
+    prog='TODO Change Later: Some kind of special index',
+    description='Build an index for all files in a directory',
+    epilog=' - A Team of Softies',
+)
 
-    def __init__(self, doc_id, frequency):
-        self.doc_id = doc_id
-        self.frequency = frequency
+# The starting directory, defaults to CWD. Can specify a relative path to the CWD.
+parser.add_argument('-d', '--dir', default=os.getcwd(), type=str)
+# If the index should be built
+parser.add_argument('-c', '--compile')
 
-    def __repr__(self):
-        """
-        String representation of the Appearance object
-        """
-        return str(self.__dict__)
-
-
-
-def from_doc_to_terms(doc):
-    """
-    Takes a doc (giant string) and gets the terms
-    """
-    tokens = nltk.word_tokenize(doc.strip())
-    tokens = [word.lower() for word in tokens if word.isalnum() and word.lower() not in stopwords.words('english')]
-    return tokens
-
-
-class InvertedIndex:
-    """
-    Inverted Index class.
-    """
-
-    def __init__(self, preprocess=False):
-        self.index = dict()
-        self.preprocess = preprocess
-
-    def __repr__(self):
-        """
-        String representation of the Database object
-        """
-        return str(self.index)
-
-    def index_document(self, document):
-        """
-        Process a given document, save it to the DB and update the index.
-        """
-        if self.preprocess:
-            terms = from_doc_to_terms(document['text'])
-            appearances_dict = dict()
-            for term in terms:
-                appearances_dict[term] = Appearance(document['id'], 0)
-        else:
-            # Remove punctuation from the text.
-            clean_text = re.sub(r'[^\w\s]', '', document['text'])
-            terms = clean_text.split(' ')
-            appearances_dict = dict()
-            # Dictionary with each term and the frequency it appears in the text.
-            for term in terms:
-                term_frequency = appearances_dict[term].frequency if term in appearances_dict else 0
-                appearances_dict[term] = Appearance(document['id'], term_frequency + 1)
-
-        # Update the inverted index
-        update_dict = {key: [appearance]
-        if key not in self.index
-        else self.index[key] + [appearance]
-                       for (key, appearance) in appearances_dict.items()}
-        self.index.update(update_dict)
-        # Add the document into the database
-        self.db.add(document)
-        return document
-
-    def lookup_query(self, query):
-        """
-        Returns the dictionary of terms with their correspondent Appearances.
-        This is a very naive search since it will just split the terms and show
-        the documents where they appear.
-        """
-        if self.preprocess:
-            return {term: self.index[term] for term in from_doc_to_terms(query) if term in self.index}
-        else:
-            return {term: self.index[term] for term in query.split(' ') if term in self.index}
-    
-
-def combine_indices(index1, index2):
-    new_index = InvertedIndex(preprocess=False)
-    new_index.index = index1.index
-    for key in index2.index.keys():
-        if key in new_index.index:
-            new_index.index.append(index2.index[key])
-        else:
-            new_index.index[key] = index2.index[key]
-    return new_index
+# The commandline args
+args = parser.parse_args()
 
 
 def highlight_term(id, term, text):
@@ -123,24 +40,54 @@ def load_documents():
     return docs
 
 
+def load_document(f_path):
+    with open(f_path, 'r', encoding="utf8", errors='ignore') as textfile:
+        data = textfile.read().replace('\n', ' ').strip()
+        return {
+            'id': f_path,
+            'text': data
+        }
+
+
 if __name__ == '__main__':
-    print('Hello World!')
-    index = InvertedIndex(preprocess=False)
-    documents = load_documents()
-    for document in documents:
+    print('------ STARTING ------')
+    is_absolute_path = os.path.isabs(args.dir)
+
+    # The root path to start at
+    root_path = args.dir if is_absolute_path else os.path.join(os.getcwd(), args.dir)
+
+    # The relative path from the root
+    movie_paths = get_movie_list(root_path)
+    # The full path to the movies
+    movie_paths_full = [os.path.join(root_path, p) for p in movie_paths]
+
+    print(movie_paths)
+    print(movie_paths_full)
+
+    for path in movie_paths:
+        index = InvertedIndex(preprocess=False)
+        document = load_document(path)
         index.index_document(document)
+        print(index.index)
 
-    print(index.db)
-    print(index.index)
 
-    while True:
-        search_term = input("Enter term(s) to search: ")
-        result = index.lookup_query(search_term)
-
-        # TODO: Print out text from found documents
-        #for term in result.keys():
-        #    for appearance in result[term]:
-        #        # Belgium: { doc_id: 1, frequency: 1}
-        #        document = db.get(appearance.doc_id)
-        #        print(highlight_term(appearance.doc_id, term, document['text']))
-        #    print("-----------------------------")
+    # print('Hello World!')
+    # db = Database()
+    # index = InvertedIndex(db, False)
+    # documents = load_documents()
+    # for document in documents:
+    #     index.index_document(document)
+    #
+    # print(index.db)
+    # print(index.index)
+    #
+    # while True:
+    #     search_term = input("Enter term(s) to search: ")
+    #     result = index.lookup_query(search_term)
+    #
+    #     for term in result.keys():
+    #         for appearance in result[term]:
+    #             # Belgium: { doc_id: 1, frequency: 1}
+    #             document = db.get(appearance.doc_id)
+    #             print(highlight_term(appearance.doc_id, term, document['text']))
+    #         print("-----------------------------")
