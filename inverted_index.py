@@ -1,4 +1,7 @@
-import re
+import json
+import os
+from types import SimpleNamespace
+
 import nltk
 from nltk.corpus import stopwords
 
@@ -35,7 +38,7 @@ def from_doc_to_terms(doc):
 
 
 def combine_indices(index1, index2):
-    new_index = InvertedIndex(preprocess=False)
+    new_index = InvertedIndex()
     new_index.index = index1.index
     for key in index2.index.keys():
         if key in new_index.index:
@@ -50,9 +53,10 @@ class InvertedIndex:
     Inverted Index class.
     """
 
-    def __init__(self, preprocess=False):
+    extension = '.index'
+
+    def __init__(self):
         self.index = dict()
-        self.preprocess = preprocess
 
     def __repr__(self):
         """
@@ -64,20 +68,10 @@ class InvertedIndex:
         """
         Process a given document, save it to the DB and update the index.
         """
-        if self.preprocess:
-            terms = from_doc_to_terms(document['text'])
-            appearances_dict = dict()
-            for term in terms:
-                appearances_dict[term] = Appearance(document['id'], 0)
-        else:
-            # Remove punctuation from the text.
-            clean_text = re.sub(r'[^\w\s]', '', document['text'])
-            terms = clean_text.split(' ')
-            appearances_dict = dict()
-            # Dictionary with each term and the frequency it appears in the text.
-            for term in terms:
-                term_frequency = appearances_dict[term].frequency if term in appearances_dict else 0
-                appearances_dict[term] = Appearance(document['id'], term_frequency + 1)
+        terms = from_doc_to_terms(document['text'])
+        appearances_dict = dict()
+        for term in terms:
+            appearances_dict[term] = Appearance(document['id'], 0)
 
         # Update the inverted index
         update_dict = {key: [appearance]
@@ -93,7 +87,31 @@ class InvertedIndex:
         This is a very naive search since it will just split the terms and show
         the documents where they appear.
         """
-        if self.preprocess:
-            return {term: self.index[term] for term in from_doc_to_terms(query) if term in self.index}
-        else:
-            return {term: self.index[term] for term in query.split(' ') if term in self.index}
+        return {term: self.index[term] for term in from_doc_to_terms(query) if term in self.index}
+
+    @staticmethod
+    def open(file: str):
+        """
+        Opens the stored Index and returns the object if it exists. Otherwise, None.
+        """
+        if not os.path.exists(file):
+            return None
+
+        with open(file, 'r', encoding="utf8", errors='ignore') as textfile:
+            data = textfile.read()
+            return InvertedIndex.from_json(data)
+
+    @staticmethod
+    def from_json(data: str):
+        return json.loads(data, object_hook=lambda d: SimpleNamespace(**d))
+
+    def to_json_str(self) -> str:
+        return json.dumps(self, default=lambda o: o.__dict__)
+
+    def save(self, f_path):
+        file = f'{f_path}{self.extension}'
+        with open(file, 'w', encoding="utf8", errors='ignore') as textfile:
+            textfile.write(self.to_json_str())
+
+    def reset(self):
+        self.index.clear()

@@ -1,8 +1,5 @@
 import glob
 import os
-import sys
-import datetime
-import pathlib
 
 
 def get_movie_list(root):
