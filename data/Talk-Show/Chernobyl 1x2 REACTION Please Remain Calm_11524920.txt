@@ -1,0 +1,3369 @@
+CHERNOBYL
+
+Episode 2 - "Please Remain Calm"
+
+Written by
+
+Craig Mazin
+
+September 21, 2018
+
+Copyright© 2018 Home Box Office, Inc. ALL RIGHTS RESERVED
+
+NO PORTION OF THIS SCRIPT MAY BE PERFORMED, PUBLISHED,
+REPRODUCED, EXHIBITED, SOLD OR DISTRIBUTED BY ANY MEANS, OR
+QUOTED OR PUBLISHED IN ANY MEDIUM, INCLUDING ON ANY
+WEBSITE, WITHOUT PRIOR WRITTEN CONSENT OF HOME BOX OFFICE,
+INC. THIS MATERIAL IS THE PROPERTY OF HOME BOX OFFICE, INC.
+AND IS INTENDED FOR AND RESTRICTED TO USE BY HOME BOX
+OFFICE, INC. ONLY. DISTRIBUTION OR DISCLOSURE OF THIS
+MATERIAL TO UNAUTHORIZED PERSONS IS PROHIBITED.
+201
+
+202
+
+203
+
+OVER BLACK 201
+
+Stodgy classical music, played through a tinny radio
+speaker. Over it, a voice begins to recite poetry:
+
+VOICE (ON RADIO)
+You know I believe that the Russia
+we fight for / is not the dull town
+where I lived at a loss /
+
+EXT. BYELORUSIAN INST. FOR NUCLEAR ENERGY - MORNING 202
+
+We PAN across an empty parking lot until we find a single
+car, a Lada Riva-- there all by itself in front of a drab,
+generic Soviet building on the outskirts of a city.
+
+VOICE (ON RADIO)
+But those country tracks our ancestors
+followed / the graves where they lie
+with the old Russian cross /
+
+TITLE:
+8:30 A.M., APRIL 26
+7 HOURS AFTER THE EXPLOSION
+INT. LABORATORY - CONTINUOUS 203
+
+A large room with multiple lab desks, sinks, cabinets and
+racks of scientific equipment, periodic table charts on the
+walls, labels with the familiar RADIATION sign...
+
+VOICE (ON RADIO)
+I feel that for me, it was countryside
+Russia / that first made me feel I
+must truly belong / to the tedious
+miles between village and village /
+the tears of the widow, the women's
+sad song /
+
+The room is empty but for: A WOMAN, 40's - FACE DOWN at a
+table, her salt-and-pepper hair splayed around her head.
+Next to her, a stack of technical documents. Coffee cup.
+Half-eaten sandwich. Soviet poetry droning from a RADIO.
+
+We PUSH IN on her. She might be dead.
+
+VOICE (ON RADIO)
+We see alongside us the deaths of
+our comrades / by old Russian
+practice, soldiers laid end to end /
+We stay on the woman. Hear the SOUND of the lab door opening.
+
+VOICE (ON RADIO)
+And yet I still feel proud of the
+dearest of countries / The great
+bitter land I was born to defend.
+
+Someone enters. Drops a small paper bag next to her HEAD.
+VOICE (ON RADIO)
+That was Konstantin Simonov's poem
+"to Alexei Surkov," written in--
+
+CLICK. The unseen person turns the radio off, and ULANA
+KHOMYUK, the sleeping woman, raises her head.
+
+KHOMYUK
+(disoriented)
+Whumm?
+DMITRI, 30, puts a THERMOS in front of her.
+
+DMITRI
+You work too hard.
+
+Khomyuk rubs her face. Checks her watch. Then looks around.
+
+KHOMYUK
+Where is everyone?
+DMITRI
+They refused to come in.
+KHOMYUK
+Why?
+DMITRI
+
+It's Saturday.
+Oh. Right. Then:
+
+KHOMYUK
+Why did you come in?
+
+DMITRI
+I work too hard.
+(wipes his brow)
+Uch, it's boiling in here.
+
+He crosses to a WINDOW. He LIFTS the window OPEN, and
+almost instantly:
+
+BEEEEEEEEEEEEEE
+204
+
+205
+
+Dmitri and Khomyuk turn in adrenaline shock to: a DOSIMETER
+mounted on the wall. A split second, then:
+
+Dmitri SLAMS the window shut. Then rushes to the dosimeter.
+Presses a button to silence the alarm. Reads the meter.
+
+DMITRI
+Eight milliroentgen. What-- ?
+
+Dmitri anxiously glances at a METAL CASE with radiation
+stickers. Inside, boxes and tubes.
+
+DMITRI
+A leak?
+
+Khomyuk hasn't taken her eyes off the window. Wide awake
+now.
+
+KHOMYUK
+No. It would have gone off before.
+It's coming from outside.
+Dmitri sits down. Has the unthinkable finally happened?
+
+DMITRI
+The Americans?
+
+IN CUTS - Khomyuk opens her drawer, pulls out a PILL
+CONTAINER. Takes one pill. Then tosses him the bottle.
+
+Snaps on LATEX GLOVES. Tears open a PACKET. A sterile WET
+WIPE sample cloth is removed, folded...
+
+Khomyuk WIPES along the SILL of the WINDOW in an "Ss"
+
+pattern, pressing firmly, picking up dust, and then we're:
+
+INT. HALLWAY 204
+Khomyuk strides with purpose down the empty hall, sample in
+
+hand. There's iron in this woman.
+
+INT. SPECTOMETRY ROOM 205
+THE SPECTROMETER - HUMS - Khomyuk stares at the screen.
+
+Eyes flickering over the spiking lines. One line spikes
+
+much higher than the other.
+
+And just like that, she knows.
+206
+
+INT. LABORATORY 206
+
+Khomyuk barrels back into the lab, startling the waiting
+Dmitri. She thrusts the SPECTROMETER PRINTOUT at him.
+
+KHOMYUK
+Iodine 131. It's not military. It's
+uranium decay. U-235.
+
+DMITRI
+Reactor fuel.
+
+He looks at her. Then catches up. A sick realization.
+
+DMITRI
+Ignalina. Maybe 240 kilometers away.
+
+She turns to a shelf of BINDERS... pulls one, flips pages.
+There. She picks up the lab phone. Dials a number.
+
+IGNALINA OPERATOR (PHONE)
+(rushed, loud)
+Hello?
+
+KHOMYUK
+Yes, this is Ulana Khomyuk with the
+Institute of Nuclear--
+
+IGNALINA OPERATOR (PHONE)
+You don't think we already know?
+We're looking for it!
+
+KHOMYUK
+Looking for--
+
+IGNALINA OPERATOR (PHONE)
+We've got 4 milliroentgen here, I've
+got men crawling over the whole
+plant... no steam leak, no water
+leak, nothing! We can't--
+
+KHOMYUK
+All right, stay calm.
+
+IGNALINA OPERATOR (PHONE)
+Don't tell me to stay calm, I want
+to evacuate, Moscow tells us we
+can't, and now you call? Who the
+hell are you anyway--
+
+Khomyuk hangs up on him. No time for this.
+KHOMYUK
+They're at 4. It's not them. Who's
+the next closest?
+
+DMITRI
+(shakes his head)
+Chernobyl. But that's not possible,
+it's 400 kilometers away.
+
+KHOMYUK
+No, too far for 8 milliroentgen.
+They'd have to be split open. But
+maybe they know something.
+
+She finds the number in her directory, and dials. We hear
+the other end - ring ring. As they wait:
+
+DMITRI
+Could it be a waste dump?
+
+KHOMYUK
+We'd be seeing other isotopes.
+
+ring ring... ring ring...
+
+DMITRI
+Nuclear test? New kind of bomb?
+
+KHOMYUK
+We would have heard. That's what
+half our people work on here.
+
+ring ring... ring ring...
+
+DMITRI
+Something with the space program?
+Like a satellite or-- what are they
+saying down there?
+
+KHOMYUK
+I don't know. No one's answering the
+phone.
+
+Khomyuk and Dmitri realize at the same time. She puts the
+receiver down on the table, and now he can hear it too.
+
+ring ring... ring ring... ring ring... ring ring...
+Oh god.
+
+The ring of the the unanswered phone grows LOUDER and
+LOUDER, blending into the sound of A SIREN as we CUT TO:
+207
+
+208
+
+209
+
+EXT. PRIPYAT HOSPITAL - MORNING 207
+An EMERGENCY VEHICLE screeches to a halt in front of the
+building. We follow-- handheld-- chaos-- as emergency
+workers WHEEL a patient rapidly into:
+INT. PRIPYAT HOSPITAL - ENTRANCE - CONTINUOUS 208
+Madness. A war zone. The building is choked with people:
+firemen, plant workers, men, women, children, babies...
+Some people are vomiting. Others are passed out. Children
+screaming. ZINCHENKO pushes through the crowd. Issuing
+instructions to a frantic PRIPYAT NURSE who follows her.
+ZINCHENKO
+Get everyone started on an IV.
+PRIPYAT NURSE
+We don't have enough.
+ZINCHENKO
+All the children then.
+PRIPYAT NURSE
+We don't have enough.
+ZINCHENKO
+(snaps)
+As many as you can! Just--
+(looks around)
+Where's the old man?
+PRIPYAT NURSE
+He's set up a burn ward in 16.
+Shit. Zinchenko leaves the panicking nurse...
+INT. MAKESHIFT BURN WARD - MOMENTS LATER 209
+
+Men on gurneys. Some are screaming in pain.
+
+Zinchenko ENTERS... wobbles slightly in a puddle of vomit
+on the floor. Fuck. Regains her balance and sees:
+
+THE OLD DOCTOR - dabbing at VASILY'S FACE with a wet
+sponge, which he's dipping in a basin of WHITE FLUID.
+
+ZINCHENKO
+What are you doing? What is that?
+210
+
+211
+
+OLD DOCTOR
+Milk. Much better than water.
+
+My god. Zinchenko scans the men. We recognize Vasily.
+Akimov. Toptunov. Sees the patterns of the burns on their
+skin. Bodies swollen. Skin strangely tanned. Dark.
+
+Zinchenko grabs the sponge out of the old doctor's hand.
+Flings it aside. Then starts PULLING Vasily's BOOTS off.
+
+OLD DOCTOR
+Have you lost your mind?
+
+ZINCHENKO
+These are radiation burns. Their
+clothes are contaminated.
+Everyone stares in silence. Until:
+
+ZINCHENKO
+HELP ME.
+
+The nurses are jarred into action. As they strip away
+pants, jackets, helmets, shirts, socks, underwear...
+
+ZINCHENKO
+Get it all off. We're taking it down
+to the basement.
+
+The old doctor watches in utter confusion. The basement?
+
+INT. THE BASEMENT - MOMENTS LATER 210
+Feet STAMPEDE down the winding stairway.
+
+EQUIPMENT and CLOTHING hits the concrete floor in a jumbled
+
+pile. The nurses run back up for more as other nurses come
+
+down and toss more clothing.
+
+Zinchenko hurls her handful of clothing to the floor. Then
+winces. Checks her hand where she was holding Vasily's
+
+BOOT. Her palm is already BRIGHT RED.
+
+She looks up to see a nurse staring. Are you all right?
+
+ZINCHENKO
+Let's get the rest.
+
+Zinchenko heads back for more. The nurse follows, and:
+
+OMITTED 211
+212
+
+213
+
+EXT. HOSPITAL FRONT DOORS - CONTINUOUS 212
+
+A MOB of angry people are yelling and pleading with: A LINE
+OF MILITARY POLICE, some with guns, some holding clubs.
+
+HOSPITAL SOLDIER
+We are at capacity. Please disperse!
+
+LYUDMILLA is JOSTLED by the crowd. Near the front, the
+soldiers physically PUSH people back. There's a SURGE of
+movement from behind her... the soldiers PUSH back... and
+in the chaos, she SLIPS past them... FALLS...
+
+...then gets up and RUNS into the hospital. The soldiers
+can't stop her. Too busy with the rest of the crowd. The
+air fills with angry shouts and screams, and then:
+
+INT. KREMLIN - DAY 213
+Silence.
+
+A stately corridor. Chandeliers. Floors shined to a polish.
+And every few feet, the Soviet flag.
+
+VALERY LEGASOV sits on a small chair against the wall near
+one of the flags. Hair carefully combed. His best suit.
+
+A door opens, and a woman, 40's, emerges. Pleasant. Courteous.
+
+KREMLIN AIDE
+Professor Legasov?
+
+LEGASOV
+(rises)
+Yes?
+
+KREMLIN AIDE
+Oh no, not yet. They're finishing up
+some other business. It'll be a few
+more minutes. Can I get you some tea?
+
+LEGASOV
+No, I'm fine. Thank you.
+
+She extends a document to him.
+
+KREMLIN AIDE
+I thought you might care to read
+Deputy Secretary Shcherbina's report
+while you wait.
+214
+
+215
+
+LEGASOV
+Oh. Certainly. Thank you.
+
+He takes the typewritten report, and she exits.
+Legasov sits back down. Scans the first page. Hmm.
+Flip. Second page. Scanning. Mmhmm.
+
+Flip. Third page. Scanning.
+
+Wait.
+
+Oh my god.
+
+He sits there, staring agape at the page. Then looks
+around... is anyone else here? Has anyone else seen-- ??
+
+The aide returns. Still pleasant and calm.
+
+KREMLIN AIDE
+All right, Professor. They're ready.
+
+She sees the panic in his eyes.
+
+KREMLIN AIDE
+
+Is something wrong?
+
+INT. KREMLIN HALLWAY - MOMENTS LATER 214
+WE LEAD: Legasov, on his face, watching as he forces
+himself to walk... forces himself to stay calm, the report
+clutched in his hand, still open to the third page.
+Surely they know. They have to know...
+
+He wipes his brow. Sweat. Mouth dry.
+
+He passes SOLDIERS who push open doors, and he enters:
+
+INT. KREMLIN CONFERENCE ROOM - CONTINUOUS 215
+The inner sanctum. The center of Soviet power.
+A long room lined with Soviet flags.
+
+In the center of the room, a conference table. Men in their
+seats. Some in Soviet military uniforms. Others in suits.
+
+And at the head of the table, MIKHAIL GORBACHEV.
+10.
+
+Legasov's eyes dart nervously. Who among these men knows?
+
+Who else is frightened? Who else feels sick to their
+stomach?
+
+Not one of them appears concerned at all.
+Someone clears their throat, catching his attention.
+
+This is BORIS SHCHERBINA, 67, barrel-chested, intimidating
+brow. A bull of a man.
+
+And Shcherbina nods toward a seat. As in: we are all
+sitting. You are not. Sit.
+
+Legasov rushes himself into his chair. Trying to keep his
+hands from shaking.
+
+Please. Let someone else say it. Not me. Anyone but me.
+
+GORBACHEV
+Thank you all for your duty to this
+Commission. We'll begin with Deputy
+Chairman Shcherbina's briefing, and
+then we'll discuss next steps if
+necessary.
+
+If necessary?
+
+SHCHERBINA
+Thank you, General Secretary. I am
+pleased to report the situation in
+Chernobyl is stable.
+
+What?
+
+SHCHERBINA
+We're coordinating with local Party
+officials and plant management to
+address the incident. Military and
+civilian patrols have secured the
+region, and Colonel-General Pikalov,
+who commands troops specializing in
+chemical hazards, has been
+dispatched to the plant.
+
+Legasov looks down at page three. Flips to the next page,
+hoping that there's something that makes page three not
+real. But page three is real.
+11.
+
+SHCHERBINA
+In terms of radiation, Plant Director
+Bryukhanov reports no more than 3.6
+roentgen. I'm told that's the
+equivalent of a chest x-ray.
+(to the room)
+So if you're overdue for a check-up...
+
+The men chuckle. Legasov looks up again, eyes passing over
+all of them, desperately searching for someone to meet eyes
+with him, to say, "Yes, I know, I'll say it..."
+
+SHCHERBINA
+As for the fire, it's largely
+contained. Pikalov and his men
+should have it out soon enough.
+
+GORBACHEV
+Foreign press?
+
+SHCHERBINA
+(proudly)
+Totally unaware.
+Shcherbina nods across the table to CHARKOV, 63.
+Of all the Soviet men... the balding, white-haired men with
+round faces and black-rimmed glasses... Charkov is perhaps
+the most exemplary of the type.
+As if he were made in a factory.
+SHCHERBINA
+KGB First Deputy Chairman Charkov
+assures me we've successfully
+protected our security interests.
+GORBACHEV
+Good. Very good. Well, it seems like
+it's well in hand--
+Someone say something. Now. Say it.
+
+GORBACHEV
+--so if there's nothing else?
+
+Legasov's mouth won't open. Tongue won't work.
+
+GORBACHEV
+Meeting adjourned.
+
+Gorbachev rises. Everyone else gets up, and--
+12.
+
+LEGASOV
+No!
+
+Everyone turns to him. Shocked.
+
+GORBACHEV
+Pardon me?
+
+Legasov realizes he said it. He said no. To Mikhail
+Gorbachev. And he's terrified. But--
+
+LEGASOV
+We can't adjourn.
+
+Shcherbina fixes a dark gaze on Legasov. There's a
+disquieting rage in this man.
+
+SHCHERBINA
+This is Professor Legasov of the
+Kurchatov Institute. Professor, if
+you have a concern, feel free to
+address it with me. Later.
+
+Legasov gives a small nod. Cowed. Dying inside. But:
+
+LEGASOV
+I can't.
+
+All eyes on him again. Everyone standing. And now he rises.
+Sweaty, flustered, bad suit, crooked glasses.
+
+LEGASOV
+
+I'm sorry. I'm so sorry but--
+
+(the report)
+Page three-- the section on
+casualties-—
+
+(reading)
+"A fireman was severely burned on
+his hand by a chunk of smooth, black
+mineral on the ground outside the
+reactor building." Smooth black
+mineral!
+
+(does no one--?)
+Graphite. There's graphite on the
+ground. Outside.
+
+SHCHERBINA
+There was a tank explosion. There's
+debris. Of what importance is-- ?
+
+LEGASOV
+There's only one place in the entire
+facility where you'll find graphite.
+(MORE )
+13.
+
+LEGASOV (cont'd)
+Inside the core. If there's graphite
+on the ground, it means it wasn't a
+control system tank that exploded.
+(beat)
+It was the reactor core.
+(the unthinkable)
+It's open.
+
+No one is sure how to react. And so they do what they have
+always done.
+
+They slowly turn toward Gorbachev to see how they should
+feel about this.
+
+For a moment, he is inscrutable. Then:
+
+GORBACHEV
+Comrade Shcherbina?
+
+SHCHERBINA
+General-Secretary, I assure you
+Professor Legasov is mistaken.
+Bryukhanov reports the reactor core
+is intact. And the radiation--
+
+Legasov's panic ferments to frustration. Impatience. The
+words come flying out of him.
+
+LEGASOV
+Yes, "3.6 roentgen", which by the
+way is not the equivalent of one
+chest x-ray, but rather four hundred
+chest x-rays. That number's been
+bothering me for a different reason,
+though. It's also the maximum
+reading on low-limit dosimeters.
+They gave us the number they had,
+but I think the true number is much,
+much higher. If I'm right, this
+fireman was holding the equivalent
+of four million x-rays. In his hand.
+
+SHCHERBINA
+(icy) .
+Professor Legasov. There is no place
+for alarmist hysteria in this room.
+
+LEGASOV
+It's not alarmist if it's a fact!
+
+GORBACHEV
+I don't hear any facts at all.
+14.
+
+The room falls silent. A palpable sense of fear.
+
+GORBACHEV
+All I hear is a man I don't know
+engaging in conjecture-- in direct
+contradiction of what has been
+reported by Party officials.
+
+Shcherbina can barely repress a smile. And Legasov
+remembers where he is. Who he's yelling in front of.
+
+Oh god.
+
+LEGASOV
+I apologize. I didn't mean-- may I
+express my concern as calmly and
+respectfully as I can?
+
+Shcherbina is about to cut him off, but Gorbachev raises a
+hand to silence him. Then gestures to Legasov to continue,
+and sits.
+
+The rest of the room sits back down with him.
+
+LEGASOV
+
+An RBMK reactor uses uranium-235 as
+fuel. Every atom of U-235 is like a
+bullet traveling nearly the speed of
+light, penetrating everything in its
+path. Wood, metal, concrete, flesh. In
+every gram of U-235, there are over a
+billion trillion of these bullets.
+
+(beat)
+That's in one gram. Chernobyl holds
+over three million grams of U-235.
+And right now, it is on fire. And-- I
+believe-- exposed. Wind will carry
+radioactive particles across the
+entire continent, and rain will bring
+them down on us. Three million
+billion trillion bullets in the water
+we drink, the food we eat, in the air
+we breathe. Each bullet-- capable of
+damaging the genetic code in our
+bodies. Each bullet capable of
+bringing sickness, cancer, death.
+Most of them will not stop firing for
+a hundred years. Some of them will
+not stop for fifty thousand years.
+
+The air has gone out of the room. No one says a word. Then:
+216
+
+15.
+
+GORBACHEV
+And this-- concern-- stems entirely
+from the description of a rock?
+
+Everyone turns to stare at Legasov. Dead eyes, all of them.
+
+LEGASOV
+Yes.
+
+A moment. Then Gorbachev turns to Shcherbina:
+
+GORBACHEV
+I want you to go to Chernobyl. Look at
+the reactor. You personally. Report
+directly back to me.
+
+SHCHERBINA
+A wise decision. I'll depart at once.
+
+GORBACHEV
+And take Legasov with you.
+
+Legasov and Shcherbina both register surprise.
+SHCHERBINA
+Forgive me, Comrade General-
+Secretary, but-—
+GORBACHEV
+Do you know how a nuclear reactor
+works, Boris Evdokimovich?
+
+SHCHERBINA
+No.
+
+GORBACHEV
+Then how will you know what you're
+looking at?
+
+Gorbachev strides out, followed by everyone else, until
+there's no one left in the room but Legasov and Shcherbina.
+
+Staring at each other.
+
+EXT. MOSCOW - AIR FORCE BASE - AFTERNOON 216
+The NOISE of HELICOPTER ROTORS.
+Two SOLDIERS hold on to their hats as they lead the way
+
+toward the helicopters. Legasov walks beside Shcherbina,
+trying to keep up with the older man's athletic pace.
+217
+
+16.
+
+I./E. HELICOPTER MID-FLIGHT - MOMENTS LATER 217
+
+IN THE BACK - Legasov is sandwiched between the two
+soldiers. White knuckles. Across from him, a very calm
+Shcherbina. Legasov is the only one wearing his seat belt.
+
+SHCHERBINA
+Did you enjoy the meeting?
+
+Legasov isn't quite sure what to say.
+
+SHCHERBINA
+You should know, it's not the first
+time someone's tried to embarrass me
+like that. I've been part of the
+apparatus for over forty years now.
+Men like you come along all the time.
+So smart. So confident.
+
+(beat)
+Funny. I can't remember any of their
+names.
+(beat)
+How does a nuclear reactor work?
+LEGASOV
+What?
+SHCHERBINA
+
+It's a simple question.
+
+LEGASOV
+It's hardly a simple answer.
+
+SHCHERBINA
+Of course-- you presume I'm too stupid
+to understand. So I'll restate. Tell
+me how a nuclear reactor works, or
+I'll have one of these soldiers throw
+you out of this helicopter.
+
+Legasov slowly looks at the soldiers. Neither one of them
+seems fazed by that suggestion in the slightest. Okay...
+
+LEGASOV
+So-- a nuclear reactor generates
+electricity with steam.
+
+Shcherbina nods. Good. Continue.
+
+LEGASOV
+The steam turns a turbine, which
+generates electricity.
+
+(MORE)
+17.
+
+LEGASOV (cont'd)
+But where a typical power plant
+makes steam by burning coal, a
+nuclear plant--
+
+Legasov pats his jacket pockets. Looking for--
+
+Shcherbina calmly hands Legasov a pen and a copy of the
+report he just presented.
+
+Legasov nods in nervous thanks. Turns the document over,
+and begins sketching as he talks.
+
+LEGASOV
+--a nuclear plant uses something
+called fission. We take an unstable
+element like uranium-235, which has
+too many neutrons. A neutron is--
+
+SHCHERBINA
+The bullet.
+
+LEGASOV
+Yes. The bullet. So, bullets are
+flying off of the uranium.
+
+He shows Shcherbina the page as he sketches.
+
+LEGASOV
+
+Now, if you put enough of these
+uranium atoms close together, the
+bullets from one atom will eventually
+hit another atom. The force of this
+impact splits that atom apart,
+releasing a tremendous amount of
+energy. Fission. But-- that
+fissioning atom releases even more
+bullets, which slam into even more
+atoms. More fission leads to more
+fission-- and the result is a chain
+reaction.
+
+(beat)
+You see the problem with that, right?
+
+SHCHERBINA
+I'm not in your classroom. Just tell
+me the answer.
+
+Oh.
+
+LEGASOV
+The chain reaction will grow and
+grow, never stopping until all the
+uranium fissions.
+
+(MORE)
+18.
+
+LEGASOV (cont'd)
+The fuel quickly burns out,
+releasing a massive amount of energy
+in an instant. This is the principle
+behind a nuclear bomb. So:
+
+(the sketch)
+Control rods. See... these rods are
+the fuel rods. They contain the
+uranium. These rods are control
+rods. They're made of boron. Now--
+why do you think they're--
+
+Oh. Right. Not in a classroom.
+
+LEGASOV
+They're made of boron because it's
+excellent at capturing neutrons. It
+absorbs them. If you lower a control
+rod between two fuel rods, it acts
+like a bullet proof vest, keeping
+these neutrons from smashing into
+these atoms, and the reaction slows.
+If you raise it, the fuel rods can
+fire neutrons at each other, and the
+reaction increases. Water is pumped
+through the core, the heat of
+fission turns it to steam, and the
+result: electricity.
+
+Shcherbina reaches out and takes the sketch. Studies it.
+
+SHCHERBINA
+And the graphite?
+
+LEGASOV
+Ah-- the neutrons are moving so
+fast-- we call this "flux"-- it's
+
+relatively unlikely that they'll hit
+other uranium atoms. To make the
+chain reaction possible, you have to
+slow them down. In the RBMK
+reactors, we surround the fuel rods
+with graphite to moderate-- slow
+down-- the neutron flux.
+
+Shcherbina stares at the sketch. Then:
+SHCHERBINA
+Good. I know how a nuclear reactor
+works. Now I don't need you.
+
+Shcherbina leans back in his seat and closes his eyes to
+sleep. A happy little smile on his face.
+19.
+
+218 EXT. BYELORUSIAN COMMUNIST PARTY HQ - MINSK - AFTERNOON 218
+
+An impossibly gray, Soviet building.
+
+219 INT. OFFICE RECEPTION ROOM - CONTINUOUS 219
+A portrait of LENIN.
+
+Khomyuk sits across from it on a squat couch. Tense. From
+behind a closed door, we hear MEN LAUGHING.
+
+A sheepish female AIDE, 60's, sits at a desk near the door.
+
+AIDE
+Perhaps if you came back another-- ?
+
+KHOMYUK
+I've waited three hours. I can wait longer.
+
+The DOOR OPENS, and two men emerge in good spirits. One is
+CHULKOV, 50's. The other is GARANIN, 57, overfed.
+
+GARANIN
+Wonderful... just wonderful...
+KHOMYUK
+
+(rises)
+
+Deputy Secretary Garanin.
+
+Garanin doesn't drop his smile, but he glances over to his
+aide, who looks like a dog about to get beaten. Who's this?
+
+AIDE
+Ulana Khomyuk of the Byelorusian
+Institute for Nuclear Energy.
+
+The slightest hitch in his smile. Then right back to:
+
+GARANIN
+Oh? What a pleasure. May I introduce
+Ilya Ivanovich Chulkov, the eminent
+poet? We were just discussing--
+
+KHOMYUK
+I'm here about Chernobyl.
+
+Garanin's smile freezes on his face. Then to Chulkov.
+Guides him warmly to the door.
+
+GARANIN
+Such a lovely time. Please, visit
+again soon.
+220
+
+20.
+
+Chulkov heads out, confused. Garanin closes the door behind
+him, then turns back to Khomyuk. No longer smiling.
+
+INT. GARANIN'S OFFICE - MOMENTS LATER 220
+He pours himself a glass of vodka.
+
+GARANIN
+I must tell you-- this is why no one
+likes scientists. When we have a
+disease to cure, where are they? In
+a lab. Noses in their books. And so,
+grandma dies.
+
+He crosses to his desk.
+GARANIN
+
+But when there isn't a problem?
+They're everywhere. Spreading fear.
+
+KHOMYUK
+I know about Chernobyl.
+GARANIN
+Oh?
+KHOMYUK
+
+I know the core is either partially
+or completely exposed.
+
+GARANIN
+(shrugs)
+Whatever that means.
+
+KHOMYUK
+And I know that if you don't
+immediately issue iodine tablets and
+then evacuate this city, hundreds of
+thousands will get cancer, and god
+only knows how many will die.
+
+For a moment, her fear rattles him. But only for a moment.
+
+GARANIN
+Yes, very good, there has been an
+accident at Chernobyl, but I have
+been assured there is no problem.
+
+KHOMYUK
+I'm telling you there is.
+221
+
+222
+
+223
+
+21.
+
+GARANIN
+I prefer my opinion to yours.
+
+KHOMYUK
+I'm a nuclear physicist. Before you
+were Deputy Secretary, you worked in
+a shoe factory.
+
+GARANIN
+(stiffens)
+Yes. I worked in a shoe factory. And
+now I'm in charge.
+(raises his glass)
+"To the workers of the world."
+
+He downs his drink. Meeting over.
+
+INT. OFFICE RECEPTION ROOM - MOMENTS LATER 221
+
+Khomyuk walks out of Garanin's office. Closes the door
+behind her. His AIDE looks nervous.
+
+Khomyuk fishes the PILL BOTTLE out of her purse.
+KHOMYUK
+
+Stable iodine will keep your thyroid
+
+from absorbing radioactive iodine.
+
+Take one pill each day for as long
+
+as they last. And go east-- as far
+
+away from Minsk as you can.
+Khomyuk hands her the pills, and exits.
+The aide stares at the pills, then quickly takes one and
+shoves the bottle into her own purse.
+OMITTED 222
+
+INT. PRIPYAT HOSPITAL - LATE AFTERNOON 223
+
+Lyudmilla pushes her way through the throngs of miserable
+people. The hallways are choked with sick people.
+
+Some are being treated while they lie on the floor. We hear
+the sound of a SCREAMING BABY from off-screen.
+
+Lyudmilla sees a nurse coming toward her.
+
+LYUDMILLA
+Can you help me, I'm looking for--
+22.
+
+The nurse doesn't acknowledge her. Just rushes by.
+
+Lyudmilla turns a corner and stops when she sees: Oksana's
+husband MIKHAIL, standing in the corridor.
+
+He's holding his baby, who is screaming-- not a wail of
+hunger or fatigue, but the sharp, staccato cry of PAIN.
+
+MIKHAIL
+Lyudmilla.
+
+She stares in shock at him. His eyes are bloodshot. Face
+puffy. Both his and his baby's skin are reddish/tan.
+
+She approaches and sees that he's standing in front of a
+window looking into a TREATMENT ROOM.
+
+THROUGH THE WINDOW - she sees OKSANA and her FOUR-YEAR OLD
+SON in the room - both sharing a single gurney. Oksana's
+dress is covered in vomit.
+
+ZINCHENKO, her hand BANDAGED, is hooking the four-year old
+up to an IV. The little boy's head lolls... he doesn't even
+react when Zinchenko pushes the needle in.
+
+They're both TANNED... just like Mikhail and the baby.
+
+MIKHAIL
+Take her.
+
+LYUDMILLA
+What?
+
+He extends his baby out to her.
+
+MIKHAIL
+Take her. Take her away from here.
+
+He retches, then holds the baby out again. Raising his
+volume to be heard over his daughter's SCREAMING.
+
+MIKHAIL
+Please. Take her. Take her.
+
+Lyudmilla, scared, reaches out for the baby when:
+
+PRIPYAT NURSE
+Get away from them!
+
+The Pripyat Nurse rushes over to Lyudmilla. Starts pushing
+her back from Mikhail.
+224
+
+23.
+
+PRIPYAT NURSE
+You want to get sick? Go!
+
+Lyudmilla backs away, then turns and rushes away. Mikhail
+is still holding his baby out.
+
+MIKHAIL
+TAKE HER! PLEASE TAKE HER!
+
+INT. HOSPITAL - CORRIDOR - MOMENTS LATER 224
+
+Lyudmilla rounds the corner, then finally stops. Covers her
+mouth with a shaky hand. Overwhelmed.
+
+Then sees: a MILITARY OFFICER, MAJOR BUROV, 45, passing by.
+She runs to catch up to him.
+
+LYUDMILLA
+Excuse me... I am Vasily Ignatenko's
+wife...
+
+MAJOR BUROV
+(no time for her)
+I don't know him.
+
+LYUDMILLA
+No, he's a fireman. Ignatenko.
+Ignatenko. 6th Paramilitary Fire and
+Rescue Unit... I have to find him...
+(stops him)
+Please.
+
+Burov relents. He pulls a folded paper from his pocket. A
+list of names. Scans it. Then:
+
+MAJOR BUROV
+Ignatenko. He's being transported by
+helicopter to Moscow. Hospital #6.
+
+LYUDMILLA
+Why? Is he all right? Can I see him?
+
+MAJOR BUROV
+(enough already)
+You want to see him? Go to Moscow.
+
+LYUDMILLA
+But-- we're not allowed out of--
+
+They arrive at a hallway guarded by soldiers. Lyudmilla can
+no longer follow him.
+225
+
+226
+
+227
+
+24.
+
+MAJOR BUROV
+You have permission. Tell them Major
+Burov sent you.
+He walks down the hall. She calls out after him.
+
+LYUDMILLA
+When are they taking him?
+
+MAJOR BUROV
+
+Now.
+EXT. FIELD OUTSIDE PRIPYAT - DUSK 225
+VASILY - on a gurney - is loaded into a HELICOPTER along
+with some other firefighters and plant workers...
+EXT. SKIES OVER CHERNOBYL - MOMENTS LATER 226
+The helicopters sweep by in formation. A moment, then...
+The COMMISSION HELICOPTERS blow into frame, heading in the
+opposite direction... moving toward Chernobyl...
+INT. COMMISSION HELICOPTER - CONTINUOUS 227
+The pilot calls back to the men in the back.
+
+PILOT
+We're approaching the power plant.
+
+Shcherbina looks out the small side window. From his
+vantage, nothing but green forest and blue skies.
+
+SHCHERBINA
+Beautiful. You should enjoy this
+view, Legasov. While you have one.
+
+Legasov ignores that. He's craning his neck. Left...
+right... which way? The helicopter BANKS, and he sees:
+
+SMOKE... which is blown away to reveal:
+
+CHERNOBYL - tilted toward him through the helicopter
+window... the reactor building blown open... the fire
+pouring out of the center... and a faint BLUE GLOW
+flickering around the air over the reactor...
+
+And scattered on the roof, CHUNKS of BLACK GRAPHITE.
+25.
+
+LEGASOV
+(to himself)
+What have they done?
+
+Shcherbina is just as shocked. Never expected this.
+
+SHCHERBINA
+Can you see the core from here?
+
+LEGASOV
+I don't need to. Look at the
+graphite on the roof. The entire
+building's blown open. It's exposed.
+
+SHCHERBINA LEGASOV
+I don't see how you can tell For god's sake, look at the
+that from here-- glow-- the radiation is
+
+ionizing the air!
+
+SHCHERBINA
+If we can't see it, we don't know.
+(to the pilot)
+Get us directly over the building.
+
+LEGASOV SHCHERBINA
+Boris Evdokimovich-- Don't use my name.
+LEGASOV SHCHERBINA
+--if we fly directly over an I didn't ask your advice.
+
+open reactor core--
+
+LEGASOV
+--we'll be dead within a week. Dead.
+
+The soldiers look at each other. And in the front, the
+pilot registers what was just said.
+
+PILOT
+Sir?
+
+Shcherbina's face is set in grim determination.
+
+SHCHERBINA
+I have my orders from General-
+Secretary Gorbachev. You have your
+orders from me. Get us over the
+reactor core, or I'll have you shot.
+
+Legasov UNBUCKLES himself. Turns toward the cockpit.
+228
+
+229
+
+26.
+
+LEGASOV
+If you fly over the core, I promise
+you-- by tomorrow morning, you'll be
+begging for that bullet.
+
+ON THE PILOT - sweating... three seconds from the
+reactor... two seconds... one second...
+
+The pilot YANKS on the stick. LEGASOV tumbles from his
+seat, SLAMMING into the side of the helicopter as--
+
+EXT. OVER CHERNOBYL - CONTINUOUS 228
+
+--the helicopter PEELS OFF at the last moment and heads
+AWAY from the reactor. And one by one, the trailing
+helicopters peel off and FOLLOW...
+
+EXT. CHERNOBYL BASE CAMP - 3 KM FROM REACTOR - SUNSET 229
+
+SLOW MOTION - SMOKE swirls - men in PROTECTIVE GEAR emerge
+silently from the cloud. White jumpsuits. Black gloves. The
+fashion of the apocalypse.
+
+WIDE TO REVEAL - THE SITE - workers, some in protective
+gear, others wearing only military uniforms, are building a
+makeshift camp. Trucks, crates... and LIGHTS. Generators
+crank to life and light FLOODS the site, catching waves of
+soot passing through their beams. In the distance--
+Chernobyl, and the plume of black smoke...
+
+FOMIN follows BRYUKHANOV through the gauntlet of soldiers.
+He glances at the men in PROTECTIVE SUITS...
+
+FOMIN
+Overkill. Pikalov's showing off. To
+make us look bad.
+
+BRYUKHANOV
+It doesn't matter how it looks.
+
+Bryukhanov stops. A stiff BREEZE has picked up. Fomin joins
+him. They're looking at: the COMMISSION HELICOPTERS landing
+on the ground nearby. Rotors kicking up a dusty wind.
+
+BRYUKHANOV
+Shcherbina's a pure bureaucrat, as
+stupid as he is pigheaded. We'll
+tell him the truth in the simplest
+terms possible, and we'll be fine.
+
+(yells to)
+Pikalov!
+27.
+
+GENERAL VLADIMIR PIKALOV - 62, lifelong veteran, is signing
+orders for his men. He looks over at Bryukhanov with all the
+resentment of decades of taking orders from bureaucrats.
+
+As he heads toward them:
+
+THEIR POV OF - THE HELICOPTER - the SOLDIERS have exited,
+along with the PILOT.
+
+Now SHCHERBINA gets out, followed by LEGASOV. Shcherbina
+speaks briefly to the soldiers, then begins crossing to
+Bryukhanov, Fomin and Pikalov.
+
+The soldiers stay behind with Legasov and the pilot. Not
+with them. Guarding them.
+
+As Shcherbina nears Bryukhanov:
+
+BRYUKHANOV
+Comrade Shcherbina-- Chief Engineer
+Fomin, Colonel-General Pikalov and I
+are honored by your arrival.
+
+FOMIN
+Deeply, deeply honored.
+
+BRYUKHANOV
+
+(shut up, Fomin)
+Naturally, we regret the
+circumstances of the visit, but as
+you can see, we're making excellent
+progress containing the damage.
+We've also begun an inquiry into the
+cause of the accident, and I have a
+list of individuals we believe are
+accountable.
+
+Bryukhanov hands Shcherbina a paper with a list of NAMES.
+Shcherbina takes it with an approving GRUNT, and removes
+some reading glasses from his jacket pocket.
+
+BY THE HELICOPTER - Legasov looks out toward the reactor.
+Acid fear in his stomach. THEN: one of the SOLDIERS from
+the helicopter approaches. Nods at Legasov to follow.
+
+SHCHERBINA - stands with Bryukhanov and Fomin-- a united
+front-- silently confronting the approaching Legasov. Then:
+
+BRYUKHANOV
+Professor Legasov. I understand
+you've been saying dangerous things.
+28.
+
+FOMIN
+Very dangerous things.
+
+(his preening speech)
+Apparently our reactor core
+"exploded." Please tell me how an
+RBMK reactor core "explodes". I'd
+love to know.
+
+Legasov glares at Fomin with pure hatred.
+
+LEGASOV
+I'm not prepared to explain it at
+this time.
+
+FOMIN
+(pleased)
+As I presumed. He has no answer.
+
+BRYUKHANOV
+Disgraceful, really. To spread
+disinformation at a time like this.
+
+Shcherbina stares at Legasov. Weighing his fate? Legasov
+meets his eyes. If this is his end, so be it. Then:
+
+SHCHERBINA
+(to Bryukhanov)
+Why did I see graphite on the roof?
+
+Bryukhanov is startled by the question. So is Legasov.
+
+SHCHERBINA
+Graphite is only found in the core,
+where it's used as a neutron flux
+moderator-- correct?
+
+Holy shit. Bryukhanov passes the buck immediately to:
+
+BRYUKHANOV
+Fomin, why did the Deputy Chairman
+see graphite on the roof?
+
+FOMIN
+There can't be, I-- Comrade
+Shcherbina, my apologies, but
+graphite? That's... that's not
+possible.
+(scrambling)
+Perhaps you saw burnt concrete?
+230
+
+29.
+
+SHCHERBINA
+Ah, now there you made a mistake,
+because while I don't know much
+about nuclear reactors, I know a lot
+about concrete.
+
+FOMIN
+(panicking)
+Comrade, I assure you--
+
+SHCHERBINA
+I understand. You think Legasov is
+wrong. So-- how shall we prove it?
+
+No answer. Shcherbina turns to Pikalov. Well?
+
+PIKALOV
+Our high-range dosimeter just
+arrived. We could cover one of our
+trucks with lead shielding, mount
+the dosimeter on the front...
+
+Shcherbina turns to Legasov. Satisfied? Legasov nods.
+
+LEGASOV
+(to Pikalov)
+Have one of your men drive as close
+to the fire as he can, and give him
+every bit of protection you have.
+But understand-- even with the lead
+shielding-- it may not be enough.
+
+Pikalov understands. And doesn't hesitate.
+
+PIKALOV
+Then I'll do it myself.
+
+EXT. CHERNOBYL - SOUTH OF THE POWER PLANT - NIGHT 230
+Smoky haze from the fire, visible in the nearly-full moon,
+blankets the ground.
+
+The air occasionally flickers with an eerie fluorescent
+
+glow. No one here. No movement, no life.
+
+Until.
+
+HEADLIGHTS appear - an ARMORED TRUCK approaches from the
+east...
+
+INTERCUT WITH - PIKALOV, driving the truck, in full gear.
+Gas mask concealing his face.
+231
+
+30.
+ON THE FRONT OF THE TRUCK - a large DOSIMETER, blinking
+lights, secured to the grill with MASKING TAPE.
+PIKALOV'S POV - through the windowscreen - the POWER PLANT
+CHAIN LINK FENCE - and beyond it, the back side of Reactor
+Building #4 - and the fire raging from within...
+He slows as he approaches the gate. Stop. Hesitates. Then:
+TURNS AROUND. Starts to drive away.
+Then STOPS again.
+ON PIKALOV - SHIFTING the truck into REVERSE, and:
+
+STOMPS on the ACCELERATOR, and:
+
+THE TRUCK - gears whining as it picks up speed, heading
+backwards, and:
+
+SMASHES through the GATE, sending chain link and steel
+poles scattering aside...
+
+The truck stops again, then turns slowly to face its
+destination.
+
+PIKALOV'S POV - through the windowscreen - as he drives
+SLOWLY NOW, his headlights illuminate the desolate
+landscape of the broken power plant.
+
+We stay in his POV as he weaves through: chunks of burning
+graphite. The wreckage of pumps and machinery thrown from
+somewhere deep in the building...
+
+And as he turns around to the west side of the building:
+ABANDONED FIRE TRUCKS... OPEN HOSES still connected to the
+plant hydrants, SPEWING WATER into drainage grates...
+
+ON PIKALOV - he turns the wheel, searching for the closest
+spot, and as he comes around a turn, we can see his eyes
+widen, even through the goggles of his face mask...
+Because he sees it now.
+
+And reflected against his windshield--
+
+--a terrible, UNNATURAL light.
+
+INT. TEMP. MILITARY SHELTER - BASE CAMP - NIGHT 231
+
+A temporary command tent. Bryukhanov and Fomin sit in
+silence. Across the room, Legasov sits alone.
+232
+
+31.
+
+And in the middle of the room, between them... Shcherbina.
+Waiting with no expression whatsoever.
+
+No one looks at anyone. No one says a word. Then-- a
+SOLDIER enters.
+
+SOLDIER
+He's back.
+
+EXT. BASE CAMP - MOMENTS LATER 232
+
+Shcherbina strides out, followed by Legasov, Bryukhanov and
+Fomin. The armored truck is 100 meters away, and men in
+protective gear are HOSING IT DOWN with a WHITE FOAM.
+
+Twenty meters away, men hose down PIKALOV - still in his
+gear - and then help him remove his hood... gas mask...
+unzip the overalls... he unbuckles the boots...
+
+Finally, Pikalov walks over to them.
+
+PIKALOV
+It's not three roentgen.
+
+They hang in anticipation. Everyone's fate in the balance.
+
+PIKALOV
+It's fifteen thousand.
+
+Legasov closes his eyes. That was the number he expected.
+Fomin is speechless. Bryukhanov scoffs.
+
+BRYUKHANOV
+Comrade Shcherbina--
+
+Shcherbina fixes his deadly glare on Bryukhanov, who
+instantly shuts up. Then Shcherbina turns to Legasov.
+
+SHCHERBINA
+What does that number mean?
+
+LEGASOV
+It means the core is open and the
+fuel is melting down. It means the
+fire we're watching with our own
+eyes is giving off nearly twice the
+radiation released by the bomb in
+Hiroshima. And that's every single
+hour. Hour after hour.
+
+(checks his watch)
+
+Twenty hours since the explosion.
+Forty bombs' worth by now.
+
+(MORE)
+32.
+
+LEGASOV (cont'd)
+Forty-eight more tomorrow. And it
+will not stop. Not in a week. Not in
+a month. It will burn and spread its
+poison until the entire continent is
+dead.
+
+No one says a word. Then Shcherbina turns to a soldier.
+
+SHCHERBINA
+Please escort Comrades Bryukhanov
+and Fomin to the local Party
+headquarters.
+
+Just as Bryukhanov foresaw. They're being arrested.
+
+SHCHERBINA
+Thank you for your service,
+gentlemen.
+
+Bryukhanov attempts a protest, even as he knows it's
+pointless.
+
+BRYUKHANOV SHCHERBINA
+Comrade... You're excused.
+
+Discussion over. Two more soldiers move in and guide
+Bryukhanov and Fomin away.
+
+FOMIN
+Dyatlov was in charge! It was Dyatlov!
+
+And they're gone. Shcherbina takes a moment. Doesn't notice
+Legasov's disquiet about what just happened. Just:
+
+SHCHERBINA
+Tell me how to put it out.
+
+PIKALOV
+We'll use helicopters. Drop water on
+it, like a forest fire.
+
+LEGASOV
+
+No-- no-- you don't understand.
+You're dealing with something that
+has never occurred on this planet
+before. This isn't a "fire". It's a
+fissioning reactor core burning at
+over 2,000 degrees. The heat will
+instantly vaporize the water-- or
+worse, ionize it, and then you're--
+33.
+
+SHCHERBINA
+(no time)
+How do we--
+LEGASOV
+
+Sand. Sand and boron. Thousands of
+drops because the helicopters can't
+go directly over the core, so much of
+it is going to miss, and there are
+other-- risks-- but I don't see any
+other way.
+
+SHCHERBINA
+How much sand and boron?
+
+LEGASOV
+Well I can't be as accurate as I'd--
+
+SHCHERBINA
+For god's sake-- roughly.
+
+LEGASOV
+Five thousand tons?
+
+Shcherbina and Pikalov look at each other. Five thousand tons?
+
+LEGASOV
+And obviously we need to immediately
+evacuate an enormous area of--
+
+SHCHERBINA
+(bristles)
+Never mind that. Focus on the fire.
+
+LEGASOV
+I am focusing on the fire. The wind
+is carrying the smoke, all that
+radiation-- at least evacuate
+Pripyat! It's three kilometers away!
+
+SHCHERBINA
+That's my decision to make.
+
+LEGASOV
+Then make it.
+
+SHCHERBINA
+I've been told not to.
+
+LEGASOV
+Is it or is it not your decision?!
+233
+
+234
+
+34.
+
+SHCHERBINA
+I am in charge here! This will go much
+easier if you talk to me about things
+you DO understand, and do NOT talk to
+me about things you do NOT understand.
+
+With that Shcherbina turns and walks off in a huff.
+
+LEGASOV
+(shouts after him)
+Where are you going?
+
+SHCHERBINA
+(shouts back)
+I'm GOING to get you five thousand
+tons of sand and boron!
+
+And just like that, he's gone. Legasov stands there, unsure
+of what to do. Or where to go.
+
+PIKALOV
+There's a hotel.
+Legasov looks at him. A hotel? It's all so surreal... but...
+EXT. POLISSYA HOTEL - PRIPYAT - NIGHT 233
+
+A six storey, white building. Typical Soviet brutalist
+design. Could just as easily be a prison.
+
+Legasov is dropped off by a Red Army UAZ-469, which drives
+away, leaving him alone. He looks around, still in shock.
+
+A FEW CITIZENS - take their nightly strolls. Walk their
+pets. No one knows. And he can't tell them.
+
+INT. POLISSYA HOTEL - LOBBY - MOMENTS LATER 234
+
+Legasov slowly walks through the lobby, like he's ina
+waking nightmare. The hotel is quiet, but there are the
+bellhops... the front desk attendants... the maids...
+
+He turns and sees: a BAR off to the side. He crosses over
+to it and takes a seat. Everything feels upside-down.
+
+Around the bend of the bar, a couple. HUSBAND and WIFE from
+the looks of it. 30's, probably locals. Sharing a quiet but
+merry conversation. Perhaps a birthday night out.
+35.
+
+The BARTENDER, 20-ish woman, unscrews the cap on a bottle
+of vodka and takes a upturned glass from the bar. Legasov
+points to one of the glasses that are FACE DOWN on the bar.
+
+LEGASOV
+I'd prefer one of those.
+
+She looks at him oddly. Uhh, okay. She takes one of the
+glasses he wants, and pours him his drink.
+
+The HUSBAND AND WIFE have stopped chatting. They've noticed
+this. Legasov doesn't realize they're looking at him until:
+
+LOCAL WIFE
+Moscow?
+He looks over at her. What? Oh. His clothes... or his face?
+He nods. Lost.
+LOCAL WIFE
+Superstitious?
+
+Your strange request about the glass?
+Oh. Yeah. Superstitious. He turns back to his drink, but:
+
+LOCAL WIFE
+Are you here because of the fire?
+
+Please stop asking questions. Legasov nods. Yes. The wife
+and husband share a look. Then:
+
+LOCAL WIFE
+Anything we should be worried about?
+
+Legasov turns to them. They're trying to disguise their
+concern... their fear... but doing a poor job of it.
+
+A long pause. Tell them. Tell them. Tell them.
+
+LEGASOV
+No.
+
+The couple do another poor job of disguising their relief.
+They each raise a glass to him. He raises his to them, and
+then he drinks. Fast.
+
+CLOSE ON LEGASOV: the bottle enters frame. Pours another.
+
+We stay CLOSE ON LEGASOV, soaking in his fear and guilt and
+frustration, and all sound FADES TO SILENCE.
+
+DISSOLVE TO:
+235
+
+236
+
+237
+
+238
+
+239
+
+36.
+
+EXT. ABOVE THE PRIPYAT FOREST - MORNING 235
+WE MOVE SILENTLY IN THE AIR - over the pine forest. What
+
+started as a narrow band of reddish/brown trees has
+
+widened. Death is spreading.
+
+INT. FOREST - CONTINUOUS 236
+
+A thick mist hangs over the ground. The only sound is the
+occasional creak of wood.
+
+The mist shifts, and now we see the forest floor. Blanketed
+in dead pine needles.
+
+The corpse of a deer.
+
+Now we hear: a faint whup-whup-whup-whup
+
+In the distance, PINE NEEDLES are blown off of dead
+
+trees... the sound grows to a DEAFENING ROAR... the wave of
+
+air and pine needles rushes closer, and:
+
+LOOK UP THROUGH THE TREES TO SEE: a squadron of SOVIET AIR
+
+FORCE HELICOPTERS flying by in formation.
+
+EXT. ABOVE THE FOREST - CONTINUOUS 237
+
+The helicopters bank around toward Chernobyl.
+
+TITLE:
+MORNING, APRIL 27
+30 HOURS AFTER THE EXPLOSION
+OMITTED 238
+EXT. ROOF OF ADMIN BUILDING - CHERNOBYL - CONTINUOUS 239
+
+LEGASOV stands on the roof, watching the helicopters
+through binoculars.
+
+Shcherbina stands next to him. Behind them, set up on a
+small portable table, is a STASIUK, a RADIO OFFICER with a
+radio and microphone.
+
+We hear the squawk of voices over the radio.
+37.
+
+BASE COMMAND (RADIO)
+Boris squadron, maintain altitude,
+hold at 5 kilometers. Anna squadron
+proceed to pattern. Lead One begin
+approach. Keep clear of the
+construction cranes on the south
+edge of the zone, and move in from
+the east.
+
+As Legasov watches, four helicopters come closer. Three
+remain in a holding pattern while the LEAD COPTER begins to
+move slowly toward the reactor site.
+
+PILOT (RADIO)
+Anna squadron to pattern, Lead One
+on approach from east.
+
+The lead helicopter BANKS as it begins to move toward the
+PLUME OF SMOKE. Legasov watches. Nervous.
+
+LEGASOV
+Remind them about the perimeter.
+
+Stasiuk looks to Shcherbina for the okay on that.
+Shcherbina scowls. Doesn't like taking orders from Legasov.
+But nods. Fine.
+
+STASIUK
+(into mic)
+They cannot fly directly over the
+fire. A minimum of a ten meter
+perimeter.
+
+BASE COMMAND (RADIO)
+Ten meter perimeter, copy.
+
+A bit of static, then:
+
+BASE COMMAND (RADIO)
+Lead One, per preflight-- maintain
+minimum ten meter perimeter.
+
+PILOT (RADIO)
+Cop[distortion].
+
+Legasov continues to peer through the binoculars.
+Shcherbina just watches with his eyes. Unblinking.
+
+The helicopter moves slowly toward the plume of smoke.
+PILOT (RADIO)
+
+Forty meters. [distortion]-five
+Thirty.
+38.
+
+The smoke suddenly SHIFTS, and washing over the helicopter,
+partially obscuring it.
+
+Legasov lowers the binoculars. He's lost sight of the
+copter.
+
+ON THE RADIO - the signal is starting to distort. Then:
+
+PILOT (RADIO)
+(breaking up)
+--visibility, I [can't]--
+(breaking up)
+--twent[y]--
+
+BASE COMMAND (RADIO)
+Lead One, repeat.
+
+PILOT (RADIO)
+[distortion] are we [distortion]
+
+BASE COMMAND (RADIO)
+Repeat. Repeat.
+
+The wind shifts, and the smoke moves away, briefly
+REVEALING THE COPTER. It's drifting RIGHT OVER THE FIRE.
+
+LEGASOV
+No no no-- they're too close.
+
+The smoke returns, OBSCURING THE HELICOPTER again.
+Stasiuk looks to Shcherbina.
+
+LEGASOV
+(no time for this)
+They cannot go over the core-- tell
+them!
+
+Shcherbina gives Stasiuk another nod. Do it.
+
+STASIUK
+Lead One is too close, I repeat they
+are too close!
+
+BASE COMMAND (RADIO)
+Copy.
+(beat)
+Lead One, you are inside the
+perimeter. Abort. Abort.
+
+PILOT (RADIO)
+[distortion] can't [distortion]
+39.
+
+As the wind buffets the smoke, we catch GLIMPSES of the
+helicopter. It's hovering RIGHT OVER THE FIRE, now facing
+the wrong way.
+
+STASIUK
+Abort. Abort. Abort.
+
+BASE COMMAND
+Abort abort. Lead One--
+
+PILOT
+[distorted] I can't [distorted]
+oh... oh... [distorted]
+
+ON THE RADIO - LOUD STATIC... worse than silence. Then:
+Legasov, Shcherbina and Stasiuk watch in horror as the wind
+shifts the smoke away, revealing:
+
+The helicopter is still just hovering there. Right over the
+mouth of the open reactor.
+
+BASE COMMAND (RADIO)
+Lead One. Lead One.
+
+Nothing. Radio silence.
+
+And then the helicopter slowly DRIFTS toward a CONSTRUCTION
+CRANE... off kilter, tilting ODDLY as if drunk...
+
+.»..and its rotor blades STRIKE the steel cable hanging from
+the crane... the BLADES DISINTEGRATE, and--
+
+--the helicopter ROLLS OVER and PLUMMETS from the sky.
+
+Legasov turns away. Doesn't want to look. But he hears the
+distant THUD of the impact. His stomach turns.
+
+Shcherbina hangs his head. The worst possible beginning.
+The radio's distorted signal drops to a muted HISS. Then:
+
+BASE COMMAND (RADIO)
+(solemn)
+Please advise.
+
+STASIUK
+(shaken)
+Sir? What do I tell the others?
+
+SHCHERBINA
+Legasov.
+(nothing)
+Legasov, is there another way to do this?
+240
+
+241
+
+242
+
+243
+
+244
+
+245
+
+246
+
+247
+
+40.
+
+Legasov shakes his head "no". Shcherbina turns back to
+Stasiuk.
+
+SHCHERBINA
+Send the next one in. And tell them
+to approach from the west.
+
+Legasov walks away. Overwhelmed. Shcherbina lets him go.
+
+OMITTED
+
+OMITTED
+
+OMITTED
+
+OMITTED
+
+OMITTED
+
+OMITTED
+
+EXT. KURCHATOV INSTITUTE - MOSCOW - DAY
+
+The most Soviet building imaginable. A four story, brown
+box with a band of ugly orange tiling just under the roof.
+
+We hear a PHONE RINGING.
+
+INT. MARINA'S OFFICE / KHOMYUK'S LAB - CONTINUOUS
+MARINA, 40's, scientist in a lab, answers the phone.
+
+MARINA
+Kurchatov Institute Laboratory 4.
+
+INTERCUT WITH: KHOMYUK, in her lab, on the phone. Dmitri
+sits with her, listening to Khomyuk's end of the
+conversation.
+
+KHOMYUK
+Marina Gruzinskaya, it's Ulana
+Khomyuk from Minsk.
+
+240
+
+241
+
+242
+
+243
+
+244
+
+245
+
+246
+
+247
+41.
+
+Marina tenses. Already knows what this is about. Glances at
+her phone, with its lit up buttons. This is a nuclear lab
+in the Soviet Union. No such thing as a private call.
+
+MARINA
+(stiffly pleasant)
+Oh, yes, how nice of you to phone.
+It's been too long.
+
+Khomyuk registers the woman's tone. Good.
+
+KHOMYUK
+It has. I was actually calling about
+our friend-- you know, the one in
+the country?
+
+MARINA
+Yes, of course.
+
+KHOMYUK
+I wanted to see how he was doing.
+It's so hot there right now.
+
+MARINA
+Yes, it's extremely hot. But--
+(thinks)
+His nephews are flying in, and they
+always bring cool weather with them.
+
+KHOMYUK
+Oh? Which nephews?
+
+MARINA
+Simka, who's 14, and little Boris,
+who just turned 5.
+
+Khomyuk looks at the small reference PERIODIC TABLE taped
+on the wall under some cabinets. Sees the symbols for Si
+(14) and B (5).
+
+KHOMYUK
+Well that's wonderful. Of course,
+children can make you even hotter
+when they're crawling all over you.
+
+MARINA
+That's true. But what can you do?
+
+KHOMYUK
+Maybe I'll go visit them.
+42.
+
+MARINA
+No, they don't want visitors. I'm
+sorry, I have to get back to work.
+It's very busy right now. Goodbye.
+
+Khomyuk hears the CLICK as Marina hangs up. She puts the
+phone down.
+
+KHOMYUK
+They're dropping sand and boron on
+the fire.
+
+DMITRI
+
+It's what I would do.
+
+KHOMYUK
+Yes, I'm sure it is.
+
+She moves across the lab to a low storage unit with wide
+drawers. Begins pulling open the drawers, looking for--
+
+--there. A set of BLUEPRINTS. She puts them on her desk.
+
+Dmitri joins her, curious, as she hunts through the
+blueprints for something. Flip, flip, flip, flip -- there.
+
+An elevation of an industrial building. HER FINGER traces
+down... to a cross-section of two EMPTY SPACES.
+
+She thinks for a second, then FOLDS UP the blueprints and
+moves to the exit.
+
+DMITRI
+Where are you going?
+
+KHOMYUK
+(not looking back)
+Chernobyl.
+
+248 INT. POLISSYA HOTEL - SHCHERBINA'S SUITE - DAY 248
+A minimalist suite. Bedroom with an attached area for a
+sofa, chair, coffee table. On it, plates of untouched food.
+Ashtrays full of cigarettes.
+
+They've been holed up in here for a bit.
+
+LEGASOV stands by the window. Staring out and down at
+something-- perhaps on the street below. We don't see what.
+From outside, the steady drone of distant HELICOPTERS.
+
+SHCHERBINA enters. Legasov turns to him. News?
+43.
+SHCHERBINA
+It's been smooth. Twenty drops.
+
+No change in Legasov's somber expression. Shcherbina's
+short fuse is immediately lit.
+
+SHCHERBINA
+What.
+LEGASOV
+There are fifty thousand people in
+this city.
+So. This argument again.
+SHCHERBINA
+
+Professor Ilyin-- who is also on the
+commission-- says the radiation isn't
+high enough to evacuate--
+
+LEGASOV
+Ilyin isn't a physicist--
+SHCHERBINA
+He's a medical doctor. If he says
+it's safe, it's safe.
+
+LEGASOV
+Not if they stay here.
+
+SHCHERBINA
+We're staying here...
+
+LEGASOV
+Yes we are. And we'll be dead in
+five years.
+The second the words leave his mouth, Legasov regrets them.
+
+Shcherbina stands in total shock. Gutted.
+
+LEGASOV
+I'm-- I'm sorry, I didn't--
+
+Shcherbina limply waves him off. Stop talking.
+He sits down. Trying to swallow what he's just been told.
+THE PHONE RINGS. Jars us. Shcherbina picks it up, in a daze.
+
+SHCHERBINA
+Shcherbina.
+249
+
+250
+
+44,
+
+Legasov watches Shcherbina's face as he listens to the
+person on the other end. After a few long seconds...
+
+SHCHERBINA
+Thank you.
+
+He hangs up. All of the fight gone out of him.
+
+SHCHERBINA
+A nuclear plant in Sweden detected
+radiation. And identified it as a
+byproduct of our fuel. The Americans
+took satellite photos-- the reactor
+building. The smoke. The fire. The
+whole world knows.
+
+Shcherbina joins Legasov at the window. Stares out. Pale.
+
+SHCHERBINA
+The wind's been blowing toward
+Germany. They're not letting
+children play outside in Frankfurt.
+
+THEIR POV: CHILDREN at a playground just across the street.
+
+MUSIC: the familiar ABC NIGHTLY NEWS fanfare.
+
+EXT. PLAYGROUND - CONTINUOUS 249
+As children laugh and play, we hear the voice of:
+
+PETER JENNINGS (V.O.)
+There has been a nuclear accident in
+the Soviet Union, and the Soviets
+have admitted that it happened.
+
+In the near distance, the PLUME OF BLACK SMOKE continues to
+rise from Chernobyl...
+
+INT. KREMLIN CONFERENCE ROOM 250
+
+Gorbachev sits alone, watching a VHS PLAYBACK of a Western
+news report on television. Grim.
+
+PETER JENNINGS (ON TV)
+The Soviet version is this: one of
+the atomic reactors at the Chernobyl
+Atomic Power Plant near the city of
+Kiev was damaged, and there is
+speculation in Moscow that people
+were injured and may have died.
+
+(MORE)
+251
+
+252
+
+45.
+PETER JENNINGS (ON TV) (cont'd)
+The Soviets may have been fairly
+quick to acknowledge the accident
+
+because evidence-- in the form of
+mild nuclear radiation--
+
+EXT. HIGHWAY - UKRAINIAN COUNTRYSIDE 251
+A motorcycle parked on the left shoulder of a WINDING
+HIGHWAY in the middle of nowhere. A young man is attempting
+to fix a thrown chain.
+His girlfriend stands waiting. Smoking.
+PETER JENNINGS (V.O.)
+--had already reached beyond the
+
+Soviet borders to Scandinavia.
+
+An EMPTY KIEV CITY BUS rounds the bend and ROARS past them,
+heading north down the highway.
+
+Then another. And another. And another.
+
+The girl nudges her boyfriend to get his attention. He
+rises, and they both watch in confusion as:
+
+Kiev city buses keep coming, one after the other...
+
+EXT. PRIPYAT STREET - DAY 252
+People walk outside. Push prams. Carry groceries.
+
+A MILITARY truck rumbles into view. There are LOUDSPEAKERS
+mounted to the truck. A PIERCING electronic SQUEAL.
+
+A female voice echoes out from the loudspeakers. A
+recording. Slow, deliberate, oddly calm.
+
+LOUDSPEAKER
+ATTENTION.
+
+And despite the eerie sedation of her voice, the people on
+the street immediately begin BACKING AWAY from the truck.
+Frightened. Whatever this is, it won't be good.
+
+LOUDSPEAKER
+ATTENTION.
+253
+
+46.
+
+EXT. PRIPYAT - VARIOUS - MONTAGE 253
+
+The LOUDSPEAKER TRUCKS are everywhere, crawling at a
+snail's pace through the city.
+
+LOUDSPEAKER
+ATTENTION.
+
+SOLDIERS begin moving in formation toward groups of people,
+who put their arms up, submissively moving backwards.
+
+LOUDSPEAKER
+ATTENTION.
+
+TITLE:
+
+2 P.M., APRIL 27
+36 HOURS AFTER THE EXPLOSION
+
+Soldiers are stopping cars. Gesturing for people to get
+out. Leave the cars... leave everything in the cars...
+
+LOUDSPEAKER
+FOR THE ATTENTION OF THE RESIDENTS
+OF PRIPYAT.
+
+Soldiers head into buildings. Fists POUND on doors.
+
+LOUDSPEAKER
+THE CITY COUNCIL INFORMS YOU THAT DUE
+TO THE ACCIDENT AT CHERNOBYL POWER
+STATION IN THE CITY OF PRIPYAT--
+
+The KIEV BUSES begin arriving. Soldiers clear people out of
+stores. Panicky parents grab their children from playgrounds.
+
+Teachers leads students out of school in single file lines.
+LOUDSPEAKER
+--THE RADIOACTIVE CONDITIONS IN THE
+VICINITY ARE DETERIORATING.
+
+In the HOSPITAL - soldiers move through the hallways. Usher
+patients out of bed. People are removing their own IV's...
+
+Soldiers push the incapacitated out in gurneys. Even they
+cannot stay.
+
+ZINCHENKO is treating MIKHAIL and OKSANA'S BABY, who is
+still shrieking in Mikhail's arms.
+47.
+
+LOUDSPEAKER
+THE COMMUNIST PARTY, ITS OFFICIALS,
+AND THE ARMED FORCES ARE TAKING
+NECESSARY STEPS TO COMBAT THIS.
+
+A soldier gestures for her to leave. She refuses. He grabs
+her. Another soldier takes the baby from Mikhail, who tries
+to stop them, but he has no strength. All he can do is cry.
+
+Zinchenko fights to get to the baby, but they DRAG her
+away.
+
+LOUDSPEAKER
+NEVERTHELESS, WITH THE VIEW TO KEEP
+PEOPLE AS SAFE AND HEALTHY AS
+POSSIBLE--
+
+ON THE STREETS - people are being lined up to board buses.
+Scared, but compliant. Like livestock.
+
+Nearby, a CRYING LITTLE GIRL. Alone. A soldier enters and
+casually LIFTS HER and takes her away. No one says a word.
+
+LOUDSPEAKER
+--THE CHILDREN BEING THE TOP
+PRIORITY, WE NEED TO TEMPORARILY
+EVACUATE THE CITIZENS IN THE NEAREST
+TOWNS OF KIEV OBLAST.
+
+People file into the streets, all under the watchful eye of
+soldiers. Some of them are barely dressed.
+
+LOUDSPEAKER
+FOR THESE REASONS, STARTING FROM
+APRIL 27, 1986, 2 P.M., EACH
+APARTMENT BLOCK WILL BE ABLE TO HAVE
+A BUS AT ITS DISPOSAL, SUPERVISED BY
+THE POLICE AND THE CITY OFFICIALS.
+
+Outside, ZHARKOV, the elderly Pripyat minister who gave the
+rousing speech in the Chernobyl command bunker, is helped
+toward a bus by a soldier.
+
+The old Soviet believer seems utterly confused. He doesn't
+understand... they were told it was safe...
+
+LOUDSPEAKER
+THE SENIOR EXECUTIVES OF PUBLIC AND
+INDUSTRIAL FACILITIES OF THE CITY
+HAVE DECIDED ON THE LIST OF
+EMPLOYEES NEEDED TO STAY IN PRIPYAT
+TO MAINTAIN THESE FACILITIES IN GOOD
+WORKING ORDER.
+48.
+
+At the buses, the soldiers start taking PETS away... adults
+and children CRYING as dogs, cats, rabbits, hamsters... all
+pulled from their arms.
+
+The people are going. The animals are staying.
+
+LOUDSPEAKER
+COMRADES LEAVING YOUR RESIDENCES
+TEMPORARILY, PLEASE MAKE SURE YOU
+HAVE TURNED OFF THE LIGHTS,
+ELECTRICAL EQUIPMENT AND WATER, AND
+SHUT THE WINDOWS.
+
+NEAR THE HOSPITAL - Hundreds of patients on gurneys. Even
+more stumbling around in hospital gowns. Soldiers trying to
+get them into ambulances. Onto buses.
+
+ZINCHENKO leans over a RUBBISH BIN. Vomiting. She finishes,
+and stands back up weakly.
+
+Looks at her hand. It's oozing fluid through the bandage.
+Her other hand is bright red now. Blistering.
+
+The Pripyat Nurse rushes over and leads Zinchenko to an
+ambulance. She stumbles toward it. It doesn't matter now.
+She's dying.
+LOUDSPEAKER
+
+PLEASE REMAIN CALM AND ORDERLY IN
+
+THE PROCESS OF THIS SHORT TERM
+
+EVACUATION.
+The BUSES full of people begin to pull away... one after
+another in a line... abandoned PET DOGS run after the
+buses, trying to stay with their owners...
+
+ON THE ROOF OF THE POLISSYA HOTEL - Legasov and Shcherbina
+watch the evacuation in somber silence.
+
+From here, we can see the scope of it.
+
+The soldiers. The military vehicles. The abandoned cars.
+The dogs and cats. The circling helicopters.
+
+The Soviet flags. The propaganda billboards.
+
+And the endless convoy of buses as they drive away with the
+former citizens of Pripyat.
+
+This time, it's Shcherbina who can't look. This time, it's
+Shcherbina who turns and walks away.
+
+And the loudspeaker recording begins again.
+49.
+
+LOUDSPEAKER
+ATTENTION. ATTENTION. ATTENTION.
+
+254 EXT. EDGE OF PRIPYAT - NIGHT 254
+
+As the last of the buses rumbles past the military
+checkpoint, a small CAR comes driving up toward the town.
+
+Soldiers step out, hands raised. A few more ready their
+rifles. The car slows to a stop. ZUKAUSKAS, a soldier,
+moves toward the car.
+
+ZUKAUSKAS
+NO ENTRY. TURN AROUND.
+
+But instead, KHOMYUK rolls down her window. There are a
+dozen men with guns. She's terrified. But defiant.
+
+ZUKAUSKAS
+I said turn around. This is a
+restricted zone.
+
+KHOMYUK
+I'm from the Byelorusian Institute
+of Nuclear--
+
+SOUND: a HELICOPTER ZOOMS BY overhead. LOW. She flinches
+from the noise. The wind. This isn't where she belongs.
+
+ZUKAUSKAS
+Do you have permission?
+
+KHOMYUK
+Listen to me. I need to--
+
+ZUKAUSKAS
+Turn around right now, or I will
+arrest you.
+
+Only one option left. She gathers her courage.
+KHOMYUK
+If you arrest me, you should take me
+to the highest possible authority.
+
+Another HELICOPTER rockets by. The guards look at each
+other. What is this woman on about?
+255
+
+256
+
+50.
+
+EXT. POLISSYA HOTEL - NIGHT 255
+
+A Red Army UAZ-469 drives up to the hotel. There are lights
+on in the lower windows. All of the windows above the first
+storey are dark...
+
+INT. POLISSYA HOTEL - BANQUET ROOM - NIGHT 256
+
+The type of place where you might have a wedding. The fancy
+lights and carpet are a strange contrast to Legasov and
+Shcherbina, who sit at a banquet table, looking at a large
+MAP of the region.
+
+Legasov smokes as he talks. Shcherbina barely looks at the
+map. Seems lost in his thoughts.
+
+LEGASOV
+We have to start a radiological
+survey. Sector by sector. On foot--
+dosimeters in hand--
+
+Legasov realizes Shcherbina isn't listening.
+
+LEGASOV
+Are you all right?
+
+Shcherbina lifts his head. Forces a reassuring smile. Then:
+PIKALOV enters with KHOMYUK.
+
+PIKALOV
+I'm sorry to interrupt. The guards
+arrested this woman at the south
+checkpoint. I would have put her ina
+cell, but--
+
+KHOMYUK
+--but he thought you should know
+that I know.
+
+Before Legasov can even ask--
+
+KHOMYUK
+I know your reactor core is exposed.
+I know the graphite is on fire, the
+fuel is melting, and you're dropping
+sand and boron on it. Which you
+probably thought was smart. But
+you've made a mistake.
+
+(MORE)
+51.
+
+KHOMYUK (cont'd)
+
+(beat)
+Ulana Yuriyvna Khomyuk, chief
+physicist, Byelorusian Institute for
+Nuclear Energy. You're Valery
+Alexeyevich Legasov?
+
+He nods. A bit bewildered.
+
+KHOMYUK
+Smothering the core will put the
+fire out, but the temperature will
+eventually increase. It will melt
+down--
+
+He raises a hand to stop her.
+
+LEGASOV
+Believe me, I'm perfectly aware. But
+I estimate at least a month before
+it melts through the lower concrete
+pad, which gives us time to--
+
+KHOMYUK
+You don't have a month. You have
+approximately two days.
+
+Before Legasov can respond, she puts the BLUEPRINTS down on
+top of their map. Points to the bottom of the reactor.
+
+KHOMYUK
+Yes, the fuel would take a month to
+reach the concrete pad here, but
+first it's going to burn through the
+biological shield here by Tuesday.
+And when it does, it's going to hit
+these tanks. Bubbler pools. Reser--
+
+LEGASOV
+Reservoirs for the ECS. I understand
+your concern, but I confirmed it
+with plant personnel-- the tanks are
+nearly empty.
+
+KHOMYUK
+No. They were nearly empty.
+
+That gets Legasov's attention. He leans in, concerned, as
+she points to the blueprints again.
+
+KHOMYUK
+Each of these points, here, here,
+here in the reactor hall... all
+
+drain to the bubbler pools.
+257
+
+258
+
+52.
+
+Legasov leans back. Beginning to understand.
+
+KHOMYUK
+I'm guessing every pipe in the
+building ruptured. And then there
+are those fire engines I saw on the
+way in.
+
+Pikalov turns to Legasov.
+
+PIKALOV
+The fire hoses are still connected.
+They've been gushing water into the
+structure this whole time.
+
+LEGASOV
+(horrified)
+The tanks are full...
+
+Shcherbina is utterly confused, but he can see from
+Legasov's face-- something has gone terribly wrong.
+
+INT./EXT. NEWS REPORTS - VARIOUS 257
+
+The ugly globe-and-red-star logo of the Soviet nightly news
+program VREMYA ("time") gives way to an oddly-framed
+newsdesk in front of a large blue screen.
+
+A female newsreader calmly reads a 14-second report. This
+is footage of the actual newscast made on April 28th, 1986.
+
+Translation only is SUBTITLED over the footage.
+
+VREMYA NEWS ANCHOR
+An official announcement from the
+Council of Ministers. There has been
+an accident at the Chernobyl atomic
+power station. One of the atomic
+reactors was damaged. Steps are
+being taken to deal with the
+situation, and aid is being given to
+those affected. The government has
+formed a commission of inquiry.
+
+INT. KREMLIN CONFERENCE ROOM - NIGHT 258
+
+The commission is assembled, waiting, including Legasov,
+Shcherbina and Khomyuk, who sits with them.
+
+Gorbachev enters. Weary. Visibly stressed. Everyone rises
+and sits back down quickly as he takes his seat.
+53.
+
+GORBACHEV
+I have ten minutes. Then I'm back on
+the phone. Apologizing to our
+friends. Apologizing to our enemies.
+
+He glares at Legasov and Shcherbina.
+
+GORBACHEV
+Our power comes from the perception
+of our power. Do you understand the
+damage this has done? Do you
+understand what's at stake?
+(beat)
+Boris.
+
+SHCHERBINA
+Professor Legasov will deliver our
+briefing.
+
+Gorbachev leans back. This isn't the stubborn, bull-headed
+Shcherbina he knows. This man seems sullen, defeated...
+
+Legasov stands up, eager to draw attention from Shcherbina.
+
+LEGASOV
+We do have-- some-- good news. The
+air drops are working to douse the
+fire. There has been a reduction in
+radionuclide emissions, but the fire
+will not be extinguished for at
+least another two weeks.
+
+Gorbachev hangs his head. Two weeks.
+
+LEGASOV
+There is also-- an additional
+problem.
+
+Gorbachev slowly raises his eyes. There's more?
+
+Legasov opens a document binder in front of him. Everyone
+in the room has the same one in front of them. As Legasov
+turns pages, so do they, en masse.
+
+The first page is a CROSS SECTION of the REACTOR.
+
+LEGASOV
+Nuclear fuel doesn't turn cold simply
+because it's not on fire. In fact,
+the temperature will likely rise as a
+result of the blanket of sand we've
+dropped.
+
+(MORE)
+54.
+
+LEGASOV (cont'd)
+The uranium will begin to melt the
+sand around it, creating a kind of--
+lava-- which will begin to melt down
+through the shield below.
+
+GORBACHEV
+You've made... lava.
+
+LEGASOV
+
+(clears his throat)
+I had anticipated this. I believed
+we had time to reinforce this lower
+concrete pad before the lava reached
+the earth and contaminated the
+groundwater. But as it turns out, I
+was worried about the wrong thing.
+
+Legasov turns the page. We now see a closer section of the
+blueprint, focusing on the core and the pools underneath.
+
+LEGASOV
+
+It was my understanding the large
+water tanks under the reactor were
+essentially empty.
+
+(gestures to)
+This is Ulana Khomyuk of the
+Byelorusian Institute. Thanks to her
+insight, we are now aware that the
+tanks are, in fact, full.
+
+GORBACHEV
+(impatient)
+Of water. What exactly is the
+problem here, Legasov?
+
+Legasov nods to Khomyuk who rises. He sits down.
+
+KHOMYUK
+(the blueprint page)
+When the lava enters these tanks, it
+will instantly superheat and
+vaporize approximately 7000 cubic
+meters of water, causing a
+significant thermal explosion.
+
+The word "explosion" sits there for a moment. Then:
+
+GORBACHEV
+How significant?
+
+A beat. Then:
+55.
+
+KHOMYUK
+We estimate between two and four
+megatons.
+
+The men in the room react. My god.
+
+Khomyuk flips to the next page. The room flips along with
+her. The snap of papers moving.
+
+This is a map of the Pripyat/Chernobyl region. She makes a
+CIRCLING gesture on the page with her finger.
+
+KHOMYUK
+Everything within a 30 kilometer
+radius will be completely destroyed,
+including the other three nuclear
+reactors at Chernobyl. The entirety
+of radioactive material in all of the
+cores will be ejected at force, and
+dispersed by a massive shockwave--
+
+She flips to the next page, and the room follows in turn. A
+larger map. Byelorusia and Ukraine.
+
+KHOMYUK
+--which will extend approximately
+200 kilometers and likely be fatal
+to the entire population of Kiev as
+well as a portion of Minsk.
+
+Gorbachev lowers his head to his hand. Can't look. Doesn't
+want to hear any more.
+
+Khomyuk flips to the next page. The room follows. A map of
+Europe and Asia.
+
+KHOMYUK
+The release of radiation will be
+severe, and will impact all of
+Soviet Ukraine, Latvia, Lithuania
+and Byelorusia, as well as Poland,
+Czechoslovakia, Romania, Hungary,
+and most of East Germany.
+
+She sits down. Report concluded. Gorbachev takes a moment
+to absorb this, then:
+
+GORBACHEV
+What do you mean "impact"?
+56.
+
+LEGASOV
+For much of the area, a nearly permanent
+disruption of water and food supplies,
+and a steep increase in the rates of
+cancer and birth defects. I don't know
+how many will die, but-- many.
+
+He hesitates, then:
+
+LEGASOV
+For Byelorusia and Ukraine, "impact"
+means completely uninhabitable. For
+a minimum of one hundred years.
+
+The men in the room are staggered.
+
+GORBACHEV
+There are fifty million people in
+Byelorusia and Ukraine alone.
+
+LEGASOV
+Sixty. Yes.
+
+GORBACHEV
+How long before this happens?
+
+LEGASOV
+Approximately 48 to 72 hours.
+
+Khomyuk watches their panic rise. Good. Panic is
+appropriate.
+
+LEGASOV
+But-- we believe we have a solution.
+
+Legasov flips to the next page. A larger schematic of the
+power plant. The room flips along.
+
+LEGASOV
+
+We can pump the water from the
+tanks. Unfortunately, they're sealed
+off by a sluice gate, and the gate
+can only be opened manually from
+within the duct system itself. We
+need to find three plant workers who
+know the facility well enough to
+enter the basement here, find their
+way through all these ductways, get
+to the sluice gate valve here, and
+give us the access we need to pump
+out the tanks.
+
+(beat)
+Of course we'll need your permission.
+259
+
+57.
+
+GORBACHEV
+Permission for what?
+
+LEGASOV
+The water in these ducts-- the level
+of radioactive contamination--
+
+KHOMYUK
+(just say it)
+They'll likely be dead in a week.
+LEGASOV
+We're asking your permission to kill
+three men.
+
+Gorbachev considers that. Turns to a GENERAL. Some kind of
+silent communication between the two of them. Then:
+
+GORBACHEV
+
+Comrade Legasov. All victories
+
+inevitably come at a cost. Sometimes
+
+we count this cost in rubles.
+
+(beat)
+
+Sometimes we count it in lives.
+EXT. PRIPYAT - VARIOUS - MORNING 259
+We SILENTLY DRIFT through the empty city...
+
+INSIDE CLASSROOMS - the desks are in an orderly grid.
+Soviet propaganda on the wall. Lessons on the chalkboard.
+
+OUTSIDE - tired, faded clothes hang from a drying line.
+IN THE HOSPITAL - the wide, empty corridor. And now
+different views. Equipment, beds, files... all scattered
+about. A steady DRIP from a cracked IV bottle.
+
+A BENCH ON THE STREET - a simple carving in the soft wood.
+A worn pencil.
+
+IN AN APARTMENT - a pair of old shoes next to an unmade bed.
+A RESTAURANT - food still on tables, right where it was left.
+THE FERRIS WHEEL - creaks gently in the breeze.
+
+We PAN SLOWLY across the desolate ghost city until we land
+on: the POLISSYA HOTEL.
+260
+
+58.
+
+INT. HOTEL BANQUET ROOM - MORNING 260
+
+Shcherbina sits behind a table. Legasov stands next to him,
+pointing at the same facility schematic we just saw.
+
+LEGASOV
+--and open the sluice gate valve
+here.
+
+Legasov turns away from the schematic to face: THE MEN -
+about thirty of them in civilian clothes, sitting on fancy
+banquet chairs, and staring back at him. Grim.
+
+LEGASOV
+There are multiple valves, so we'll
+need two to three men who know the
+basement layout-- and of course any
+volunteers will be rewarded. A
+yearly stipend of 400 rubles...
+
+The men stare back at him. Unmoved. Legasov tries again.
+
+LEGASOV
+And for those of you working in
+reactors 1 and 2, promotions--
+
+PLANT EMPLOYEE
+Why are reactors 1 and 2 still
+operating at all?
+
+Murmurs of agreement.
+
+PLANT EMPLOYEE
+My friend was a security guard that
+night. Her father tells me she's
+dying. And we've all heard about the
+firemen. Now you want us to swim
+underneath a burning reactor? Do you
+even know how contaminated it is?
+
+LEGASOV
+I don't have an exact number...
+
+PLANT EMPLOYEE
+You don't need an exact number to know
+if it will kill us. But you won't even
+tell us that. So why should we do this?
+For what? 400 rubles?
+
+SHCHERBINA
+You'll do it because it must be done.
+261
+
+59.
+
+Shcherbina slowly rises. Fixes his gaze on the men. His old
+gaze. His old anger and determination. The Ukrainian bull.
+
+SHCHERBINA
+You'll do it because no one else can,
+and if you don't, millions will die.
+And if you tell me that's not enough,
+I won't believe you.
+
+The Plant Employee sits down. The others listen carefully
+now, like they're finally hearing their native tongue.
+
+SHCHERBINA
+
+This is what has always set our people
+apart. A thousand years of sacrifice
+in our veins. And every generation
+must know its own suffering. I spit on
+the men who did this. And I curse the
+price I have to pay. But I am making
+my peace with it. You make yours. And
+go into the water.
+
+(beat)
+Because it must be done.
+
+Silence. Then... a MAN in the back rises. 30-years old.
+
+ANANENKO
+Ananenko.
+
+A moment, then ANOTHER MAN rises. 40.
+
+BEZPALOV
+Bezpalov.
+
+Then a THIRD MAN rises. 50.
+
+BARANOV
+Baranov.
+
+Three men. Ready to die for what must be done.
+
+Everyone looks at them like they're heroes. Because they
+
+already are.
+
+EXT. CHERNOBYL - NEAR ADMINISTRATION BUILDING - DAY 261
+
+Pikalov's troops, in full hazard gear, stand by a
+MAINTENANCE DOOR.
+
+They silently turn, faceless behind their masks, to:
+262
+
+60.
+
+THE THREE MEN: Ananenko, Bezpalov and Baranov-- each
+dressed in HEAVY DIVING WET SUITS. Soldiers strap
+DOSIMETERS to the men... one on the chest, one on an ankle.
+
+Pikalov's men prepare the divers, like priests anointing
+sacrifices. Tightening gloves. Fastening boots.
+
+Then they cover the three men's heads with RESPIRATOR
+MASKS. Ananenko, Bezpalov and Baranov are now FACELESS.
+
+Ananenko and Bezpalov are given TORCHES and WRENCHES to
+hold. Baranov is given a DOSIMETER on the end of a
+TELESCOPING ROD.
+
+It's time. A soldier TAPS on the maintenance door. Ready?
+The three divers look at each other. Then nod. Ready.
+
+A RISE - ONE HUNDRED METERS AWAY - where Pikalov,
+Shcherbina and Legasov are watching.
+
+Pikalov's men OPEN THE DOOR. The three divers ENTER.
+
+INT. DUCTWAY ENTRANCE - SAME 262
+
+The silhouettes of the three men are stark against the
+WHITE RECTANGLE OF LIGHT in the opening.
+
+They step into the darkness... and the DOOR SEALS BEHIND
+THEM with a low, echoey BOOM.
+
+They're sealed in now.
+
+Pitch black. Then: a FLICKER of SPARKS floats down from
+above, giving us a GLIMPSE of:
+
+A METAL STAIRWAY DOWN INTO THE DEPTHS. Another flicker.
+It's steep. Narrow. The layers of rustproofing are the
+color of dried blood.
+
+Then: LIGHT. Two torch beams cut through the air,
+relflecting in the swirling particles of smoke and dust.
+
+THE THREE - stand at the top of the steps. The light
+catches enough of the bottom for them to see:
+
+REFLECTIVE WATER AT THE BOTTOM - dark and deathly still.
+
+Baranov holds out the dosimeter. Points it down the stairs.
+The needle WOBBLES to the right.
+
+No choice. It's the only way.
+263
+
+264
+
+61.
+
+They head down the stairs.
+
+INT. THE DUCTS - MOMENTS LATER 263
+LIGHT - ripples on the surface of WATER.
+
+THE THREE - move through the duct. The water comes up to
+their ANKLES here.
+
+THE PASSAGEWAY - tight. Low. A claustrophic maze of PIPES
+and ELECTRICAL CABLING. They duck their heads to go by.
+
+No sound but their BREATH... and the occasional GROANING of
+the building above them...
+
+Ananenko and Bezpalov shine their torches on the seemingly
+hundreds of interweaving pipes running along the sides of
+the wall and the ceiling.
+
+There's tiny writing on some of them. Ananenko points to a
+pipe. "This one." Bezpalov nods. Yes. Follow it.
+
+INT. DEEPER DOWN - MOMENTS LATER 264
+
+Light bobs in the darkness as they round a bend, coming
+toward us. The water is deeper now. Up to their SHINS.
+
+As they pass an opening to a SIDE-TUNNEL, Baranov points
+his dosimeter at it. The needle ROCKS HARD to the right.
+
+Silently, he pushes the other two from behind. Move faster.
+Keep going.
+
+They follow the duct... torch lights shining on the PIPES
+lining the sides... another turn... they're going DOWN
+now... the water seems darker here... and it's RISING.
+Ananenko shines his torch toward the sound, and they see:
+
+WATER - SEEPING IN from cracks in the tunnel wall. It's
+rising all around them now. Coming up to their KNEES.
+
+Move faster. Keep going.
+
+Their breathing gets heavier as they slosh through the
+rising water. Ahead, an intersection. Three tunnels.
+
+The pipes are bending and crossing over each other. The men
+stop. Can't find the one they need.
+
+Which way?
+62.
+Baranov moves the dosimeter toward the WATER spilling in.
+The needle rises. The more water... the higher it goes...
+He turns back to Ananenko and Bezpalov-- and sees them both
+MOVING THEIR LIGHTS over the three possible paths to take,
+trying to make sense of the maze of pipes...
+THE WATER RISES
+THE DOSIMETER RISES
+And then...
+ANANENKO'S TORCH GOES DEAD.
+They stop. Turn to him. He HITS IT. But it's dead. Fried.
+Then:
+
+BEZPALOV'S TORCH FLICKERS.
+
+The three men stare at it. We can only see their eyes
+through the goggles of their masks. That's enough.
+
+Terror.
+
+Please. No.
+
+Their only remaining torch FLICKERS again.
+
+Bezpalov hits it. The light comes back on.
+
+And then it goes OUT.
+
+And we see nothing now.
+
+No walls. No floor.
+
+No direction.
+
+Just the sound of three men lost in the rising water--
+
+--and their BREATHING... growing FASTER and LOUDER until
+it's too much to bear, and:
+
+BLACK
+
+END OF EPISODE TWO
+

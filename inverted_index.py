@@ -25,36 +25,6 @@ class Appearance:
         return str(self.__dict__)
 
 
-class Database:
-    """
-    In memory database representing the already indexed documents.
-    """
-
-    def __init__(self):
-        self.db = dict()
-
-    def __repr__(self):
-        """
-        String representation of the Database object
-        """
-        return str(self.__dict__)
-
-    def get(self, id):
-        return self.db.get(id, None)
-
-    def add(self, document):
-        """
-        Adds a document to the DB.
-        """
-        return self.db.update({document['id']: document})
-
-    def remove(self, document):
-        """
-        Removes document from DB.
-        """
-        return self.db.pop(document['id'], None)
-
-
 def from_doc_to_terms(doc):
     """
     Takes a doc (giant string) and gets the terms
@@ -64,14 +34,24 @@ def from_doc_to_terms(doc):
     return tokens
 
 
+def combine_indices(index1, index2):
+    new_index = InvertedIndex(preprocess=False)
+    new_index.index = index1.index
+    for key in index2.index.keys():
+        if key in new_index.index:
+            new_index.index[key].append(index2.index[key])
+        else:
+            new_index.index[key] = index2.index[key]
+    return new_index
+
+
 class InvertedIndex:
     """
     Inverted Index class.
     """
 
-    def __init__(self, db, preprocess=False):
+    def __init__(self, preprocess=False):
         self.index = dict()
-        self.db = db
         self.preprocess = preprocess
 
     def __repr__(self):
@@ -105,8 +85,6 @@ class InvertedIndex:
         else self.index[key] + [appearance]
                        for (key, appearance) in appearances_dict.items()}
         self.index.update(update_dict)
-        # Add the document into the database
-        self.db.add(document)
         return document
 
     def lookup_query(self, query):

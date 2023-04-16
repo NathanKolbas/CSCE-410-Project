@@ -2,7 +2,7 @@ import argparse
 import os
 
 from directory_search import get_movie_list
-from inverted_index import Database, InvertedIndex
+from inverted_index import InvertedIndex
 
 
 # Setup commandline args
@@ -65,11 +65,9 @@ if __name__ == '__main__':
     print(movie_paths_full)
 
     for path in movie_paths:
-        db = Database()
-        index = InvertedIndex(db, False)
+        index = InvertedIndex(preprocess=False)
         document = load_document(path)
         index.index_document(document)
-        print(index.db)
         print(index.index)
 
 
