@@ -63,6 +63,7 @@ def main():
                 os.remove(index_file)
 
         print('Done cleaning!')
+        return
 
     if args.index:
         # Load the config
@@ -81,7 +82,7 @@ def main():
             print(f'Searching directory (to change use chdir=DIR): ./{search_sub_dir}')
             search_term = input("Enter term(s) to search: ")
 
-            if 'exit' == search_term:
+            if '-exit' == search_term:
                 print('Exiting...')
                 break
 
