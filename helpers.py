@@ -1,6 +1,5 @@
 import os
-
-from directory_search import get_movie_list
+import directory_search
 
 
 def get_file_size(path: str):
@@ -11,16 +10,16 @@ def get_file_modification_date(path: str):
     return os.path.getmtime(path)
 
 
-def file_changes(root_path: str, config):
+def file_changes(root_path: str, config, extension):
     """
     Finds all the files that have been changed since the last index built
     """
     # The relative path from the root
-    movie_paths = get_movie_list(root_path)
+    file_paths = directory_search.get_files_list(root_path, extension)
     # The full path to the movies
-    movie_paths_full = [os.path.join(root_path, p) for p in movie_paths]
+    file_paths_full = [os.path.join(root_path, p) for p in file_paths]
     # Combine since we need the absolute path to open the file but relative for tree and index
-    paths_tuple = zip(movie_paths_full, movie_paths)
+    paths_tuple = zip(file_paths_full, file_paths)
 
     # Setup for deleted
     # Remove the keys as we iterate. Anything leftover has been deleted

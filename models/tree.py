@@ -115,20 +115,24 @@ class Tree:
         return str(self.__dict__)
 
     @staticmethod
-    def build_tree(root_path: str):
+    def build_tree(root_path: str, extension='.txt'):
         tree = Tree()
 
         # First set up the root_node
         walk = os.walk(root_path)
         _, __, files = next(walk)
-        files = [file for file in files if file.endswith(".txt")]
+        files = [file for file in files if file.endswith(extension)
+                 and not file.endswith(InvertedIndex.extension)
+                 and not file.endswith(LictConfig.filename_extension)]
         root_node = Node(node_id='.', items=files)
         tree.node_dict['.'] = root_node
         tree.root_node = root_node
 
         for root, dirs, files in walk:
             path = Path(root)
-            files = [file for file in files if file.endswith(".txt")]
+            files = [file for file in files if file.endswith(extension)
+                     and not file.endswith(InvertedIndex.extension)
+                     and not file.endswith(LictConfig.filename_extension)]
             rel_path = path.relative_to(root_path)
             parent_id = str(rel_path.parent)
             parent_node = tree.node_dict[parent_id]
@@ -172,10 +176,10 @@ class Tree:
     def leaves(self):
         return [node for node in self.node_dict.values() if node.is_leaf()]
 
-    def build_index(self, root_path: str, config: LictConfig):
+    def build_index(self, root_path: str, config: LictConfig, extension):
         print('Checking for changes...')
         # Get all the files that have been changed/should be indexed
-        changes, deleted = file_changes(root_path, config)
+        changes, deleted = file_changes(root_path, config, extension)
 
         # Remove deleted indexes for deleted files
         if len(deleted) != 0:
