@@ -78,6 +78,14 @@ def main():
 
         search_sub_dir = ''
         show_file_content = False
+
+        # Load the index
+        index_path = os.path.join(root_path, search_sub_dir, Node.combined_indexes_full_filename)
+        index = inverted_index.InvertedIndex.open(index_path)
+        if index is None:
+            print('Index file not found...')
+            return
+
         while True:
             print(f'Searching directory (to change use chdir=DIR): ./{search_sub_dir}')
             search_term = input("Enter term(s) to search: ")
@@ -88,7 +96,15 @@ def main():
 
             if 'chdir=' in search_term:
                 search_term = search_term.replace('chdir=', '')
-                search_sub_dir = search_term
+                new_search_sub_dir = search_term
+
+                index_path = os.path.join(root_path, new_search_sub_dir, Node.combined_indexes_full_filename)
+                new_index = inverted_index.InvertedIndex.open(index_path)
+                if new_index is None:
+                    print('Index file not found...')
+                    continue
+                index = new_index
+                search_sub_dir = new_search_sub_dir
                 print(f'Changed search directory to: ./{search_sub_dir}')
                 continue
 
@@ -99,12 +115,6 @@ def main():
                     print('Enabled show file content')
                 else:
                     print('Disabled show file content')
-                continue
-
-            index_path = os.path.join(root_path, search_sub_dir, Node.combined_indexes_full_filename)
-            index = inverted_index.InvertedIndex.open(index_path)
-            if index is None:
-                print('Index file not found...')
                 continue
 
             result = index.lookup_query(search_term)
