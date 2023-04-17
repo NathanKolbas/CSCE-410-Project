@@ -1,12 +1,25 @@
 import glob
 import os
-import sys
-import datetime
-import pathlib
+
+from inverted_index import InvertedIndex
+import lict_data
+
+
+def get_files_list(root, extension):
+    paths = glob.glob(f'**/*{extension}', root_dir=root, recursive=True)
+    # Filter out directories
+    paths = [path for path in paths if not os.path.isdir(os.path.join(root, path))
+             and not path.endswith(InvertedIndex.extension)
+             and not path.endswith(lict_data.LictConfig.filename_extension)]
+    return paths
 
 
 def get_movie_list(root):
-    movies = glob.glob('**/*.txt', root_dir=root, recursive=True)
+    return get_files_list(root, '.txt')
+
+
+def get_index_files(root):
+    movies = glob.glob(f'**/*{InvertedIndex.extension}', root_dir=root, recursive=True)
     return movies
 
 
