@@ -40,7 +40,7 @@ def main():
 
     # The root path to start at
     root_path = args.dir if is_absolute_path else os.path.join(cwd, args.dir)
-    if not os.path.exists(root_path) or os.path.isdir(root_path):
+    if not os.path.exists(root_path) or not os.path.isdir(root_path):
         print(f'Directory not found or path is not a directory: {root_path}')
         return
     print(f'Root DIR is: {root_path}')
