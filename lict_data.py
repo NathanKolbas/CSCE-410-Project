@@ -11,13 +11,15 @@ class LictConfig:
 
     filename = 'index.config'
 
-    def __init__(self, index_changes_dict=None):
+    def __init__(self, index_changes_dict=None, *args, **kwargs):
         # Used to store information about the files that were built to track changes
         self.index_changes_dict: dict = {} if index_changes_dict is None else index_changes_dict
 
+        self.deleted = None
+
     def __repr__(self):
         """
-        String representation of the Appearance object
+        String representation of the LictConfig object
         """
         return str(self.__dict__)
 

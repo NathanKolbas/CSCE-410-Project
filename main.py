@@ -1,10 +1,9 @@
 import argparse
-import math
 import os
 
-from directory_search import get_movie_list, get_index_files
-from inverted_index import InvertedIndex
+from directory_search import get_index_files
 from lict_data import LictConfig
+from models.tree import Tree
 
 # Setup commandline args
 parser = argparse.ArgumentParser(
@@ -43,15 +42,6 @@ def load_documents():
     return docs
 
 
-def load_document(f_path, id):
-    with open(f_path, 'r', encoding="utf8", errors='ignore') as textfile:
-        data = textfile.read().replace('\n', ' ').strip()
-        return {
-            'id': id,
-            'text': data
-        }
-
-
 def main():
     print('------ STARTING ------')
     cwd = os.getcwd()
@@ -79,79 +69,35 @@ def main():
                 os.remove(index_file)
 
         print('Done cleaning!')
-        return
 
     if args.index:
         # Load the config
         print('Opening config...')
         config = LictConfig.open(root_path)
-
-        # The relative path from the root
-        movie_paths = get_movie_list(root_path)
-        # The full path to the movies
-        movie_paths_full = [os.path.join(root_path, p) for p in movie_paths]
-        # Combine since we need the absolute path to open the file but relative for tree and index
-        paths_tuple = zip(movie_paths_full, movie_paths)
-
-        # print(movie_paths)
-        # print(movie_paths_full)
-
-        # Check for file changes relative to the previously built index (if there is one)
-        print('Checking for changes...')
-        paths_to_index = []
-        for paths in paths_tuple:
-            f_path = paths[0]
-            file_id = paths[1]
-            should_index = config.should_index(f_path, file_id)
-            if should_index:
-                paths_to_index.append(paths)
-
-        # Build index for each file that has been changed
-        print('Building index...')
-        index = InvertedIndex()
-        j = 0
-        for i, paths in enumerate(paths_to_index):
-            index.reset()
-            j += 1
-            f_path = paths[0]
-            file_id = paths[1]
-            print(f'\r{math.ceil(i / len(paths_to_index))}% - building index for: {file_id}', end='', flush=True)
-
-            document = load_document(f_path, file_id)
-            index.index_document(document)
-            # print(index.index)
-            index.save(f_path)
-
-            config.indexed_file(f_path, file_id)
-            # TODO: Temp just to stop before going too far...
-            if j == 5:
-                break
-        print('\r100% - Index building complete!', end='', flush=True)
-
-        # Save the config for later runs
-        config.save(root_path)
-
-        # print('Hello World!')
-        # db = Database()
-        # index = InvertedIndex(db, False)
-        # documents = load_documents()
-        # for document in documents:
-        #     index.index_document(document)
-        #
-        # print(index.db)
-        # print(index.index)
-        #
-        # while True:
-        #     search_term = input("Enter term(s) to search: ")
-        #     result = index.lookup_query(search_term)
-        #
-        #     for term in result.keys():
-        #         for appearance in result[term]:
-        #             # Belgium: { doc_id: 1, frequency: 1}
-        #             document = db.get(appearance.doc_id)
-        #             print(highlight_term(appearance.doc_id, term, document['text']))
-        #         print("-----------------------------")
+        tree = Tree.build_tree(root_path)
+        tree.build_index(root_path, config)
         return
+
+    # print('Hello World!')
+    # db = Database()
+    # index = InvertedIndex(db, False)
+    # documents = load_documents()
+    # for document in documents:
+    #     index.index_document(document)
+    #
+    # print(index.db)
+    # print(index.index)
+    #
+    # while True:
+    #     search_term = input("Enter term(s) to search: ")
+    #     result = index.lookup_query(search_term)
+    #
+    #     for term in result.keys():
+    #         for appearance in result[term]:
+    #             # Belgium: { doc_id: 1, frequency: 1}
+    #             document = db.get(appearance.doc_id)
+    #             print(highlight_term(appearance.doc_id, term, document['text']))
+    #         print("-----------------------------")
 
 
 if __name__ == '__main__':

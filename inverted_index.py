@@ -1,6 +1,5 @@
 import json
 import os
-from types import SimpleNamespace
 
 import nltk
 from nltk.corpus import stopwords
@@ -42,7 +41,7 @@ def combine_indices(index1, index2):
     new_index.index = index1.index
     for key in index2.index.keys():
         if key in new_index.index:
-            new_index.index[key].append(index2.index[key])
+            new_index.index[key] += index2.index[key]
         else:
             new_index.index[key] = index2.index[key]
     return new_index
@@ -55,8 +54,8 @@ class InvertedIndex:
 
     extension = '.index'
 
-    def __init__(self):
-        self.index = dict()
+    def __init__(self, index=None):
+        self.index = dict() if index is None else index
 
     def __repr__(self):
         """
@@ -89,21 +88,30 @@ class InvertedIndex:
         """
         return {term: self.index[term] for term in from_doc_to_terms(query) if term in self.index}
 
+    def combine(self, other_index):
+        for key in other_index.index.keys():
+            if key in self.index:
+                self.index[key] += other_index.index[key]
+            else:
+                self.index[key] = other_index.index[key]
+
     @staticmethod
     def open(file: str):
         """
         Opens the stored Index and returns the object if it exists. Otherwise, None.
         """
-        if not os.path.exists(file):
+        index_file = f'{file}{InvertedIndex.extension}'
+        if not os.path.exists(index_file):
             return None
 
-        with open(file, 'r', encoding="utf8", errors='ignore') as textfile:
+        with open(index_file, 'r', encoding="utf8", errors='ignore') as textfile:
             data = textfile.read()
             return InvertedIndex.from_json(data)
 
     @staticmethod
     def from_json(data: str):
-        return json.loads(data, object_hook=lambda d: SimpleNamespace(**d))
+        json_dict = json.loads(data)
+        return InvertedIndex(**json_dict)
 
     def to_json_str(self) -> str:
         return json.dumps(self, default=lambda o: o.__dict__)
