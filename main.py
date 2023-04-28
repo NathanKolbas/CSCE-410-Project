@@ -1,10 +1,16 @@
 import argparse
 import os
+import shutil
+import time
+from pathlib import Path
+from tabulate import tabulate
+
 import inverted_index
 
 from directory_search import get_index_files
 from lict_data import LictConfig
 from models.tree import Tree, Node
+from old_approach import build_index, search_index
 
 # Setup commandline args
 parser = argparse.ArgumentParser(
@@ -23,6 +29,8 @@ parser.add_argument('-e', '--extension', default='.txt', type=str)
 parser.add_argument('-c', '--clean', default=False, type=bool)
 # Begin search
 parser.add_argument('-s', '--search', default=True, type=bool)
+# Begin comparison
+parser.add_argument('-compare', '--compare', default=False, type=bool)
 
 # The commandline args
 args = parser.parse_args()
@@ -36,6 +44,244 @@ def highlight_term(doc_id, term, text):
 def main():
     print('------ STARTING ------')
     cwd = os.getcwd()
+
+    if args.compare:
+        print('------ BEGINNING COMPARISON ------')
+        compare_corpus_original = os.path.join(cwd, 'compare_corpus_original')
+        compare_corpus_old_approach = os.path.join(cwd, 'compare_corpus_old_approach')
+        compare_corpus_new_approach = os.path.join(cwd, 'compare_corpus_new_approach')
+
+        print('Cleaning the comparison directory')
+
+        def remove_test_dirs():
+            if os.path.exists(compare_corpus_old_approach):
+                shutil.rmtree(compare_corpus_old_approach)
+            if os.path.exists(compare_corpus_new_approach):
+                shutil.rmtree(compare_corpus_new_approach)
+
+        remove_test_dirs()
+        shutil.copytree(compare_corpus_original, compare_corpus_old_approach)
+        shutil.copytree(compare_corpus_original, compare_corpus_new_approach)
+
+        def folder_size(f_path):
+            root_directory = Path(f_path)
+            return sum(f.stat().st_size for f in root_directory.glob('**/*') if f.is_file())
+
+        compare_corpus_old_approach_init_size = folder_size(compare_corpus_old_approach)
+        compare_corpus_new_approach_init_size = folder_size(compare_corpus_new_approach)
+
+        # --------- BUILDING ---------
+        print('Comparing initial build times...')
+
+        print('Building index for old approach')
+
+        def build_index_old():
+            tic = time.perf_counter()  # Start Time
+            old_index, old_db = build_index(compare_corpus_old_approach)
+            toc = time.perf_counter()  # End Time
+            return toc - tic, old_index, old_db
+
+        index_build_time_old, old_index, old_db = build_index_old()
+
+        print('Building index for new approach')
+
+        def build_index_new():
+            tic = time.perf_counter()  # Start Time
+            config = LictConfig.open(compare_corpus_new_approach)
+            tree = Tree.build_tree(compare_corpus_new_approach, '.txt')
+            tree.build_index(compare_corpus_new_approach, config, '.txt')
+            toc = time.perf_counter()  # End Time
+            return toc - tic
+
+        index_build_time_new = build_index_new()
+
+        print('Rebuilding index for file deletion')
+
+        def get_file(f_path):
+            return os.path.join(f_path, 'small', 'test.txt')
+
+        def delete_file(f_path):
+            d_file = get_file(f_path)
+            if os.path.exists(d_file):
+                os.remove(d_file)
+
+        print('Rebuilding index for old approach')
+        delete_file(compare_corpus_old_approach)
+        index_build_time_old_delete, old_index, old_db = build_index_old()
+
+        print('Rebuilding index for new approach')
+        delete_file(compare_corpus_new_approach)
+        index_build_time_new_delete = build_index_new()
+
+        print('Rebuilding index for file modification')
+
+        def modify_file(f_path):
+            d_file = get_file(f_path)
+            with open(d_file, "wt") as f:
+                f.write('This is some modification text')
+
+        print('Rebuilding index for old approach')
+        modify_file(compare_corpus_old_approach)
+        index_build_time_old_modification, old_index, old_db = build_index_old()
+
+        print('Rebuilding index for new approach')
+        modify_file(compare_corpus_new_approach)
+        index_build_time_new_modification = build_index_new()
+
+        print('Rebuilding index for file creation')
+
+        def create_file(f_path):
+            d_file = os.path.join(f_path, 'NewFile.txt')
+            with open(d_file, "wt") as f:
+                f.write('This is some text for the new file')
+
+        print('Rebuilding index for old approach')
+        create_file(compare_corpus_old_approach)
+        index_build_time_old_creation, old_index, old_db = build_index_old()
+
+        print('Rebuilding index for new approach')
+        create_file(compare_corpus_new_approach)
+        index_build_time_new_creation = build_index_new()
+
+        # --------- STORAGE ---------
+        compare_corpus_old_approach_final_size = folder_size(compare_corpus_old_approach)
+        compare_corpus_new_approach_final_size = folder_size(compare_corpus_new_approach)
+
+        # --------- SEARCHING ---------
+        search_term = 'nice'
+        search_sub_dir = ''
+        print('Searching for old approach')
+        tic = time.perf_counter()  # Start Time
+
+        found = search_index(old_index, old_db, search_term)
+
+        toc = time.perf_counter()  # End Time
+        index_search_time_old = toc - tic
+
+        print('Searching for new approach')
+        # Ignoring the loading of the index file for an equal comparison
+        index_path = os.path.join(compare_corpus_new_approach, search_sub_dir, Node.combined_indexes_full_filename)
+        index = inverted_index.InvertedIndex.open(index_path)
+
+        tic = time.perf_counter()  # Start Time
+
+        index.lookup_query(search_term)
+
+        toc = time.perf_counter()  # End Time
+        index_search_time_new = toc - tic
+
+        search_sub_dir = 'small'
+        print('Searching for old approach in sub dir')
+        search_sub_dir_full = os.path.join(compare_corpus_old_approach, search_sub_dir)
+        tic = time.perf_counter()  # Start Time
+
+        found = [found for found in search_index(old_index, old_db, search_term) if found.find(search_sub_dir_full) != -1]
+
+        toc = time.perf_counter()  # End Time
+        index_search_time_old_subdir = toc - tic
+
+        print('Searching for new approach in sub dir')
+        # Ignoring the loading of the index file for an equal comparison
+        index_path = os.path.join(compare_corpus_new_approach, search_sub_dir, Node.combined_indexes_full_filename)
+        index = inverted_index.InvertedIndex.open(index_path)
+
+        tic = time.perf_counter()  # Start Time
+
+        index.lookup_query(search_term)
+
+        toc = time.perf_counter()  # End Time
+        index_search_time_new_subdir = toc - tic
+
+        # Building index
+        print('-------- Building index --------')
+        print(f"Old index build finished in {index_build_time_old:0.4f} seconds")
+        print(f"New index build finished in {index_build_time_new:0.4f} seconds")
+        print(f"Old index rebuild after delete finished in {index_build_time_old_delete:0.4f} seconds")
+        print(f"New index rebuild after delete finished in {index_build_time_new_delete:0.4f} seconds")
+        print(f"Old index rebuild after modification finished in {index_build_time_old_modification:0.4f} seconds")
+        print(f"New index rebuild after modification finished in {index_build_time_new_modification:0.4f} seconds")
+        print(f"Old index rebuild after addition finished in {index_build_time_old_creation:0.4f} seconds")
+        print(f"New index rebuild after addition finished in {index_build_time_new_creation:0.4f} seconds")
+
+        # Index storage usage
+        print('-------- Index storage usage --------')
+        print(f"The amount of storage used initially for old approach was {compare_corpus_old_approach_init_size} bytes")
+        print(f"The amount of storage used after building index for old approach was {compare_corpus_old_approach_final_size} bytes")
+        print(f"The amount of storage increase used by old approach was {(compare_corpus_old_approach_final_size / compare_corpus_old_approach_init_size):0.4f}x")
+        print(f"The amount of storage used initially for new approach was {compare_corpus_new_approach_init_size} bytes")
+        print(f"The amount of storage used after building index for new approach was {compare_corpus_new_approach_final_size} bytes")
+        print(f"The amount of storage increase used by new approach was {(compare_corpus_new_approach_final_size / compare_corpus_new_approach_init_size):0.4f}x")
+
+        # Index searching
+        print('-------- Index searching --------')
+        print(f"Old search index finished in {index_search_time_old:0.4f} seconds")
+        print(f"New search index finished in {index_search_time_new:0.4f} seconds")
+        print(f"Old search index subdir finished in {index_search_time_old_subdir:0.4f} seconds")
+        print(f"New search index subdir finished in {index_search_time_new_subdir:0.4f} seconds")
+
+        # Print tables
+        table = [
+            ['Category', 'Traditional Index', 'Lic-T', 'Description'],
+            [
+                'Index Build',
+                f'{index_build_time_old:0.4f} seconds',
+                f'{index_build_time_new:0.4f} seconds',
+                'The time it takes to build the initial index',
+            ],
+            [
+                'Index Rebuild Delete',
+                f'{index_build_time_old_delete:0.4f} seconds',
+                f'{index_build_time_new_delete:0.4f} seconds',
+                'The time it takes to rebuild the index after a file has been deleted',
+            ],
+            [
+                'Index Rebuild Modification',
+                f'{index_build_time_old_modification:0.4f} seconds',
+                f'{index_build_time_new_modification:0.4f} seconds',
+                'The time it takes to rebuild the index after a file has been modified',
+            ],
+            [
+                'Index Rebuild New',
+                f'{index_build_time_old_creation:0.4f} seconds',
+                f'{index_build_time_new_creation:0.4f} seconds',
+                'The time it takes to rebuild the index after a new file has been added',
+            ],
+            [
+                'Storage Initially',
+                f'{compare_corpus_old_approach_init_size:0.4f} bytes',
+                f'{compare_corpus_new_approach_init_size:0.4f} bytes',
+                'The amount of storage used initially by the directory being indexed (should be the same)',
+            ],
+            [
+                'Storage After Build',
+                f'{compare_corpus_old_approach_final_size:0.4f} bytes',
+                f'{compare_corpus_new_approach_final_size:0.4f} bytes',
+                'The amount of storage used by the directory being indexed after indexed',
+            ],
+            [
+                'Storage Increase',
+                f'{(compare_corpus_old_approach_final_size / compare_corpus_old_approach_init_size):0.4f}x',
+                f'{(compare_corpus_new_approach_final_size / compare_corpus_new_approach_init_size):0.4f}x',
+                'The multiple of the initial storage to the new storage usage',
+            ],
+            [
+                'Full Search',
+                f'{index_search_time_old:0.4f} seconds',
+                f'{index_search_time_new:0.4f} seconds',
+                'The amount of time it takes to search the whole index',
+            ],
+            [
+                'Subdir Search',
+                f'{index_search_time_old_subdir:0.4f} seconds',
+                f'{index_search_time_new_subdir:0.4f} seconds',
+                'The amount of time it takes to search only a certain sub folder',
+            ],
+        ]
+        print(tabulate(table, headers='firstrow', tablefmt='fancy_grid'))
+
+        remove_test_dirs()
+        return
+
     is_absolute_path = os.path.isabs(args.dir)
 
     # The root path to start at
