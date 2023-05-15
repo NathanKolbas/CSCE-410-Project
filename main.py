@@ -14,7 +14,7 @@ from old_approach import build_index, search_index
 
 # Setup commandline args
 parser = argparse.ArgumentParser(
-    prog='TODO Change Later: Some kind of special index',
+    prog='Lic-T (Linear Index Creator Tree)',
     description='Build an index for all files in a directory',
     epilog=' - A Team of Softies',
 )
