@@ -44,10 +44,18 @@ def highlight_term(doc_id, term, text):
 def main():
     print('------ STARTING ------')
     cwd = os.getcwd()
+    is_absolute_path = os.path.isabs(args.dir)
 
     if args.compare:
+        root_path = args.dir if is_absolute_path else os.path.join(cwd, args.dir)
+        if not os.path.exists(root_path) or not os.path.isdir(root_path):
+            root_path = 'compare_corpus_original'
+        else:
+            root_path = os.path.relpath(root_path, cwd)
+
+        print(f'Root DIR is: {root_path}')
         print('------ BEGINNING COMPARISON ------')
-        compare_corpus_original = os.path.join(cwd, 'compare_corpus_original')
+        compare_corpus_original = os.path.join(cwd, root_path)
         compare_corpus_old_approach = os.path.join(cwd, 'compare_corpus_old_approach')
         compare_corpus_new_approach = os.path.join(cwd, 'compare_corpus_new_approach')
 
@@ -281,8 +289,6 @@ def main():
 
         remove_test_dirs()
         return
-
-    is_absolute_path = os.path.isabs(args.dir)
 
     # The root path to start at
     root_path = args.dir if is_absolute_path else os.path.join(cwd, args.dir)
